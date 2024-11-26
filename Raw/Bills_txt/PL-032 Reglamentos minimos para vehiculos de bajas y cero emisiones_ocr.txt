@@ -1,0 +1,208 @@
+Señor Presidente SENADO DE LA REPÚBLICA e LIZ 22 - REF.
+¡Presentación PROYECTO DE LEY POR MEDIO DEL CUAL SE REGLAMENTAN LOS REQUISITOS MÍNIMOS, TÉCNICOS Y DE SEGURIDAD PARA LOS VEHÍCULOS DE CERO O BAJAS EMISIONES Y SE DICTAN OTRAS DISPOSICIONES: Conforme con lo previsto en los artículos 139, 140 y se de la Ley 5 de 1992, presentamos a consideración del Congreso de la República el Proyecto de Ley por medio del Cuá!
+Se reglamentan los requisitos mínimos, técnicos y de seguridad para los vehículos de cero o bajas emisiones y se dictan: otras disposiciones Por tal motivo, se anexa el original, dos copias, formato digital Word sin firmas.
+Atentamente, A FABIÁN DÍAZ PLATA Senador de la República PROYECTO DE LEY DE 2022 SENADO POR MEDIO DEL CUAL SE REGLAMENTAN LOS REQUISITOS MÍNIMOS, TÉCNICOS Y DE SEGURIDAD PARA LOS VEHÍCULOS DE CERO O BAJAS EMISIONES Y SE DICTAN OTRAS DISPOSICIONES.
+EL CONGRESO DE COLOMBIA DECRETA: ARTÍCULO 1.
+OBJETO.
+El objeto del presente proyecto de ley busca establecer los requisitos mínimos técnicos, constructivos y de seguridad para los vehículos de cero o bajas emisiones, y se establecen otras disposiciones.
+ARTÍCULO 2.
+DEFINICIONES.
+Para los efectos de esta ley se tendrán en cuenta las siguientes definiciones: a.
+Vehículo de cero o baja emisión: Es un vehículo que no emite sustancias contaminantes a través del tubo de escape generadas por la fuente de propulsión a bordo del vehículo.
+Para el presente proyecto de ley denominarán vehículos de cero o bajas emisiones a todos los vehículos eléctricos, híbridos, híbridos recargables o de celda combustible.
+Vehículo Eléctrico: Es aquel vehículo motorizado con un motor eléctrico como único medio de propulsión.
+c. Vehículo Híbrido: Es aquel vehículo motorizado que combina para su propulsión como mínimo un motor eléctrico o un motor-generador eléctrico y un motor de combustión interna.
+d. Vehículo Híbrido Recargable: Es aquel vehículo motorizado impulsado por un grupo de motores, como mínimo un motor eléctrico o un motor- generador eléctrico y un motor de combustión interna, y que permite cargar de energía eléctrica las baterías desde una fuente externa.
+Vehículo Celda de Combustible: Es aquel vehículo eléctrico que usa una pila de combustible para generar energía eléctrica a partir del hidrógeno o un combustible de hidrocarburo y oxígeno.
+f. Seguridad Eléctrica: Todos los sistemas, dispositivos yo componentes que protegen a los ocupantes de un vehículo de descargas eléctricas y el derrame de electrolitos. E 9.
+Tensión de Funcionamiento: El valor eficaz más alto de la tensión.
+De un circuito eléctrico, especificado por el fabricante, que puede.
+Producirse entre. Dos elementos conductivos cualesquiera en condiciones dé.
+Circuito abierto o en condiciones normales.
+De funcionamiento.
+Si el circuito eléctrico está dividido por aislamiento galvánico, la tensión de funcionamiento se define respectivamente por cada circuito dividido; h. Alta-Tensión:-La clasificación de un componente o circuito eléctrico, - si su tensión de funcionamiento es mayor a 60 Y menor o igual a 1.500 Y corriente:continua o mayor a 30 Y menor o igual a.
+1.000 Y corriente alterna en valor eficaz res:.
+Sistema de Acumulación de Energía: Sistema que acumula energía para propulsar el vehículo y todos sus sistemas eléctricos;.
+Sistema de Acoplamiento de Carga: El circuito eléctrico utilizado para cargar el sistema de acumulación de energía desde una fuente de suministro de energía. Eléctrica exterior hasta la toma del vehículo eléctrico o vehículo híbrido recargable; k. Protección contra Descargas Eléctricas: Son todos aquellos sistemas, dispositivos y elementos para proteger al usuario y transeúntes del contacto directo e indirecto de partes conductoras de corriente eléctrica en condiciones normales de funcionamiento; Señal ética de Seguridad: Son todos aquellos elementos que previenen a los usuarios de zonas del vehículo energizadas con corriente eléctrica de alta tensión; m. Sistema Acústico de Alerta de Vehículo: un sistema para los vehículos definidos en las letras a, b, c, d y en anteriores, que suministra una señal acústica que alerta a los peatones y otros usuarios de la vía pública de la presencia del mismo cuando el vehículo circula a velocidades de 20 km o menores; n. CF 49 - 571: Regulaciones del Código Federal para la Homologación de Seguridad Vehicular, de los Estados Unidos de América; o.
+S.R.R.V.
+: Regulaciones de Seguridad para Vehículos de Carretera para la Certificación de Japón: p.
+K.M.V.S.S.
+: Regulaciones de Seguridad para Vehículos Motorizados de Corea. E.
+¡Pou, 000!
+ARTÍCULO- 3.
+ELEMENTOS Y SISTEMAS.
+Los elementos y sistemas que a continuación se indican, deberán cumplir las normas establecidas por el Code of Federal Regulations, de los Estados Unidos de América, o por las Directivas de Seguridad de la Comunidad Económica Europea, o por las Regulaciones de Seguridad definidas por Japón o Corea, que en cada caso se señalan:: 1.
+Sistema de Acumulación de Energía Recargable: Reglamento 100 CAPEÓN; 571.305 CF 49-571; S.R.R.V.
+Atacameña 101 y 111; o K.M.V.S.:S. Arte.
+2, 18-3, 91.
+Sistema de Acoplamiento de Carga: SE J1772 Society of Automotive Engineers Electric Vehicle and Plug-in Hybrid Electric Vehicle conductive charge -copular; LEC 62196 WW International Electrotechnical Commission Plugs, socket-outlets, vehicle connectors and vehicle inlets - conductivecharging of electric vehicles; Japan Electric Vehicle Standard-G 105-1993, Chaleco cargador rápido de corriente continua.
+Protección contra descargas eléctricas: Reglamento 100 CAPEÓN; 571.305 CF 49-571; S.R.R.V.
+Atacameña 101 y 111; o K.M.V.S.S.
+29, 18-3, 91.
+Señal ética de Seguridad: Reglamento 100. CEPEONU; 571.305 CF 49- 571; S.R.R.V.
+Atacameña 101 y 111; o K.M.V.S.S.
+2, 18-3, 91.
+Sistema Acústico de Alerta de Vehículo: 571.141 CF 49-571; Reglamento UE 5402014.
+Parágrafo 1.
+Las normas a las que se hace referencia en este artículo se mantendrán a disposición permanente del público en el sitio web del Ministerio de Comercio, Industria y Turismo.
+Parágrafo 2.
+Corresponde al Ministerio de Comercio, Industria y Turismo, ofrecer asesoría técnica e informativa a la comunidad en general de forma oportuna y eficiente cuando sea requerida.
+ARTÍCULO 4.
+OTROS ELEMENTOS.
+Será obligatorio para todos los vehículos a que se refiere el artículo 2 de la presente ley, estar provistos de los elementos definidos en las letras h, j, k y del mismo artículo.
+Para los vehículos definidos en las letras a y c del artículo 2 es obligatorio, además, el elemento definido en la letra ¡del mismo artículo!
+Los mismos vehículos deberán además contar con lo siguiente: 1. Cubierta exterior color naranja para los cables de los circuitos eléctricos de alta tensión que no estén situados en el interior de envolventes, según Reglamento 100. CEPEONU, 571.305 CF 49-571, S.R.R.V.
+Atacameña 101 y 111; o K.M.V.S.S.
+2, 18-3, 91.
+2 Etiqueta de Advertencia adosada en una zona visible al interior del compartimiento del motor yo en el habitáculo de pasajeros, de dimensiones 12045 milímetros de largo por .605 milímetros de ancho.
+El texto debe ser en letra helvética, color negro, fondo blanco y borde de la señal ética en color rojo, indicado a continuación: PRECAUCIONES EN VEHÍCULO LOS ELÉCTRICOS E HÍBRIDOS En caso de desperfecto, daño, u incendio que afecte a un vehículo eléctrico o vehículo hibrido: 1.
+Siempre consideré que la batería de alto voltaje, los subsistemas y componentes sé encuentran energizados y totalmente cargados, 2, La batería de alto voltaje, cables y componentes eleáticos expuestos presentan potenciales riesgos de choques eléctricos.
+Los vapores de la batería de alto voltaje ventilado río LI liberado son potencialmente tóxicos inflamables.
+Daño físico al vehículo o a la batería de alto voltaje puede liberar inmediatamente o retardadamente gases tóxicos yo inflamables, y fuego, 3. Informativo de Seguridad: disponer al interior del vehículo y al alcance del conductor de un Informativo consistente en una hoja plastificada o similar de larga duración, tamaño carta o formato A4, impresa por ambos lados, con la frase Informativo de Seguridad y con información sistematizada y de aprendizaje que incluya a lo menos: Descripción del Vehículo marca, modelo, año de fabricación, fotografía, señal ética, componentes: Sistema de Desactivación; Procedimiento de Desactivación Primario y Alternativo; Diagramas del Procedimiento de Desactivación; Diagramas Sistema de Alto Voltaje del Vehículo; Procedimiento de remolque o transporte del vehículo.
+4. La información contenida en la Etiqueta de Advertencia y en el Informativo de Seguridad deberá formar parte de las instrucciones de uso del vehículo, incorporada al manual de uso yo a las especificaciones técnicas que se entreguen junto. Con cada vehículo que se comercialice, o bien adjunta a dichos documentos.
+5. Una etiqueta de forma circular, de 83 mm de diámetro, impresa en un material resistente a las condiciones medioambientales, la que se adherirán la luneta trasera del vehículo en su superficie interna derecha respecto del observador, de modo que sea fácilmente visible desde el exterior del vehículo.
+La etiqueta contendrá la expresión Vehículo Eléctrico o Vehículo Híbrido según corresponda, más un ícono que lo identifique; la aludida frase debe ubicarse en la zona superior del círculo y el ícono debe estar centrado bajo esta.
+Las letras e Ícono serán de color blanco, pintados sobre un fondo verde Pantón 354 C, aplicando un material reflectante a la pintura de fondo, como se muestra en las figuras siguientes: A Km ARTÍCULO 5.
+ACREDITACIÓN.
+¿La acreditación de cumplimiento de las normas y requisitos establecidos en los artículos 3?
+De la presente ley, deberá ser efectuada por el Ministerio de Comercio, Industria y Turismo.
+Parágrafo.
+Para proceder a la homologación los fabricantes, armadores, importadores o sus representantes deberán proporcionar al Ministerio de Comercio, Industria y Turismo, los antecedentes técnicos y certificados que acrediten el cumplimiento de alguna de las normas establecidas en el artículo 3 y de los requisitos señalados en el artículo 4 del presente proyecto de ley.
+ARTÍCULO 6.
+REGLAMENTACIÓN.
+Le corresponde al Ministerio de Comercio, Industria y Turismo, y al Ministerio de Transporte en coordinación con la academia y el sector interesado, en un periodo no mayor a 2 años a partir de la vigencia de la presente ley, expedir el reglamento técnico aplicable a talleres, equipos y procesos de conversión a eléctrico para uso vehicular, y lo pertinente a la industria naciente automotriz de vehículos eléctricos. Parágrafo.
+El reglamento técnico a que se refiere este artículo no podrá ir en contraria de los mínimos dispuestos en cuanto a requisitos técnicos, constructivos y de seguridad establecidos en los artículos 3 y 4 de la presente ley.
+ARTÍCULO 7.PLACA AMBIENTAL, A partir de la puesta en vigencia de la presente ley todos los vehículos a que hace referencia el artículo 2 que se adquieran, ya sea nuevo o por la conversión de motor de combustión interna a eléctrico, deben realizar el cambio de la placa tradicional amarilla a una placa de color verde Pantón 354 C. Parágrafo 1.
+En un periodo máximo de e meses a partir de la puesta en vigencia de la presente ley el Ministerio de Transporte deberá reglamentar el trámite, las entidades encargadas y la forma en la que se expedirán estas nuevas placas de color verde Pantón 354 C. Parágrafo 2.
+Los vehículos eléctricos que al momento de la entrada en vigencia de la presente ley ya se encuentren circulando por el territorio nacional, tendrá un plazo máximo de 1 año, a partir de la expedición del reglamento de que trata el parágrafo anterior, para realizar el trámite ante las entidades correspondientes.
+ARTÍCULO 8.
+SANCIONES.
+En caso de no cumplir con la reglamentación definida en la presente ley, las autoridades impondrán las sanciones administrativas, penales o disciplinarias a que haya lugar, sin perjuicio de la responsabilidad que sea imputable por impactos o daños originados al medio ambiente, la salud humana, la integridad física y la vida de los habitantes.
+ARTÍCULO 9.
+VIGENCIAS.
+La presente ley rige a partir de su sanción y deroga todas aquellas normas que le resulten contrarias.
+Atentamente, A FABIÁN DÍAZ PLATA Senador de la República PROYECTO DE LEY DE 2022 SENADO POR MEDIO DEL CUAL SE REGLAMENTAN LOS REQUISITOS MÍNIMOS, TÉCNICOS Y DE SEGURIDAD PARA LOS VEHÍCULOS DE CERO O BAJAS EMISIONES Y SE DICTAN OTRAS DISPOSICIONES.
+l. OBJETO DEL PROYECTO El objeto del presente proyecto de ley busca establecer los requisitos mínimos técnicos, constructivos y de seguridad para los vehículos de cero o bajas emisiones, y se establecen otras disposiciones.
+¡JUSTIFICACIÓN DEL PROYECTO La calidad del aire es una de las principales preocupaciones a nivel mundial, debido a su gran impacto en la salud de los habitantes, el medio ambiente, los cultivos y el deterioro de la infraestructura!.
+Algunos de los contaminantes nocivos que se encuentran en el aire como el óxido de nitrógeno y el material particulado provienen principalmente de fuentes móviles como los vehículos operados mediante diésel, y según World Wildlife Fund WWF y la Organización de las Naciones Unidas ONU, aproximadamente una cuarta parte de las emisiones globales de CO₂ tienen su fuente en el transporte de bienes y personas, lo cual pone a la movilidad como uno de los principales desafíos en el tema ambiental y social.
+Según cifras de la Organización Mundial de la Salud, una de cada ocho muertes ocurridas a nivel mundial es ocasionada por la contaminación del aire, esto sumado a daños en cultivos por lluvia ácida y deterioro: a .ya infraestructura como edificios, puentes y estatuas.
+A nivel nacional, el Departamento Nacional de Planeación DNP estimó que, durante el año 2015, los efectos de este fenómeno estuvieron asociados a 4,2 millones de muertes y 67,8 millones de síntomas y enfermedades.
+el IDEA.
+Calidad del aire.
+Recuperado el 22012019.
+En línea HTTP:www.ideam.gov.cowebcontaminacion-ycalidad-ambientalcalidad-del-aireEn prima de seguros e indemnizaciones se pudo determinar un valor de 1,9 billones al año 2015, 3,9 billones en pérdida.
+Económica de ingresos y de productividad, y se estimó un aproximado de 12,3 billones en vidas perdidas.
+Adicionalmente, los costos ambientales asociados a la contaminación atmosférica durante los últimos años se incrementaron pasando de 1,1 del PIB de 2009 5,7 billones de pesos a 1,59 del PIB de 2014 12 billones de pesos y 1,93 del PIB en 2015 15.4 billones de pesos 2, lo cual pone en evidencia la necesidad de implementar estrategias contundentes que logren frenar y contrarrestar-. Los efectos de la contaminación en el aire.
+Para el caso de Europa, según datos de Ene, cerca de 400 mil personas fallecen prematuramente como consecuencia de la contaminación del aire, atribuida principalmente a los gases contaminantes de vehículos que trabajan con diésel, por lo.cuál, por medio del comunicado Una estrategia europea para la movilidad de bajas emisiones, el continente se compromete para mediados de siglo d reducir las emisiones de Gases de Efecto Invernadero del transporte, un 60 menos que en 1990 y contar con medidas.
+Firmemente dirigidas hacia el cero.
+Para contribuir a esta meta países como Francia, Alemania, Italia y Reino Unido han establecido, o están estableciendo, marcos legales nacionales para promover el uso de vehículos con menor impacto ambiental y consumo de energía, iniciativas locales como el establecimiento de zonas de bajas y muy bajas emisiones, encaminadas a aumentar el uso del autobús eléctrico.
+En el Reino Unido, el esquema de subsidio de calidad del aire se ejecuta junto con el Fondo de autobús verde, el Fondo de tecnología de autobús limpio, el Esquema de autobús de baja emisión de carbono, y la Invención de operadores de servicio de autobús BLOG.
+¿En el sur de Europa, España ha desarrollado dos esquemas similares, la Estrategia Integral para Soporte de Vehículos Eléctricos MOVELE y la Estrategia Integral-para Soporte de Vehículos de Energías Alternativas MOVER?.
+De igual forma el Gobierno de España, como parte del objetivo de descarbonizar la economía para el 2050 y su 2 IDEA.
+Calidad del aire.
+Recuperado el 22012019.
+En línea HTTP:www.ideam.gov.cowebcontaminacion-ycalidad-ambientalcalidad-del-aire 3 Zeus Proyecto 2016.
+Zeus.
+Bus Report An overview. Of electric buses in Europe.
+Recuperado el 23012019.
+En línea HTTP:Zeus.euuploadspublicationsdocumentszeeus-bus-report-internet.compromiso con el medio ambiente, ha planteado recientemente la propuesta de prohibir la venta de vehículos diésel y de gasolina en el 2040.
+Esta conciencia ambiental que viene tomando fuerza a nivel mundial se refleja en cierta medida en el disparo de la movilidad eléctrica en los últimos años, y con ella la venta de autos eléctricos Figura 1, la cual pasó de alcanzar 1 millón en 2015 y 2 millones en el 2016 a superar los 3 millones en el 2017, mientras los autobuses eléctricos llegaron a 370 mil.
+Figura 1.
+Stock global de autos eléctricos FIGURA 7 STOCK -GLOBAL DEBUTÓ DECIMOS Fundo chorote Herrar A OSCURA dio MV DRES Saco al este B.
+Es a CHINA E 2 EUROPA g 3 E embsiciohid DNS otros E 3, a 3 ME A o se Fuente: International Energy Agency IEA, Global eV Outlook 2018.
+En Latinoamérica, Colombia se destaca en la producción de vehículos híbridos y eléctricos para.
+El transporte público.
+Hoy se pueden importar buses sin aranceles, mientras que.
+Aquellos con tecnologías bajas o cero emisiones cuentan con exclusión de IVA y beneficios tributarios para los inversionistas.
+Sin embargo, el segmento de carga no. Cuenta con los mismos incentivos y, por lo tanto, es necesario proponer beneficios específicos.
+Para masificar las nuevas tecnologías en el transporte y sus negocios asociados es indispensable derribar las barreras normativas, tributarias y técnicas existentes.
+¡Asumiendo la realidad dé!
+Calentamiento global y el deterioro de la calidad del aire, producto de gases contaminantes emitidos principalmente por los vehículos operados con combustibles fósiles, se hace vital acogerse a medidas como la electrificación masiva del sector transporte y la descarbonización de la red eléctrica.
+4 Edwards, G., Disidí, L., y Lógica, C. 2018.
+Cargando el Futuro.
+El crecimiento de los mercados de autos y autobuses eléctricos en las ciudades de América Latina. SEGURIDAD E aumente continuo de la adquisición de vehículos híbridos y eléctricos plantea.
+Nuevos retos acerca de la seguridad de los mismos.
+Si bien los vehículos eléctricos representan una gran ventaja en temas ambientales y beneficios para la salud, la propulsión de estos vehículos introduce un nuevo componente a considerar en la evaluación de los riesgos que pueden conllevar en caso de accidente.
+Algunas virtudes con las que cuentan pueden suponer inconvenientes para la seguridad de los usuarios directos compradores y conductores y de los usuarios en la vía.
+Un ejemplo claro de lo anterior, en la falta de emisión de ruido por parte de tos vehículos eléctricos e híbridos, que, si bien ayudan a la disminución de la contaminación acústica, que según la Organización Mundial de la Salud OMS provoca daños en la salud de las personas, genera un inconveniente al ser casi imperceptibles por los peatones, cuente o no con alguna discapacidad visual, lo cual supone un riesgo para la vida puede incrementar los índices de accidentalidad vial.
+Otro ejemplo se encuentra en las baterías de litio.
+Las baterías de un vehículo eléctrico e híbrido presentan diferentes tipos de riesgos cuando ocurre un accidente: eléctrico, mecánico, fuga de líquido riesgo químico y riesgo de explosión.
+Para evitar este tipo de riesgos, las baterías deben insertarse dentro de compartimentos especialmente rígidos que no solo las protegen en caso de impacto, sino que, además, se diseñan para evitar contactos directos o posibles cortocircuitos, disponiendo además de distintos dispositivos que permiten aislarla.
+Batería del resto del sistema en caso de accidente el propio sistema de alta tensión debería desconectarse automáticamente, al objeto de poder manipular el vehículo sin riesgo.
+Por otro lado, un riesgo importante a considerar en caso de accidente es que alguno de los cables del circuito eléctrico asociado al motor eléctrico sea cortado, lo que puede ocasionar lesiones graves electrocución para los servicios de emergencia que atiendan la situación.
+Una solución viable para este hecho es la identificación clara de todo el circuito eléctrico de alta tensión mediante fundas de cable en un color naranja junto a Nuevos retos de seguridad en vehículos eléctricos - cm Revista... HTTPS:revistacentrozaragoza.comnuevosretos-de-seguridad-en-vehículos-eléctricos.
+Se consultó el 4 de julio 2019. Información importante sobre la disposición de todos los elementos potencialmente peligrosos, por parte del productor, en caso de accidentes, El propósito de esta reglamentación es contribuir al objetivo de velar por la seguridad y la vida de las personas mediante medidas de protección que blinden a los ocupantes de los vehículos y a los usuarios vulnerables de la vía pública.
+FUNDAMENTOS JURÍDICOS Lograr una movilidad sostenible a nivel mundial es uno.
+De los mayores retos que enfrentan las naciones a fin de cumplir las metas del Acuerdo de París, consistentes con reducir las emisiones relacionadas con el transporte de 7,7 giga toneladas de CO, actualmente, a ubicarse entre 2 y 3 giga toneladas para 2050.
+Según el Banco Mundial 2017, un aspecto crucial para reducir las emisiones de CO radica en la transición del transporte público a un sistema de transporte que contribuya a la movilidad compatible con el clima a nivel mundial.
+Bajo la Convención Marco de las Naciones Unidas sobre el Cambio Climático NUNCA, compromiso en virtud del Acuerdo de París, Colombia en el año 2015 se comprometió a reducir el 20 de sus emisiones de Gases de Efectos Invernadero, mediante.
+Lo cual ratifica su lucha contra el calentamiento global y su preocupación por los problemas ambientales con los que actualmente debe lidiar, no solo el país, sino también el mundo.
+En la Figura 2, se muestran las contribuciones determinadas nacionalmente por algunos de los países latinoamericanos en la NUNCA y sus objetivos condicionados a recursos de cooperación internacional.
+Nuevos retos de seguridad en vehículos eléctricos - CM Revista... HTTPS:revistacentrozaragoza.comnuevosretos-de-seguridad-en-vehículos-eléctricos.
+Se consultó el 4 de julio 2019.
+7 Banco Mundial 2017.
+Movilidad.
+Recuperado el 24012019.
+En línea HTTPS:www.bancomundial.org esresults20171201mobilityReducir emisiones en un 20 con respecto el escenario sin cambios pero.
+El 2030 S densidad de emisión del PIB.
+Reducción del 35-45 dela intensidad de emisión del por debajo de los niveles de 2007 para 2030 PIS por debajo de yos niveles de 2007 para el 2030 excluyendo DULCE meta que depende del apoyo financiero internacional De acuerdo con una publicación realizada en la página oficial de Ministerio de Ambiente.
+Y Desarrollo Sostenible .2015, titulada Colombia.
+Se compromete a reducir el 20 de sus emisiones de gases.
+De efecto invernadero para el año 2030, el Gobierno de turno deja. Entrever que los sectores claves a los que se debe apostar para lograr esta y otras metas favorables para el medio ambiente, así como también, las.
+Principales oportunidades de mitigación El sector transporte se destaca como uno de los sectores claves para.
+Las apuestas futuras de la lucha contra el calentamiento global, temas como la conducción verde y la renovación de flota ligadas al portafolio de energías renovables promueven la movilidad sostenible y los proyectos encaminados a una flota pública que le apuesta al desarrollo social, económico y ambiental.
+Sumado a lo anterior, Colombia ha tomado participación en varios eventos y acuerdos internacionales encaminados a lograr avances importantes en temas ambientales, sociales y económicos en los cuales se destacan la Agenda 2030 2015 y la Nueva Agenda Urbana 2016.
+Con respecto a la Agenda 2030 esta se logró gracias al apoyo de numerosos países, organizaciones internacionales y actores no gubernamentales, gracias al cual se consolidó un documento con 17 Objetivos de Desarrollo Sostenible encaminados hacia la sostenibilidad económica, social y ambiental de los países miembros.
+Colombia bajo este compromiso internacional se planteó como una de las metas al 2030 reducir las emisiones totales de efectos invernadero en un 208; En cuanto a la Nueva Agenda Urbana, celebrada en Quito, Ecuador, como parte de la Tercera Conferencia de las Naciones Unidas sobre Vivienda y Desarrollo Urbano Sostenible, Hábitat III, esta se centra en discutir y establecer compromisos sólidos que permitan avanzar a las ciudades en bienestar social, protección medioambiental y crecimiento económico, como resultado de la preocupación por la gran migración hacia las ciudades, se calcula que para el año 2050 dos tercios de: la humanidad vivirán en zonas urbanas lo que representa un gran desafío para la sostenibilidad social, económica y ambiental.
+De las mismas.
+¿Para el caso colombiano, según el Ministerio de Ambiente al día de hoy, cerca del 76 de la población vive en zonas urbanas y demanda más del 75 de los recursos?.
+De igual forma, en la Constitución Política se recalca la necesidad y el compromiso que debe tener el Estado con el medio ambiente, su protección, conservación y sustitución, así como fomentar la educación y buenos hábitos que contribuyan a proteger los recursos naturales y contribuir con un ambiente sano.
+En este orden de idea se destacan los siguientes artículos: Artículo 79.
+Todas las personas tienen derecho a gozar de un ambiente sano.
+La ley garantizará la participación de la comunidad en las decisiones que puedan afectarlo.
+Es deber del Estado proteger la diversidad e integridad del ambiente, conservar las áreas de especial importancia ecológica y fomentar la educación para el logro de estos fines.
+Énfasis fuera del texto.
+Artículo 80.
+El Estado planificará el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución.
+Además, deberá prevenir y controlar los factores de deterioro ambiental, imponer sanciones legales y exigir la reparación de los daños causados.
+8 Departamento Nacional de Planeación 2018.
+CONDES 3918.
+Recuperado el 25012019.
+En línea HTTPS:colaboración.día.gol.coCDTConpesEconv4C3B3micos3918.pdf 2 Ministerio de Ambiente y Desarrollo Sostenible.
+Con la Nueva Agenda Urbana Colombia se encamina hacia el desarrollo sostenible de sus ciudades.
+Recuperado el 25012019.
+En línea HTTPS:colaboracion.dnp.gov.
+coCDTConpesEconC3B3micos3918.patas mismo, cooperará con otras naciones en la protección de los ecosistemas situados en las zonas fronterizas.
+Énfasis fuera del texto.
+Artículo.
+La atención de la salud y el saneamiento ambiental son servicios públicos.
+A cargo del Estado.
+Se garantiza a todas las personas el acceso a los servicios de promoción, protección y recuperación de la salud.
+Corresponde al Estado organizar, dirigir y reglamentar la prestación de servicios de salud a los habitantes y de saneamiento ambiental conforme a los principios de eficiencia, universalidad y solidaridad ... Énfasis fuera del texto.
+Por otra parte, la Corte Constitucional en la Sentencia T-15413 advierte que La conservación del ambiente no solo es considerada como un asunto de interés general, sino principalmente como un derecho internacional y local de rango constitucional, del cual son titulares todos los seres humanos, en conexidad con el ineludible deber del Estado de garantizar la vida de las personas en condiciones dignas, precaviendo cualquier injerencia nociva que atente contra su salud, Al efecto, la Constitución de 1991 impuso al Estado colombiano la obligación de asegurar las condiciones que permitan a las personas gozar de un ambiente sano, y dispuso el deber de todos de contribuir a tal fin, mediante la participación en la toma de decisiones ambientales y el ejercicio de acciones públicas y otras garantías individuales, entre otros.
+Énfasis tuera del texto.
+Decreto chileno Dado el avance inminente con el que cuenta el vecino país en materia de movilidad sostenible, la adaptación del Decreto 145 del 2018, es una oportunidad importante para que Colombia avance de una forma eficiente hacia la- transformación de combustibles fósiles por energías renovables, al mismo tiempo que se establecen: criterios y medidas importantes en cuanto a la seguridad de los usuarios y los diferentes individuos que intervienen en la cadena de valor.
+Debido a los riesgos que puede traer la manipulación de baterías de litio y de diferentes aparatos eléctricos se adoptan las mejores medidas en materia técnica y de seguridad que son las establecidas en las Regulaciones del Código Federal para la Homologación de Seguridad Vehicular, CF 49-471, de los Estados Unidos; Regulaciones de Seguridad para Vehículos de Carretera para la Certificación, Japón; Directivas de seguridad de la Comunidad Económica Europea; Regulaciones de Seguridad para Vehículos Motorizados, Corea.
+¡El decreto mencionado anteriormente se adapta a las necesidades del país modificando algunos aspectos que son primordiales para el territorio nacional!
+Y con esta nueva legislación se contribuye de forma activa y eficiente a ser parte del cambio y el movimiento sostenible que se ha apoderado de las decisiones políticas a nivel mundial.
+¿IMPACTO FISCAL Frente al artículo 7?
+Análisis del impacto fiscal de las normas de la-Ley 819 de 2003 Por la cual se dictan normas orgánicas en materia de presupuesto, responsabilidad y transparencia fiscal y se dictan otras disposiciones, la Honorable Corte Constitucional se pronunció sobre su interpretación de la siguiente manera en la Sentencia C-502 de 2007: 36.
+Por todo lo anterior, la Corte considera que los primeros tres incisos del art.
+7 de la Ley 819 de 2003 deben entenderse como parámetros de racionalidad de la actividad legislativa, y como una carga que le incumbe inicialmente al Ministerio de Hacienda, una vez que el Congreso ha valorado, con la información y las herramientas que tiene a su alcance, las incidencias fiscales de un determinado proyecto de ley.
+Esto significa que ellos constituyen instrumentos para.
+mejorará labor legislativa.
+Es decir, el mencionado artículo debe interpretarse en el sentido de que su fin es obtener que las leyes que se dicten tengan en cuenta las realidades macroeconómicas, pero sin crear barreras insalvables en el ejercicio de la función legislativa ni crear un poder de veto legislativo en cabeza del Ministro de Hacienda.
+Y en ese proceso de racionalidad legislativa la carga principal reposa en el Ministerio de Hacienda, que es.
+El que cuenta con los datos, los equipos de funcionarios y la experticia en materia económica.
+Por lo tanto, en el caso de que los congresistas tramiten un proyecto incorporando estimativos erróneos sobre el impacto fiscal, sobre la manera de atender esos nuevos gastos o sobre la compatibilidad del proyecto con el Marco Fiscal de Mediano Plazo, le corresponde al Ministro de Hacienda intervenir en el proceso legislativo para ilustrar al Congreso acerca de las consecuencias económicas del proyecto.
+Y el Congreso habrá de recibir y valorar el concepto emitido por el Ministerio: No obstante, la carga de demostrar y convencer a los congresistas acerca de la incompatibilidad de cierto proyecto con el Marco Fiscal de Mediano Plazo recae sobre el Ministro de Hacienda.
+Por otra parte, es preciso reiterar que, si el Ministerio de Hacienda no participa en el curso del proyecto durante su formación en el Congreso de la República, mal puede ello significar que el proceso legislativo se encuentra viciado.
+Por no haber tenido en cuenta las condiciones establecidas en el art.
+De la Ley 819 de 2003, Puesto que la carga principal en la presentación de las consecuencias fiscales de los proyectos reside en el Ministerio de Hacienda, la omisión del Ministerio en informar a los congresistas acerca de los problemas que presenta el proyecto no afecta la validez del proceso legislativo ni vicia la ley correspondiente.
+Sin embargo, y teniendo en cuenta la naturaleza del presente proyecto de Ley no genera un mayor impacto fiscal teniendo en cuenta que los recursos de los que habla el presente proyecto de ley serán financiados con dineros provenientes de la estampilla Pro cultura, por lo tanto, estos ya fueron regulados por la ley 666 de 2001, en consecuencia lo que busca el presente proyecto es realizar una redistribución de funciones con miras a emplear estos recursos en cabeza de los entes territoriales de una manera más funcional en pro de fortalecer el acceso a medios económicos de una manera más eficaz y dotar a los entes territoriales de herramientas para buscar una mejor consecución de estos recursos. V.
+CAUSALES DE IMPEDIMENTO Conforme al artículo 3 de la ley 2003 de 2019, que modificó el artículo 291 de la ley 5 de 1992, este proyecto de ley reúne las condiciones del literal a y b, de las circunstancias en las cuales es inexistente el conflicto de intereses del artículo 286 de la ley 5 de 1992, toda vez que es un proyecto de Ley de interés general, que puede coincidir y fusionarse con los intereses del electorado.
+Atentamente, E al FABIÁN DÍAZ PLATA Senador de la República.
+Año E O E A E Y Enea!
+Secretaría General Art, 139 y SE 50 gel.
+Se radicó en este despacho el proyecto: o n todo:!
+24 Acto Legislativo N A SS; i tan Yi Darío Y gilí constitucionales y ¡E9 cada uno de los requisitos Cm 7 por 1- SA Fabián SA la ma!

@@ -1,0 +1,315 @@
+Bogotá, D.C., 24 de julio de 2023 Señores MESA DIRECTIVA Senado de la República Ciudad Asunto: Radicación Proyecto de Ley por la cual se crea la Agencia Nacional de Seguridad Digital y se fijan algunas competencias específicas, Respetados señores, Por medio de la presente nos permitimos radicar el Proyecto de Ley Por la cual sé específicas,.
+Crea la Agencia Nacional de Seguridad Digital y, se fijan algunas competencias.
+De manera atenta solicitamos respetuosamente iniciar el trámite correspondiente, en cumplimiento de las disposiciones previstas en la Constitución y la Ley, conforme el siguiente articulado y la respectiva exposición de motivos.
+Cordialmente, y ¡si A. DAVID LUNA SÁNCHEZ g o Año MARÍAICASTAÑEDA Senador de la República --- Senadora de la República Sea vsdiqpuecós EL INGRID MARLEN SOGAMOSO ALONSO Representante a la Cámara PROYECTO DE LEY DE 2023 Por la cual se crea la Agencia Nacional de Seguridad Digital y se fijan algunas competencias específicas EL CONGRESO DE COLOMBIA DECRETA CAPÍTULO.
+Creación, naturaleza jurídica, objeto, domicilio y funciones.
+ARTÍCULO 1.
+Objeto.
+La presente ley tiene por objeto.
+Establecer la institucionalidad que coordinará, definirá y hará seguimiento a las políticas de seguridad digital implementadas por las entidades públicas y las personas naturales y jurídicas de derecho privado.
+ARTÍCULO 2.
+Principios.
+En el desarrollo, interpretación y aplicación de la presente Ley, además de los principios constitucionales, se aplicarán los que a continuación se prevén: Principio de Coordinación: Las actuaciones que se realicen en materia de seguridad digital deberán integrar de manera coordinada a las múltiples partes interesadas, para garantizar la armonía en el ejercicio de sus funciones y el logro del objeto de la presente ley.
+Principio de Confidencialidad: Todas las personas y organizaciones que intervengan en materia de seguridad digital que tengan acceso a información que no tenga la naturaleza de información pública están obligadas a garantizar la reserva de esta, según corresponda y-a través de mecanismos idóneos, inclusive después de finalizada su relación con alguna de las labores que comprende la gestión del riesgo.
+Principio de Cooperación: En el marco de las relaciones nacionales e internacionales en materia de seguridad digital, aunarán esfuerzos para el logro de los objetivos de seguridad digital del país.
+Principio de Enfoque basado en riesgos: La seguridad de la información y la ciberseguridad deberá estar basada en el enfoque basado en riesgos de forma tal que la definición y aplicación de controles y la toma de decisiones, siempre considere los riesgos como insumo principal, Principio Perspectiva Interseccional: La Agencia desarrollará sus funciones en consideración de las particularidades de los distintos grupos poblacionales y se regirá con un enfoque de inclusión interseccional.
+En términos de sexo, identidad de género, raza, etnia, capacidad económica, clase social, orientación política y edad; abordando los riesgos e impactos diferenciados de las amenazas y riesgos para que la ciberseguridad responda a necesidades, prioridades y percepciones diferenciadas basadas en las particularidades de cada grupo poblacional.
+Principio de Integridad: El Estado desarrollará, a través de las entidades y organismos competentes las acciones necesarias para elevar la confiabilidad y la exactitud de los datos o información de forma que se evite su manipulación, su adulteración y cambios por personas, entidades o procesos no autorizados.
+Principio de Neutralidad Tecnológica El Estado garantizará la libre adopción de tecnologías que permitan fomentar la eficaz gestión de la seguridad de la información y la ciberseguridad, sin restricción distinta a las posibles interferencias perjudiciales y el uso eficiente de los recursos escasos. Respeto a la privacidad: La seguridad de la información y la ciberseguridad son base del aseguramiento de la privacidad y protección de datos personales, y su gestión deberá incluir medidas formales de protección de la privacidad.
+La gestión de la seguridad de la información y la ciberseguridad deberá igualmente, en todo momento, respetar la privacidad de las personas.
+ARTÍCULO 3.
+Definiciones.
+Para los efectos de la presente Ley, se adoptan las siguientes definiciones: a. b.
+Agencia: Es la Agencia Nacional de Seguridad Digital, Amenazas: Causa potencial de un incidente no deseado, el cual puede resultar en el daño a un sistema, individuo u organización.
+Ciberataque: Incidente de ciberseguridad en el que una persona o grupo de ellas, conocidas o no, intenta destruir, exponer, alterar, deshabilitar, filtrar, robar, hacer uso o O acceder de manera ilícita a un activo de información o de tecnologías de la información, y en el que puedan verse afectados también activos físicos de forma eléctrica o mecánica.
+Ciberdefensa: Capacidad para evitar y responder ante cualquier amenaza o incidente de naturaleza cibernética que impacte la seguridad nacional, Ciberdiplomacia: Uso de herramientas diplomáticas para resolver asuntos relativos al ciberespacio.
+Ciberespacio: Es el ambiente tanto físico como virtual compuesto por computadores, sistemas computacionales, programas computacionales software, redes de telecomunicaciones, datos e información que es utilizado para la interacción entre usuarios y para almacenar, modificar e intercambiar datos.
+Ciberseguridad: Se entiende como la capacidad del Estado para minimizar el nivel de riesgo al que están expuestos sus ciudadanos, ante amenazas o incidentes de naturaleza cibernética, buscando la disponibilidad, integridad, autenticación, confidencialidad y no repudio de las interacciones digitales.
+La ciberseguridad tiene el fin de proteger a los usuarios y los activos de Estado en el Ciberespacio y comprende el conjunto de recursos, políticas, conceptos de seguridad, salvaguardas de seguridad, directrices, métodos de gestión del riesgo, acciones, investigación y desarrolló, formación, prácticas idóneas, seguros y tecnologías que pueden utilizarse para dicho fin.
+Ecosistema Digital: Conjunto de infraestructuras y prestaciones plataformas, dispositivos de acceso asociadas a la provisión de contenidos y servicios a través de Internet.
+Este es un sujeto de análisis fundamental para la definición de políticas públicas, en áreas tan diversas como la digitalización de procesos productivos y la protección de la privacidad de los usuarios.
+Incidente: Cualquier evento adverso real o sospechado, intencionado o no intencionado, que puede cambiar el curso esperado de una actividad en el entorno digital.
+Infraestructuras críticas: Sistemas y activos, físicos o virtuales, soportados por Tecnologías de la Información y las Comunicaciones, cuya afectación significativa tendría un impacto grave en el bienestar social o económico de los ciudadanos, o en el funcionamiento efectivo del gobierno o la economía. K.
+Riesgo: La posibilidad de que una amenaza aproveche una vulnerabilidad y. cause una pérdida o daño sobre los activos de TIC, las infraestructuras críticas o los activos de información.
+l. Seguridad digital: Es la situación de normalidad y de tranquilidad en el entorno digital, a través de la apropiación de políticas, buenas prácticas, y mediante: i la gestión del riesgo de seguridad digital; ii la implementación efectiva de medidas de ciberseguridad; y iii el uso efectivo de las capacidades de ciberdefensa; que demanda la voluntad social y política de las múltiples partes interesadas.
+m. Vulnerabilidad: Debilidad, atributo o falta de aplicación de un control que permite o facilita la actuación de una amenaza contra los servicios tecnológicos, sistemas de información, infraestructura tecnológica y las redes e información de la organización.
+ARTÍCULO 4.
+Creación y naturaleza jurídica de la Agencia.
+Créase la Agencia Nacional de Seguridad Digital, como una entidad descentralizada del orden nacional, de naturaleza especial que forma parte de la Rama Ejecutiva, con personería jurídica, autonomía administrativa, financiera y patrimonio propio, adscrita al Ministerio de Tecnologías de la Información y las Comunicaciones.
+Parágrafo.
+La Agencia es la máxima autoridad para la formulación.
+Y aplicación de las estrategias nacionales y políticas públicas en materia de seguridad digital.
+ARTÍCULO 5.
+Misión.
+La Agencia es responsable de: a liderar y fortalecer la gestión del ecosistema digital, coadyuvar en mantener un modelo de Ciberseguridad y la gestión de seguridad de la Información en las entidades del estado y de las personas naturales y jurídicas de derecho privado; b articular la identificación de las infraestructuras críticas del país con las autoridades y entidades competentes; y c coordinar y cooperar con la identificación de amenazas, vulnerabilidades, con el propósito de asegurar las plataformas del estado a través de la confidencialidad, integridad y disponibilidad de la información o de los activos empleados para su transmisión, reproducción, procesamiento o almacenamiento, asociados a los sistemas de información de la Entidad o. en el ciberespacio para uso de la ciudadanía y del estado colombiano.
+ARTÍCULO 6.
+Domicilio.
+La Agencia tendrá como domicilio principal la ciudad de Bogotá, D. C. ARTÍCULO 7.
+Objetivos.
+La Agencia será un organismo de carácter técnico especializado que tendrá como objeto la planificación, articulación y coordinación de las políticas de gestión de los riesgos de seguridad digital en el país, prevención de amenazas internás o externas contra el ecosistema digital del país, fortalecimiento de la confianza y seguridad de todas las partes interesadas en el ámbito digital.
+PARÁGRAFO.
+La Agencia no tendrá competencias de policía judicial, ni las que le corresponden a los organismos de inteligencia y contrainteligencia del Estado.
+En el ejercicio de sus funciones esta entidad garantizará el derecho de habas data, el derecho a la intimidad, a la privacidad, a la libertad de expresión en entornos digitales y al buen: nombre de los ciudadanos.
+Cualquier información que obtenga, recopile, almacene, use, circule o suprima la Agencia deberá tratarse exclusivamente en el marco de sus competencias legales, y solo podrá ser usada, entregada o transferida a otros organismos con previa autorización judicial. ARTÍCULO 8.
+Régimen jurídico.
+Los actos unilaterales que realice la Agencia para el desarrollo de sus actividades son actos administrativos y estarán sujetos a las disposiciones del derecho público.
+Los contratos que deba celebrar la Agencia se regirán, por regla general, por las normas: de contratación pública.
+Excepcionalmente, respecto de los contratos que se tengan que realizar para el desarrollo del objeto misional de la Agencia, dicha contratación se regirá por el derecho privado, aplicando los principios de la función administrativa y de la gestión fiscal y estarán sometidos al régimen de inhabilidades e incompatibilidades previsto para la contratación estatal.
+La Agencia, expedirá un manual de contratación en la cual se reglamente lo previsto en este inciso.
+ARTÍCULO 9.
+Funciones de la Agencia.
+La Agencia tendrá, entre otras, las siguientes funciones: 1.
+Coordinación y colaboración: 1.1.
+Coordinar y gestionar, como punto de contacto único, la respuesta oficial ante ciberataques en la totalidad del territorio nacional y ser el órgano institucional que brinde información a los ciudadanos sobre los ciberataques que tengan impacto en el territorio nacional.
+Coordinar con los actores del ecosistema de seguridad digital, el entendimiento y fortalecimiento de la gestión de los riesgos e incidentes de seguridad digital, ciberseguridad y protección de datos de la información que soportan la operación del estado.
+Liderar la implementación de políticas tendientes al fortalecimiento del nivel de madurez de seguridad digital en las entidades del estado y coadyuvar en la implementación de mejores prácticas de seguridad en los sectores económicos y en la ciudadanía.
+Adelantar acuerdos de cooperación internacional en temas relacionados con Seguridad Digital, Seguridad de la Información, Ciberseguridad, y Privacidad, tanto a nivel de protección de la información y las tecnologías de la información asociadas como las tecnologías operacionales propias de las infraestructuras y sectores críticos, teniendo en cuenta las políticas de Gobierno y ta normativa vigente, dentro del marco de los tratados internacionales vinculantes para Colombia y del respeto de la facultad del Presidente de la República de dirigir las relaciones internacionales.
+Organizar y coordinar una Comisión Intersectorial de Inteligencia Artificial que monitoree el desarrollo y uso de tecnologías que procesan datos que reciben y responden ante ellos, aprenden, razonan, planifican e incluso generan predicciones, y expida lineamientos, estándares e instrucciones tendientes a garantizar la seguridad de dichas tecnologías y a prevenir y mitigar los riesgos que de ellas se derivan.
+Evaluación y mitigación de riesgos: 2.1.
+Asegurar el ecosistema digital y su gobernanza, de acuerdo con la dirección estratégica del gobierno nacional y establecer los lineamientos yo políticas en materia de seguridad y gobernanza del ecosistema.
+2.2, Contribuir a la protección y defensa del ciberespacio ante actos de penetración, infiltración, espionaje, sabotaje u otras actividades cuando atenten gravemente contra la administración pública y las infraestructuras críticas y proteger a las instituciones de nivel nacional y territorial de la influencia de organizaciones criminales.2.3.
+2.4, 2.5.
+Contribuir a la protección de recursos tecnológicos y económicos de la Nación, cuando su amenaza comprometa el orden público.
+Brindar asesoría y apoyo técnico a las entidades del Estado, al sector privado y a los ciudadanos en seguridad digital y ciberdefensa.
+Dictar protocolos, estándares e instrucciones generales que contribuyan a preservar la confidencialidad, integridad y disponibilidad de la información del país, para reducir los riesgos de seguridad digital de las entidades del estado, de los diferentes sectores económicos y de los ciudadanos.
+Crear y coordinar un observatorio encargado de realizar análisis de amenazas cibernéticas, y colaborar con entidades públicas, sector privado y ciudadanos en el entendimiento de tácticas, técnicas y procedimientos de los delincuentes ante eventuales ciberataques, de recolectar información y de monitorear ataques tanto a nivel nacional e internacional.
+El observatorio trabajará en coordinación con el Ministerio de Tecnologías de la Información y las Comunicaciones, el Ministerio de Defensa, el Ministerio de Ciencia, Tecnología e Innovación, el Ministerio de Relaciones Exteriores y el Ministerio de Educación.
+Los análisis y estudios elaborados por el Observatorio se presentarán al Consejo Directivo a través de informes por lo menos una vez al año.
+Educación y prevención: 3.1.
+Fortalecer las capacidades y competencias en seguridad digital de los servidores públicos, trabajadores oficiales, contratistas, proveedores y demás grupos de interés que accedan a la información del estado colombiano.
+Ofrecer en coordinación con el Ministerio de Educación Nacional programas de educación y concientización dirigidos a entidades públicas, sector privado y a los ciudadanos sobre ciberdefensa y gestión de amenazas, riesgos y ciberataques.
+Trabajar de manera conjunta coro instituciones educativas y de investigación en temas relacionados con seguridad digital y la ciberdefensa, con el fin de impulsar el desarrollo de nuevas tecnologías para mitigar los riesgos de ciberataques y de promover la innovación en soluciones de seguridad digital y ciberdefensa.
+Planificación: 4.1.
+Diseñar y publicar el Plan Nacional de Seguridad Digital y Ciberdefensa, el cual contendrá programas, lineamientos y estándares en materia de seguridad digital, de conformidad con recomendaciones y estándares internacionales.
+La planificación y articulación de actividades orientadas a la identificación y caracterización de activos de información, activos relacionados y activos de infraestructuras críticas; Planear, desarrollar, mantener y mejorar de forma continua los modelos de Ciberseguridad y gestión de seguridad de la Información para ambientes de tecnologías de la información y de sectores críticos yo de control industrial operacional.
+De ejecución:5.1.
+Desarrollar actividades de Seguridad digital bajo sus principios rectores, en cumplimiento del marco legal y objetivo misional, con las autoridades y entidades competentes.
+Promover el fortalecimiento y la consolidación de los equipos de respuesta a incidentes de seguridad informática de sectores que involucren infraestructuras críticas.
+Coadyuvar en el desarrollo, mantenimiento y mejora continua de los modelos de ciberseguridad y gestión de seguridad de la información para: ¡entidades del estado a nivel de tecnologías de la información, y que sirva de base para las personas naturales y jurídicas de derecho privado; y ¡i Infraestructura crítica y control industrial u operacional, sea su propiedad estatal, mixta, o privada!
+Desarrollar actividades de protección del ecosistema digital en cooperación con los demás organismos nacionales e internacionales, así como con otras entidades del Estado y personas jurídicas de derecho privado que administren u operen infraestructuras críticas.
+Ordenar el cese de operaciones en el ciberespacio ante un ataque que afecte la soberanía nacional y el ecosistema digital y su economía, en coordinación con el Ministerio de Defensa.
+Las demás funciones relacionadas con las actividades de Seguridad Digital que le sean asignadas por el Presidente de la República de conformidad con la Constitución y la ley, siempre que se encuentren dentro del objeto señalado y cumplan con la condición de neutralidad de la presente ley.
+PARÁGRAFO 1.
+El Director General y los servidores públicos de la Agencia, desarrollarán y aplicarán los controles necesarios para garantizar que los procesos de planeación, recolección, procesamiento, análisis y difusión de la información se hagan de manera objetiva y en ningún caso se discriminará el ejercicio de sus funciones por razón de género, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica, pertenencia a una organización sindical, social o de derechos humanos, o para promover los intereses de cualquier partido o movimiento político, o afectar los derechos y garantías de los partidos políticos de oposición.
+PARÁGRAFO 2.
+La Agencia desarrollará sus funciones en estricto cumplimiento del derecho de protección de los datos personales, de conformidad con la normativa vigente y en coordinación con la Superintendencia de Industria y Comercio.
+Capítulo Il.
+Dirección y Administración.
+ARTÍCULO 10. Órganos de Dirección y Administración.
+La Dirección y administración de la Agencia, estarán a cargo de un Consejo Directivo y de un Director General, quien tendrá la representación legal de la misma.
+El Consejo Directivo actuará como instancia máxima para orientar sus acciones y hacer seguimiento al cumplimiento de sus fines.
+ARTÍCULO 11.
+Funciones e Integración del Consejo Directivo.
+El Consejo Directivo será responsable de liderar la planificación, coordinación, articulación y gestión de los riesgos de seguridad digital y ciberseguridad en el país, incluyendo aquellos asociados a tecnologías operativas de infraestructura crítica y sistemas de control y actuación industrial, y será el soporte institucional y de coordinación para la definición, ejecución, seguimiento y el control de las estrategias, planes y acciones dirigidas a fortalecer la confianza y seguridad de todas las partes interesadas en el ámbito digital y de las infraestructuras críticas. El Consejo Directivo de la Agencia, estará integrado por cinco miembros, así: 1.
+Presidente de la República o a quien designe.
+El Ministro de Defensa o su delegado.
+El Director del Departamento Nacional de Planeación o su delegado.
+El Ministro de Tecnologías de la Información y las Comunicaciones o su delegado.
+El Superintendente de Industria y Comercio o su delegado.
+PARÁGRAFO 1: El Consejo Directivo constituirá un Comité Público-Privado de Estrategia que será el encargado de la planeación de estrategias de largo plazo para fortalecer las capacidades en seguridad digital, potenciar el desarrollo de la industria de ciberseguridad en Colombia y promover la educación de profesionales en el área.
+El Comité Público-Privado realizará recomendaciones al Consejo Directivo tendientes a atender las amenazas y los riesgos identificados en materia de seguridad digital y presentará informes de actualización sobre ataques perpetrados a nivel mundial y las formas de combatirlos mediante el uso de tecnologías de vanguardia y con los más altos estándares éticos.
+PARÁGRAFO 2: El Consejo Directivo, podrá crear grupos de trabajo ad hoc que aborden asuntos científicos y técnicos integrados por representantes de otras entidades públicas o privadas, representantes de los equipos de respuesta a incidentes de seguridad informática de Gobierno y sectoriales, representantes de -organismos y gremios del sector privado nacional o internacional, y asesores y expertos de la industria, de la academia y de grupos empresariales o de consumidores, que podrá emitir recomendaciones específicas a nivel de sector y de tecnologías a implementar y participar con derecho a voz, pero sin voto en las reuniones del Consejo Directivo.
+PARÁGRAFO 3: El Consejo Directivo dictará su reglamento de funcionamiento.
+Las funciones del Consejo Directivo, y las reglas de creación y composición del Comité Público-Privado y de grupos de trabajo ad hoc se establecerán en el reglamento.
+ARTÍCULO 12.
+Director General y sus funciones.
+La administración de la Agencia, estará a cargo de un Director General, el cual tendrá la calidad de empleado público, elegido por el Presidente de la República, a partir de terna presentada por el Consejo.
+Directivo, y será el representante legal de la entidad.
+Deberá cumplir con requisitos de estudios y experiencia mínimos que establecerá el Consejo Directivo.
+Son funciones del Director General las siguientes: 1.
+Dirigir, orientar, coordinar, vigilar y supervisar el desarrollo de las funciones a cargo de la Agencia.
+Dirigir las actividades administrativas, financieras y presupuestales, y establecer las normas y procedimientos internos necesarios para el funcionamiento y prestación de los servicios de la Agencia.
+Ejercer la representación de la Agencia y designar apoderados que representen a la Agencia en asuntos judiciales y extrajudiciales, para la defensa de los intereses de la misma.
+Dirigir y promover la formulación de los planes, programas y proyectos relacionados con el cumplimiento de las funciones de la Agencia.
+Presentar para aprobación del Consejo Directivo los estados financieros de la entidad.6.
+Aprobar la estructuración técnica, legal y financiera de los proyectos a cargo de la Agencia.
+Aprobar la estrategia de promoción de los proyectos de concesión u otras formas de Asociación Público-Privada.
+Orientar y dirigir el seguimiento al desarrollo de los contratos de concesión a su cargo y, en caso de incumplimiento de cualquier obligación, adoptar de acuerdo con la ley las acciones necesarias.
+9, Ordenar los gastos, expedir los actos y celebrar los convenios y contratos con personas naturales o jurídicas, así como con entidades públicas o privadas, nacionales o extranjeras, necesarios para el cumplimiento del objeto y funciones de la Agencia.
+Someter a la aprobación del Consejo Directivo el Plan Estratégico Institucional y el Plan Operativo Institucional, 11.
+Promover la coordinación de la Agencia con las entidades u organismos públicos y privados.
+12. Definir las políticas de comunicación de la Agencia y dar las instrucciones para que estas se cumplan de manera integral y coherente. 13. Proponer al Consejo Directivo la distribución, asignación y cobro de la contribución de valorización en los proyectos que lo requieran, de conformidad con la ley, y distribuir dicha contribución de acuerdo con las normas vigentes y los lineamientos del Consejo Directivo.
+14, Convocar a sesiones ordinarias y extraordinarias del Consejo Directivo y de los Consejos Asesores.
+15. Presentar al Consejo Directivo el anteproyecto de presupuesto, las modificaciones al presupuesto aprobado y los planes de inversión de la entidad, con arreglo a las disposiciones legales que regulan la materia.
+16. Poner a consideración del Gobierno Nacional modificaciones a la estructura y planta de personal de la Agencia.
+17. Distribuir los empleos de la planta de personal de acuerdo con la organización interna y las necesidades del servicio.
+18. Distribuir entre las diferentes dependencias de la Agencia las funciones y competencias que la ley le otorgue a la entidad, cuando las mismas no estén asignadas expresamente a una de ellas.
+19. Crear y organizar con carácter permanente o transitorio comité y grupos internos de trabajo.
+Dirigir y desarrollar el sistema de control interno de la Agencia, de acuerdo con la normativa vigente.
+Cumplir y hacer cumplir las decisiones del Consejo Directivo.
+22. Ejercer la facultad nominadora, con excepción de los que corresponda a otra autoridad y dirigir la administración del talento humano de la Agencia.
+Ejercer ta función de control interno disciplinario en los términos de la ley.
+24. Las demás funciones que le sean asignadas de conformidad con lo establecido en la ley. Capítulo III.
+Recursos y Patrimonio.
+ARTÍCULO 13.
+Recursos y patrimonio.
+Los recursos y el patrimonio de la Agencia estarán constituidos por: 1.
+Los recursos del Presupuesto General de la Nación que se le asignen.
+Los recursos de crédito que contrate el Gobierno Nacional para el cumplimiento del objetivo de la Agencia.
+Las donaciones públicas o privadas para el desarrollo de los objetivos de la Agencia.
+Los aportes de cualquier clase provenientes de recursos de Cooperación Internacional para el cumplimiento del objetivo de la Agencia.
+Los bienes muebles e inmuebles, así como acciones o títulos representativos de capital de sociedades o activos de la Nación, que le transfiera las entidades del sector y demás instituciones públicas 6.
+Las propiedades y demás activos que adquiera con recursos propios a cualquier título, 7.
+El valor de la contribución de valorización de los proyectos a su cargo.
+Los recaudos que provengan de la ejecución de los proyectos de inversión a su cargo.
+Los ingresos propios y los rendimientos producto de ta administración de los mismos.
+Los recaudos por concepto de servicios de asesoría y los demás que obtenga a cualquier título.
+Los demás que reciba en desarrollo de su objeto.
+CAPÍTULO IV.
+Implementación de Protocolos, Estándares e Instrucciones Generales y Sanciones, ARTÍCULO 14.
+Las entidades del Estado y las personas jurídicas de derecho privado deberán implementar dentro de cada organización los protocolos, estándares e instrucciones generales relacionados con seguridad digital que definirá la Agencia de conformidad con las funciones establecidas en el artículo 6 de la presente ley, dentro los 6 meses siguientes a la expedición de la presente Ley PARÁGRAFO.
+La Agencia verificará la implementación de los protocolos, estándares e instrucciones generales que expida.
+En caso de incumplimiento, la Agencia podrá adelantar un proceso administrativo sancionatorio de conformidad con la normativa vigente.
+ARTÍCULO 15.
+Las entidades del Estado y las personas jurídicas de derecho privado domiciliadas en Colombia que administran información cuya divulgación resultaría en la afectación de la soberanía nacional, la estabilidad económica, la seguridad nacional y el derecho al habas data de los ciudadanos en el ciberespacio deberán informar a la Agencia acerca de posibles riesgos de ciberataques y delitos cibernéticos perpetrados contra sus infraestructuras que supongan riesgos en su información, infraestructura crítica, datos sensibles y sistemas de información.
+Lo anterior deberá realizarse en un plazo máximo de setenta y dos 72 horas, con el fin de que la Agencia Nacional de Seguridad Digital pueda prestar soporte y ayuda en el momento del ciberataque e iniciar los protocolos necesarios dado el caso y se informe la opinión pública cuando los hechos efectivamente supongan riesgos de pérdida de información, o impactos de seguridad a infraestructura crítica, datos sensibles, yo sistemas de información.
+Asimismo, las entidades del Estado y las personas jurídicas de derecho privado deberán informar a la Agencia los eventos de materialización de dichas amenazas perpetrados contra sus infraestructuras, en los términos que defina la reglamentación que para el efecto expida la Agencia.
+En caso de que las personas jurídicas de derecho privado que administren u operen infraestructuras críticas, no informen de los riesgos o eventos en el tiempo establecido por la Agencia, se les podrá imponer las siguientes sanciones, a través del desarrollo del proceso administrativo sancionatorio: 1.
+Multa de hasta doscientos 200 salarios mínimos mensuales legales vigentes.
+La autoridad competente tendrá en cuenta la capacidad patrimonial para la imposición de la multa.
+Inhabilidad para contratar con entidades del Estado por un máximo de cinco 05 años, dependiendo del impacto del incidente.
+Inclusión en la lista que la Agencia conformará de personas jurídicas de derecho privado que no cumplen con buenas prácticas de seguridad digital.
+Prohibición de recibir cualquier tipo de apoyo, incentivo o subsidio del Gobierno, en un plazo hasta de cinco 05 años, dependiendo del impacto del incidente, Para los representantes de las entidades del estado que no realicen los reportes de riesgos, amenazas y eventos de materialización aplicarán las sanciones de acuerdo con lo dispuesto en la Ley 2094 de 2021 y la Ley 610 de 2000 y las normas que las adicionen, modifiquen o sustituyan, por omisión en el cumplimiento de los deberes propios del cargo o función.
+Capítulo VI.
+Disposiciones Finales.
+ARTÍCULO 16.
+Adopción de la estructura y de la planta de personal dé la Agencia.
+El Gobierno Nacional, a través del Ministerio de Tecnologías de la Información y las Comunicaciones y en coordinación con el grupo de Transformación Digital del Departamento Administrativo de la Presidencia de la República, procederá a adoptar la estructura y la planta de personal de la Agencia, dentro de los seis meses siguientes a partir de la promulgación de la presente ley.
+PARÁGRAFO Hasta tanto se adopte la estructura y la planta de personal de la Agencia, el Ministerio de Tecnologías de la Información y Comunicaciones, en coordinación con el grupo de Transformación digital del Departamento Administrativo de la Presidencia de la República cumplirán las funciones señaladas para dicho organismo en la presente ley.
+ARTÍCULO 17.
+Aplicación, Vigencia.
+La presente Ley rige a partir de la fecha de su sanción y promulgación. EXPOSICIÓN DE MOTIVOS Por la cual se crea la Agencia Nacional de Seguridad Digital y se dictan otras disposiciones 1.
+SOBRE LA INICIATIVA LEGISLATIVA: El Proyecto de Ley que aquí se presenta tiene como principal objeto la creación de la Agencia Nacional de Seguridad Digital.
+De conformidad con el artículo 150 de la Constitución Política, le corresponde al Congreso hacer las leyes.
+En lo que respecta a la creación de entidades públicas, el numeral 7 del precitado artículo, señala que mediante esta facultad se podrá determinar la estructura de la administración nacional y crear y suprimir o fusionar ministerios, departamentos administrativos, superintendencias, establecimientos públicos y otras entidades del orden nacional.
+A su vez, el artículo 154 constitucional establece que las leyes sobre las materias señaladas en el numeral 7 del artículo 150, es decir, las referentes a la creación de entidades, solo podrán ser dictadas o reformadas por iniciativa del Gobierno Nacional.
+En ese sentido, se presenta esta Ley de creación de la Agencia Nacional de Seguridad Digital por iniciativa del Gobierno.
+ANTECEDENTES 1.
+Que el desarrollo y la masificación en el uso de las tecnologías de información y comunicaciones conlleva riesgos asociados que afectan los derechos de las personas, las infraestructuras críticas cibernéticas y los intereses nacionales de Colombia, a nivel nacional e internacional.
+Estos riesgos pueden provenir de múltiples fuentes y resultar en fenómenos cuyas consecuencias pueden afectar de manera grave a la seguridad pública, los derechos fundamentales, e inclusive comprometer la seguridad externa del país mediante actividades de espionaje y ciberataques llevados a cabo por otros países, grupos organizados, o, incluso, por sujetos individuales.
+Que el creciente uso de Tecnologías de la Información y las Comunicaciones suponen el surgimiento de nuevos riesgos y amenazas para la seguridad del país, sus habitantes y sus infraestructuras, los cuales deben ser abordados de manera integral.
+Atendido el carácter transfronterizo del ciberespacio, una de las mejores formas de enfrentar los riesgos y amenazas que su uso intensivo genera es establecer relaciones de cooperación en ciberdefensa con otros actores estatales, organismos internacionales y participar de manera activa en foros y discusiones internacionales, que propenden a generar un ciberespacio seguro en el ámbito de la defensa.
+Que el país está perdiendo la oportunidad de desarrollar capacidades propias que contribuyan a la autonomía tecnológica en materia de Seguridad Digital.3.
+CONTEXTO ACTUAL: Actualmente, Colombia es el segundo país de América Latina con más ciberataques presentados solo después de Brasil IBM, 2022, y se encuentra en el puesto 69 del ranking global que mide el nivel de seguridad cibernética de los países CIS, 2022, demostrando evidentes falencias en su política de Ciberseguridad como se evidencia en la tabla presentada a continuación: INDICADOR o Desarrollo de política de Ciberseguridad Análisis e información de amenazas de 40 ciberataques.
+Educación y desarrollo profesional 67 Contribución a la ciberseguridad global 33 Protección de sus servicios esenciales 17 Identificación digital y servicios de 78 confianza Protección de datos personales 100 Respuesta a ciberataques 50 Manejo de crisis cibernéticas 20 Operaciones militares en materia de 67 ciberseguridad Tabla de elaboración propia con información del National Cyber Security Index 2022 Desde el 2022 el número de ataques cibernéticos en Colombia ha aumentado considerablemente en comparación con años anteriores.
+Según Fortinet 2023 el país recibió en el 2022 20.000 millones de intentos de ciberataques, un crecimiento del 80 frente al 2021.
+Dicho incremento va en relación con el panorama mundial, pues según el Informe de Riesgos Globales del Foro Económico Mundial 2023 los delitos cibernéticos incrementaron en un 600 después de la pandemia y es la octava amenaza mundial en términos de mayor impacto a la que se enfrenta hoy la humanidad.
+Importantes infraestructuras críticas del Estado, tanto públicas como privadas, han sido víctimas de ciberataques y del robo masivo de información en el último año.
+Por ejemplo, Colemanitas Grupo Peralta perdió 0,8 terabytes de información entre los que se incluían estados financieros, balances, presupuestos e-información personal de sus usuarios Portafolio, 2022; el INVITA fue víctima de tres ataques cibernéticos entre el 2022 y el 2023, de los que se estima fueron capturados 700 GB de datos confidenciales de la entidad. Por otra parte, la Fiscalía General de la Nación fue víctima de un ataque cibernético en el cual más de 10 TE de información sensible, incluyendo correos privados fueron secuestrados por parte de ciberdelincuentes Radio, 2022.
+En mayo de 2023 la plataforma SECO El, la cual es clave para los trámites de contratación pública en el país estuvo fuera de línea durante 34 horas según información revelada por el medio de comunicación Infobae 2023.
+Modelo de Gobernanza en Seguridad Digital Actual: En el año 2009, con el trabajo del entonces Ministerio de Comunicaciones y el Congreso de la República se sanciona la Ley 1341 o Ley de Tecnologías de la Información y las Comunicaciones TIC Esta Ley cumple el propósito de establecer un marco jurídico consistente con la realidad mundial y el posicionamiento de las Tecnologías de la Información y las Comunicaciones en el ciberespacio.
+Por medio de esta Ley se transforma el Ministerio de Comunicaciones, pasando a ser el hoy Ministerio de Tecnologías de la Información.
+Y las Comunicaciones Mintió, con su creación se constituye el reconocimiento por parte del Estado de que la promoción del acceso, uso y apropiación de las tecnologías de la información y las comunicaciones, el despliegue y uso eficiente de la infraestructura, el desarrollo de contenidos y aplicaciones, la protección a los usuarios, la formación de talento humano en estas tecnologías y su carácter transversal son pilares para la consolidación de la sociedad de la información y del conocimiento e impactan en el mejoramiento de la inclusión social y de la competitividad del país CEPAS, 2011, pg.
+8, Posteriormente, en el mismo año, ante la necesidad de modificar el Código Penal para reconocer delitos informáticos, el Congreso de la República decreta la Ley 1273 de 2009 en la cual se establece la protección de la información y los datos y se preservan.
+integralmente, los sistemas que utilicen las tecnologías de la información y las comunicaciones, Ley 1273, 2009, Este mismo año y tras esta decisión se crea la Unidad de Delitos Informáticos de la Fiscalía General de la Nación, encargada de investigar y perseguir los delitos informáticos en el Pals.
+En el 2011 Colombia formalizó sus esfuerzos en establecer un modelo de Gobernanza para reconocer la Ciberseguridad y la Ciberdefensa como elementos fundamentales para garantizar la defensa nacional, pues el ciberespacio se considera el quinto dominio de la seguridad de un Estado Bouvet, 2014.
+Dada su importancia, el CONDES 3701 de 2011 estableció por primera vez los lineamientos de política.
+Para ciberseguridad y ciberdefensa del país, reconociendo la importancia de protegerlo de amenazas cibernéticas ante la importancia del ciberespacio para el desarrollo socioeconómico del país.
+Este CONDES tuvo como objetivo promover la cultura de la seguridad cibernética, concienciar a la población sobre los riesgos y buenas prácticas del uso de las Tecnologías de la Información y las Comunicaciones y establecer organismos de respuesta a los incidentes cibernéticos de la Nación.
+Las instancias que se conforman a través de este CONDES fueron: Colbert Grupo de Respuesta a Emergencias Cibernéticas de Colombia, adscrito en su momento al Ministerio de Defensa Nacional: el Comando Conjunto Cibernético, equipo encargado de la defensa del país en el ciberespacio y el Centro Cibernético Policial, equipo encargado de la seguridad ciudadana en el espacio.
+El CONDES planteaba que dichas entidades serían las encargadas del diseño e implementación de políticas y estrategias de seguridad cibernética y del establecimiento de mecanismos de protección de la información y de respuesta a incidentes cibernéticos.
+Así mismo, bajo el Decreto 289 de 2011 establece el Comité Nacional!
+De Ciberseguridad como órgano de consulta y asesoría para la formulación de políticas en materia de ciberseguridad y en el 2012 se establece el Plan Nacional de Ciberseguridad desarrollando una serie de estrategias para proteger las infraestructuras críticas del país. El Decreto 1008 de 2014 de junio de 2018, estableció los lineamientos generales de la Política de Gobierno Digital y se estableció la seguridad de la información como uno de los habilitadores transversales para el desarrollo del Gobierno Digital, Bajo la Resolución 05839 de 2015, la Policía Nacional de Colombia establece las funciones del Centro Cibernético Policial como una dependencia de la Dirección de investigación Criminal encargada de desarrollar estrategias, programas, y proyectos para la ciberseguridad, ciberdefensa y la protección de la información y los datos que circulan por el ciberespacio de los habitantes en el territorio nacional, a través de la investigación criminal Resolución 05839, 2015, art.
+Posteriormente, en el 2016 el CONDES 3855 estructura la Política Nacional de Seguridad Digital a través de la protección de la información crítica del país y planteaba la necesidad de mejorar las capacidades de respuesta ante incidentes cibernéticos por medio de la coordinación de diferentes entidades del Estado y la asignación de recursos económicos a las instancias creadas en el CONDES 3701 de 2011, En el CONDES se hace enfático que: Colombia no cuenta con una instancia de coordinación nacional en seguridad digital que optimice la gestión de los recursos destinados a esta materia CONDES 3855, 2016, pg.32.
+En el 2018, Colombia se acoge, bajo la Ley 1928 de ese año, al Convenio sobre la ciberdelincuente, adoptado en Budapest en el año 2001.
+Este Convenio tiene como objetivo promover la cooperación internacional en la lucha contra la ciberdelincuente en delitos como: acceso ¡legal a sistemas informáticos, fraude informático, abuso de niños en línea, robo de identidad, entre otros!
+En el 2020, el Departamento Nacional de Planeación pública el CONDES 3995: Política Nacional de Confianza y Seguridad Digital, el cual buscaba ejecutar los lineamientos planteados.
+En el Convenio de Budapest y establecer medidas para mejorar la seguridad digital del país por medio de una actualización del marco de gobernanza en materia de seguridad digital, El CONDES 3995 vuelve a hacer hincapié en la importancia de la coordinación entre las diferentes instancias del Estado, el sector privado y la academia para implementar de manera efectiva la política de confianza y seguridad digital; así como la necesidad de asignar recursos- financieros para llevar a cabo las propuestas planteadas.
+Para la correcta aplicación de la Política Nacional de Confianza y Seguridad Digital En el 2021, el Ministerio de Tecnologías de la Información y las Comunicaciones expide la Resolución 500 de 2021, en la cual se establecen los lineamientos para la implementación de la estrategia de seguridad digital y la adopción del Modelo de Seguridad y Privacidad de la Información ESPÍ.
+En esta resolución se manifestaba que todas las entidades públicas debían adoptar medidas técnicas, administrativas y de talento humano para garantizar la seguridad digital, esto con el fin de prevenir incidentes en la materia.
+: Posteriormente en el 2022, el Gobierno Nacional expide el Decreto 338, el cual modifica el Título 21 de: la parte 2, del libro 2 del Decreto 1078 de 2015 con el fin de establecer lineamientos generales para fortalecer la gobernanza de la seguridad digital, la identificación de estructuras críticas, cibernéticas y servicios esenciales, la gestión de riesgos y la respuesta incidentes de seguridad digital Decreto.339, 2022.
+De igual manera, el Ministerio de Tecnologías de la Información y las Comunicaciones expide la Resolución 00473, actualizada en la Resolución 3066 del mismo año, en donde se establece que el Grupo Interno de Trabajo de Respuesta a Emergencias Cibernéticas de Colombia -Colbert, estará adscrito a dicho ministerio bajo la dirección del Vice ministerio de Transformación Digital y tendrá como una de sus funciones actuar como punto único de contacto y coordinación para responder de manera rápida y eficiente a incidentes y vulnerabilidades de Seguridad Digital para la gestión de amenazas e incidentes de Seguridad Digital Nacional Resolución 03066, 2022, pg.
+20. De acuerdo con lo.
+Anterior, se evidencia que en materia de Política Nacional de Seguridad Digital, Colombia se ha caracterizado por ser un país donde se han creado marcos de gobernanza en materia de ciberseguridad.
+Sin embargo, la aplicación de los mismos se ha visto frenada ante la falta de coordinación de las instancias creadas, así como la falta de asignación presupuestal destinada al sector, lo que conlleva a no contar con el personal necesario para desarrollar los lineamientos contemplados en los distintos marcos de gobernanza:que se han planteado, Es necesaria la creación de una Agencia Nacional de Seguridad Digital que cumpla el rol de ser la máxima autoridad para la formulación y aplicación de las estrategias nacionales y políticas públicas en materia de Seguridad Digital y Ciberdefensa Nacional, tal como ocurre en otros países.
+Agencias.
+Internacionales de Seguridad Digital: Según cifras de Tic Tac 2022, cada minuto la economía mundial pierde US11,4 millones por delitos asociados con el cibercrimen.
+Se estima que para el 2015 el costo global del cibercrimen ascienda a los US10,5 billones, Así mismo, para el 2031 se calcula que habrá.
+Un ataque de asomare cada dos segundos a negocios, usuarios o dispositivos Wireshark 2022 publicó el estudio Cibercrimen estadística en el cual día conocer un panorama sobre la ciberdelincuente a nivel global, en el cual se afirma que en países como Estados Unidos, Irán, Israel, Emiratos Árabes y Qatar el 50 de. Los correos electrónicos de cada 100 Usuarios de internet han sido vulnerados por los ciberdelincuentes.
+Ante el auge del cibercrimen; y con el fin de tener políticas preventivas, países alrededor del mundo han creado Agencias de Seguridad Digital con el fin de establecer estructuras organizativas especializadas que promuevan la coordinación, la colaboración, la respuesta eficiente y la educación en materia de Seguridad Digital, pará así proteger las infraestructuras críticas y los datos personales de los ciudadanos.
+A continuación.
+Se presentan algunas Agencias de Seguridad Digital a nivel mundial: AÑO DE NOMBRE, CREACIÓN DESCRIPCIÓN Es responsable de la ciberseguridad en el país.
+Tiene como objetivo proteger los sistemas de información y las infraestructuras críticas de Alemania, así como brindar asesoramiento y orientación a entidades ASÍ - Bundesrat fue, públicas, privadas y Sicherheit en de ciudadanos en materia Informationstechnik Alemania de seguridad cibernética. ENISA - European Union Agency for Cybersecurity ANSI- Ájense Nacional de la secrete des sistemas d information ACSC- Australian Cyber Security Agency Unión Europea Junto a la Red del Centro Nacional de Coordinación de la Unión ¡Europea NCC- coordinan las políticas de innovación y política industriales, ciberseguridad de la Unión Europea, Busca fortalecerlas.capacidades.en materia.
+De tecnología para promover la economía y: proteger a los ciudadanos de ataques cibernéticos, Creada por medio de la Ley de Programación Militar de Francia con el objetivo de proteger la información y la infraestructura.crítica del país.
+Es la autoridad nacional. En materia dé.
+Seguridad cibernética y tiene la responsabilidad.
+Dé. Cuidar los sistemas.
+De Información crítica del gobierno, empresas y organizaciones clave en Francia, Establecido como iniciativa del Gobierno para fortalecer y coordinarla .
+Ciberseguridad en el país.
+Se encarga de proporcionar orientación, inteligencia, asesoramiento y respuesta.
+A incidentes de. Ciberseguridad.NOS- Nacional Reino Unido CASA- Cybersecurity and Infraestructura Security Agency Estados Unidos CCCS - Canadian Centre for Cyber Security Tiene la responsabilidad de proteger al Reino Unido contra amenazas cibernéticas proporcionando orientación y asesoramiento en Seguridad Digital y coordinar la respuesta a incidentes cibernéticos a nivel nacional.
+Es una Agencia adscrita al Departamento de Seguridad Nacional de los Estados Unidos y tiene la responsabilidad de proteger la infraestructura crítica del país, de promover la seguridad cibernética y coordinar la respuesta del país. Ante incidentes.
+Cibernéticos.
+Tiene la responsabilidad de proteger y defender las redes de información y sistemas de Canadá ante amenazas cibernéticas.
+Proporciona asesoramiento y orientación en ciberseguridad tanto a entidades del estado, ¡como al sector privado del país!
+Busca promover la colaboración y la cooperación en materia de ciberseguridad a nivel nacional e internacional.
+Tabla de elaboración propia con información de las diferentes Agencias mencionadas 6, CONCLUSIONES: En el Foro Económico Mundial, realizado en Davos Suiza, a comienzos del 2023, Nadie Créese, profesora de seguridad cibernética de la Universidad de Oxford, enfatizó en la necesidad de que a nivel mundial se unan esfuerzos para frenar la tormenta cibernética de seguridad.
+Así mismo, Virgen Stock, secretario general de la INTERPOL ratificó el cibercrimen como una amenaza global que requiere de respuestas por: medio de acciones coordinadas.
+El 91 de los encuestados del informe Perspectiva de Ciberseguridad Global 2023 cree que un evento cibernético catastrófico de gran alcance.
+Mundial es probable en los próximos dos años.
+Y según cifras de Google 2023 existe un repunte de ciberataques patrocinados por diversos Estados en diversos conflictos geopolíticos como él: conflicto entre Rusia y Ucrania.
+Para expertos, como OyvindErisksen 2023 la protección de las infraestructuras críticas de los Estados es fundamental, pues se han convertido en un arma de guerra y las cori secuencias son fundamentales y extremas.
+Y según la Asociación Italiana de Seguridad Informática 2022 el cibercrimen ha costado más de UN 6 billones a las economías, del mundo,, Ante este panorama, y ante los ataques cibernéticos de los que ha sido víctima el país en los Últimos meses, se hace necesario que el Congreso de la República cree por medio-de una Ley de la República, la Agencia Nacional de Seguridad Digital, la cual será la encargada de emitir lineamientos que tanto entidades: públicas como el sector privado deben: cumplir para la efectiva gestión de la Seguridad Digital y de la protección de la infraestructura crítica cibernética nacional ante las ¡Amenazas dadas en la materia, En América Latina, hasta el momento ño se han creado Agencias Nacionales que estén encargadas de la coordinación y protección de la Seguridad Digital de los Estados, lo cual permitiría!
+A Colombia ser ejemplo-en la materia y pionera en el continente.
+Según el CEPAS 2021 proteger las infraestructuras, los datos personales y la seguridad de los ciudadanos en el ciberespacio es un Imperativo para el desarrollo sostenible de América Latina y el Caribe.
+En atención a lo anterior, Colombia, requiere fortalecer las capacidades en seguridad digital de los ciudadanos, del sector público.
+Y del sector privado para, la adecuada gestión de los riesgos de seguridad digital, facilitando la articulación de esfuerzos, el intercambio de información, la cooperación y asistencia mutua, así como promover un ecosistema digital seguro y proteger a la sociedad, que Vele por la protección, del Estado. En general, la infraestructura crítica del país y las entidades gubernamentales de ataques cibernéticos.
+X 5 CO.
+E Apa EN la SD en Referencias: a Radio; 2022, noviembre 10.
+Más de 10 teras de información sensible de la Fiscalía estarían secuestradas por hackers.
+BGU Radio.
+Recuperado el 12 de mayo de 2023, de CEPAS.
+2011, abril.
+De las Telecomunicaciones a las TIC: Ley de TIC de Colombia 134109, Repositorio CEPAS.
+Retrieved May 17, 2023, ROM HTTPS repositorio.señal orqbitstreanvhandle11362481818110124 es.PDF CEPAS, 2021, Infraestructura resiliente; , un imperativo para el desarrollo sostenible en América Latina y el Caribe, Repositorio CEPAS.
+Recuperado el 16 de mayo dé, 2023, de HTTPS:repositorio. Cenal orabitstreanhandle1136246646152000675 es.
+PDF 5 o Dirección, Nacional de Planeación.
+2011, 14 de julio, CONDES 3701.
+Lineamientos de Política para Ciberseguridad y Ciberdefensa, Subdirección.
+De Gestión y Desarrollo del Talento Humano.
+¡Recuperado el 15 de mayo de 2023, de httoscolaboracion DNA.que.coCDTConpesEcon4C3B3micos3701.pdf Dirección Nacional!
+De Planeación: 2016, 11 de abril.
+CONDES 3855 Política Nacional de Seguridad Digital en Colombia, Subdirección de Gestión y Desarrollo del Talento Humano, Recuperado el 15 de mayo de 2023, dé.
+CA jeDouzet, F. 2014.
+La geopolítica por comprende le ciberespacio.
+Heródoto, 152-153, 3-21. httpsdíalnet.uni rioja esservletarticulo? Codigo4743862 Google, 2022, diciembre 7.
+Fog of War.
+Google.
+Recuperado el 16 de mayo de 2023, de IBM, 2023.
+IBM Security X-Force Threat Intelligence Index.2023, HTTPS-Www.IBM comreportsithreatintelligence INFOBAE.
+Confirmaron ataque cibernético a ta plataforma SECO ll. Infobae.
+¡Recuperado el 15 de mayo de 2023, de HTTPS:www Infobae.comcolombia20230503confirmaron-ataque-cibernético-a-ta-plataforma-seco-ii!
+La República.
+2022, septiembre 30.
+El costo global del cibercrimen en 2025 ascenderá a un total de US10,5 billones.
+LaRepublica.co.
+Recuperado el 16 de mayo de 2023, de Lesmes, L. 2023, abril 10.
+Ciberseguridad en Colombia: datos sobre ciberataques en el país - Novedades Tecnología - Tecnología.
+El Tiempo.
+Recuperado Mayo 12, 2023 de HTTPS:www.eltierpo.
+comitecnosfera, ranciedades-!
+tecnologialciberseguridad:- ersolombladalos sobre-ciberataques-e pel-pals-757651 Por Ministerio de Tecnologías de la Información y las Comunicaciones.
+Resolución 03066 Por la cual se crean.
+Grupos Internos de Trabajo del Ministerio de Tecnologías de la Información y las Comunicaciones, se asignan funciones y se derogan unas Resoluciones Recuperado el 12 de mayo de 2023, de hitos:mintió gol cooortal715articles-162594.
+recurso4.pdf NESI.
+National Cyber Security Index.
+Recuperado el 12 de mayo de 2023, de Policía Nacional de Colombia.
+Resolución 05839.
+¿Recuperado de HTTPS:AWwww.policia.gov.cofile32305downtoad?tokenOADOIAOJ Portafolio.
+2022, diciembre 21.
+EPS Samnitas: detalles del ciberataque que sufrió Grupo Peralta Empresas Negocios,, Portafolio, Recuperado el 12 de mayo de 2023, de Surfear.
+Cibercrimen estadística.
+Surfear.
+Recuperado el 16 de mayo de 2023, de World Economic Forum.
+Global Eyborsocurity Outlook 2028 Fórum.
+Fórum.
+1 Recuperado el 16 de mayo de 2023, de hitos:www3:de ¿doce?
+Outlook: World Economic Forum.
+2023 The Global Risks Report 2023.
+Recuperado de M fuera Y 2023.
+World Economic Forum.
+2023, marzo 1.
+Esa es la razón por la que debemos reforzar la ciberseguridad en esta era de policrisis.
+El Foro Económico Mundial.
+Recuperado el 16 de mayo de 2023, de hitos:es fórum.
+orgtegenda20230YGbersequridad-en-e: era-de-la-policrisis!

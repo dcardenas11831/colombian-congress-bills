@@ -1,0 +1,451 @@
+Bogotá, D.C., 26 de julio de 2024 Señores MESA DIRECTIVA Senado de la República Ciudad Asunto: Radicación Proyecto de Ley por la cual se fomenta la industria electrónica y de semiconductores en Colombia.
+Respetados señores, Por medio de la presente nos permitimos radicar el Proyecto de Ley Por la cual se fomenta la industria electrónica y de semiconductores en Colombia.
+De manera atenta solicitamos respetuosamente iniciar el trámite correspondiente, en cumplimiento de las disposiciones previstas en la Constitución y la Ley, conforme el siguiente articulado y la respectiva exposición de motivos.
+Cordialmente, ea DAVID LUNA SÁNCHEZ Senador de la República ANA MARÍA CASTAÑEDA GÓMEZ Senadora de la República Flora lo DANIEL CARVALHO MEJÍA Representante a la Cámara por Antioquia GUIDO ECHEVERRI PIEDRAHÍTA Senador de la República Proyecto de Ley No DE 2024 Por la cual se fomenta la industria electrónica y de semiconductores en Colombia EL CONGRESO DE COLOMBIA DECRETA ARTÍCULO 1.
+Objeto.
+La presente ley tiene por objeto crear condiciones que favorezcan el fortalecimiento del ecosistema de la industria electrónica y de semiconductores, a través de reconocer esta industria como un eslabón estratégico para la soberanía tecnológica y el crecimiento económico del país; fomentar la creación y consolidación de empresas especializadas en electrónica y semiconductores; propender por el entrenamiento y la formación de capital humano nacional; apoyar el desarrollo de procesos de investigación, transformación, comercialización e innovación y crear mecanismos para atraer la inversión nacional y extranjera en el sector, con el fin de apoyar la inserción de Colombia en la cadena de valor global de la industria electrónica.
+ARTÍCULO 2, Definiciones.
+Para los efectos de la presente Ley, se adoptan las siguientes definiciones: a.
+Equipo, aparato o dispositivo electrónico: son dispositivos conformados por múltiples componentes que utilizan señales eléctricas para realizar una función específica, especialmente relacionadas con el almacenamiento, transmisión y procesamiento de información.
+b. Semiconductores: Conocidos también como un circuito integrado o chip, son dispositivos electrónicos en el que se integran múltiples componentes electrónicos, como transistores, resistencias y condensadores, en un solo sustrato, generalmente de silicio.
+Los semiconductores son fundamentales en la electrónica moderna, ya que pueden desempeñar diversas funciones, desde procesamiento de datos hasta el control de dispositivos, Existen dos tipos principales: circuitos integrados analógicos, que se utilizan para el procesamiento de señales analógicas, que incluyen sensores, amplificadores y circuitos de radiofrecuencia, y los circuitos integrados digitales que centran en el procesamiento de información digital, como son los microprocesadores, memorias RAM y ROM, y otros componentes esenciales en sistemas digitales.
+Se usa el término semiconductor como referencia a estos dispositivos haciendo alusión a los materiales usados en su construcción, como el silicio, que tienen una conductividad eléctrica intermedia entre un conductor, como el cobre, y un aislante, como el vidrio. Industria Electrónica: es el sector que se dedica al diseño, fabricación y comercialización de productos electrónicos.
+Esto abarca desde componentes fundamentales como semiconductores y circuitos impresos, hasta dispositivos electrónicos de consumo, equipos de procesamiento de información, equipos de comunicaciones, sistemas automotrices, tecnologías médicas, equipos de seguridad, equipos para automatización industrial, entre otros, Empresa de electrónica: es una organización dedicada al diseño, fabricación, comercialización yo distribución de productos electrónicos y componentes relacionados.
+Estas empresas pueden abarcar una amplia variedad de sectores y productos dentro del campo de la electrónica.
+Algunos ejemplos de empresas de electrónica incluyen fabricantes de dispositivos electrónicos de consumo, como teléfonos móviles, televisores y computadoras; fabricantes de equipos de comunicación, como routers y dispositivos de redes; empresas especializadas en componentes electrónicos, como semiconductores y sensores; así como empresas dedicadas al diseño y desarrollo de sistemas y equipos electrónicos personalizados para aplicaciones específicas, en sectores biomédico, instrumentación, automatización industrial, agricultura de precisión, Lot internet de las cosas, iluminación, neutrónica electrónica automotriz, repotenciación de equipos de aviación, drones, potencia, sistemas de conversión y distribución de energía, seguridad y defensa Cadena de valor de la industria electrónica: La cadena de valor es el proceso completo que abarca desde la producción de materias primas, la transformación de esas materias en productos, hasta la entrega final a los consumidores.
+Esta cadena incluye los procesos relacionados con la fabricación de circuitos integrados, como creación de obleas de silicio, diseño, impresión, pruebas y empaquetamiento, y relacionados con aparatos electrónicos, como el diseño del aparato, integración de componentes, diseño externo del equipo, comercialización y disposición de residuos electrónicos.
+Diseño electrónico: El diseño electrónico es el proceso de recepción de los requerimientos del cliente, planificación, identificación normativa y creación de sistemas, productos, equipos, en el que intervienen el diseño de circuitos, esquemáticos, PCB lay out.
+Implica la selección y conexión de componentes electrónicos para lograr un funcionamiento específico, considerando aspectos como la eficiencia, la funcionalidad y la seguridad.
+Casas de Diseño: Las casas de diseño, también conocidas como empresas de diseño de semiconductores, son organizaciones especializadas en crear diseños electrónicos complejos, como circuitos integrados chips.
+Estas empresas proporcionan servicios de diseño a otras compañías que pueden no tener la capacidad interna para diseñar componentes electrónicos avanzados.
+Las casas de diseño trabajan en estrecha colaboración con los clientes para desarrollar soluciones personalizadas que cumplan con sus necesidades y requerimientos, ARTÍCULO 3.
+Reconocimiento de la industria electrónica como una prioridad para el país.
+El Ministerio de Comercio, Industria y Turismo, junto al Ministerio de Tecnologías de la Información y las Comunicaciones, deberán realizar y mantener una caracterización de la industria electrónica del país, incluyendo un censo de empresas del sector, la actualización de las actividades económicas asociadas, fuerza laboral, potencial exportador, entre otros aspectos relevantes para la identificación del sector.
+Además, expedirán la reglamentación necesaria para que la industria electrónica sea incluida como un área estratégica y transversal de la industria nacional en la Política Nacional de Reindustrialización, permitiendo su priorización en la generación de incentivos y la financiación de proyectos que atiendan la demanda interna de modernización, actualización e innovación tecnológica de los diferentes sectores de la economía nacional.
+Parágrafo Primero: El Ministerio de Comercio, Industria y Turismo, con el aval del Ministerio de Tecnologías de la Información y las Comunicaciones, expedirá certificación, la cual deberá anexarse en la matrícula mercantil a aquellas empresas electrónicas.
+Asimismo, se unificará una red de base de datos para las empresas electrónicas que define el artículo 2 de la presente ley, que deberá publicarse en la plataforma virtual del Ministerio de Comercio, Industria y Turismo, así como en la del Ministerio de Tecnologías de la Información y las Comunicaciones.
+ARTÍCULO 4.
+Fomento al emprendimiento y desarrollo empresarial.
+El Ministerio de Comercio, Industria y Turismo, el Ministerio de Tecnologías de la Información y las Comunicaciones, y las Alcaldías mediante las secretarías designadas para este asunto, crearán programas o líneas de acción en programas ya existentes, que tengan como propósito fomentar el emprendimiento de base tecnológica en el área de la industria electrónica y de semiconductores.
+Los programas o líneas de acción deberán incluir procesos de ideación, el acompañamiento para la creación de nuevas empresas, diseño de planes de aceleración y consolidación para empresas existentes y el desarrollo de habilidades exportadoras.
+Parágrafo Primero: Los Concejos Municipales o Distritales podrán ofrecer condiciones más favorables en relación con el Impuesto de Industria y Comercio a las empresas que obtengan la certificación de la que trata el parágrafo del artículo 3 de la presente Ley.
+Esto incluye reducciones tarifarias, exenciones tributarias, acuerdos yo condonaciones de pago frente a intereses por mora, reducción transitoria de sanciones o tasas de interés, deducción del IVA en la adquisición yo construcción de activos productivos, y exclusiones en actividades vinculadas con la Cadena de Valor de la Industria Electrónica.
+ARTÍCULO 5.
+Programa de apoyo al desarrollo de productos.
+El Ministerio de Ciencia, Tecnología e Innovación y el Ministerio de Tecnologías de la Información y las Comunicaciones crearán convocatorias de financiación para diseño, prototipado, pruebas, certificaciones y alistamiento para el mercado de productos y servicios nuevos o existentes, dirigido a alianzas entre empresas colombianas, empresas de la industria electrónica en Colombia, y actores reconocidos del Sistema Nacional de Ciencia, Tecnología e Innovación SNCTH, priorizando proyectos con potencial de exportación o de encadenamiento productivo y la inclusión de participantes de los programas de formación y fomento del emprendimiento de la industria electrónica.
+Parágrafo Primero: Las empresas de la Industria Electrónica en Colombia que participen en programas de financiación para diseño, prototipado, pruebas, certificaciones y alistamiento para el mercado de productos y servicios podrán descontar del impuesto sobre la renta del año en que se realice el pago, o en los períodos fiscales subsiguientes, el IVA pagado por la formación de activos fijos reales productivos, conforme a lo estipulado en el artículo 258-1 del Estatuto Tributario, Parágrafo Segundo: Con el objetivo de contar con productos electrónicos que cumplan con la normativa internacional para ser comercializados y exportados, el Ministerio de Comercio, Industria y Turismo y el Ministerio de Ciencia, Tecnología e Innovación deberán impulsar la creación de infraestructura de laboratorios de pruebas y certificación de productos electrónicos.
+Así mismo, apoyar a actores del SECTA en la adquisición de equipos especializados y la formación en normas internacionales para ensayos de presentificación de productos.
+ARTÍCULO 6.
+Propiedad Industrial.
+El Ministerio de Comercio, Industria y Turismo, en coordinación con la Superintendencia de Industria y Comercio, reglamentará un procedimiento acelerado para la protección de la propiedad industrial, incluyendo patentes y diseños industriales, desarrollada en el ámbito del Diseño Electrónico.
+Este procedimiento está destinado a facilitar y agilizar la protección legal de las innovaciones y desarrollos significativos en este sector, asegurando así una respuesta rápida y eficiente a las necesidades de protección de los derechos de propiedad industrial de las empresas y emprendedores involucrados en la Industria Electrónica.
+La Superintendencia de Industria y Comercio será la entidad encargada de ejecutar y supervisar la aplicación de este procedimiento acelerado, en conformidad con las directrices y parámetros que establezca el Ministerio.
+ARTÍCULO 7.
+Procedimiento Aduanero Acelerado.
+El Ministerio de Hacienda y Crédito Público, en coordinación con la Dirección de Impuestos y Aduanas Nacionales DÍA, reglamentará un procedimiento aduanero acelerado específicamente para proyectos certificados por el Ministerio de Comercio, Industria y Turismo que estén relacionados con la cadena de valor de la Industria Electrónica.
+Este procedimiento tiene como finalidad facilitar y agilizar la importación y exportación de bienes y componentes esenciales para estos proyectos, contribuyendo así a su desarrollo eficiente y a su inserción en mercados globales.
+La DÍA será la encargada de implementar este procedimiento, asegurando que los trámites aduaneros sean rápidos y eficientes, al tiempo que se mantienen los estándares de control y seguridad requeridos.
+ARTÍCULO 8.
+Fomento al entrenamiento en habilidades prácticas para la industria electrónica.
+El Ministerio de Tecnologías de la Información y las Comunicaciones creará un programa de entrenamiento avanzado para la industria electrónica y de semiconductores, dirigido a estudiantes de últimos semestres, tecnólogos y profesionales en carreras de ciencia, tecnología, ingeniería y matemáticas ÍTEM, por sus siglas en inglés.
+Parágrafo Primero.
+El programa debe contar con la asesoría de un comité técnico de alto nivel, que incluya representantes de reconocidas universidades nacionales e internacionales, el SENA, empresas de la industria electrónica y de semiconductores, gremios, y asociaciones empresariales y profesionales de ingeniería.
+Parágrafo Segundo.
+Los participantes serán seleccionados a través de una convocatoria abierta, con criterios claros de evaluación y con enfoque de género, promoviendo la participación de a los meros un 30 de mujeres.
+Parágrafo Tercero.
+El programa de entrenamiento debe garantizar el acceso y la capacitación en herramientas software de automatización de diseño electrónico ERA, por sus siglas en inglés, estableciendo las alianzas correspondientes con los proveedores líderes internacionales, Parágrafo Cuarto.
+El programa deberá incluir estrategias de vinculación a la industria para los beneficiarios de las becas de formación, buscando insertar en el sector productivo al menos un 50 de los becarios. Parágrafo Quinto.
+El programa de entrenamiento deberá incorporar también una oferta de formación en Ciencia, Tecnología, Ingeniería y Matemáticas ÍTEM, por sus siglas en inglés, para los niveles de educación básica y media, enfocados en el desarrollo de habilidades de diseño e implementación de soluciones tecnológicas basadas en electrónica aplicada y programación de computadores.
+ARTÍCULO 9.
+Apoyo para la formación avanzada en el área electrónica.
+El Ministerio de Ciencia, Tecnología e Innovación y las Gobernaciones y Alcaldías, mediante las secretarías designadas para este asunto, crearán programas o incluirán en programas existentes, becas condenables para la realización de programas de pregrado en ingeniería electrónica con acreditación nacional de alta calidad, y programas de postgrado, a nivel de maestría y doctorado, en reconocidas universidades nacionales e internacionales enfocados en la industria electrónica y de semiconductores.
+Parágrafo Primero.
+El programa deberá incluir estrategias de vinculación a la industria para los beneficiarios de las becas de formación, buscando insertar en el sector productivo al menos un 50 de los becarios.
+ARTÍCULO 10.
+Promoción internacional de la industria electrónica nacional.
+El Ministerio de Comercio, Industria y Turismo, a través de Precolombina o la entidad que la reemplace, en conjunto con el Ministerio de Relaciones Exteriores y el Ministerio de Tecnologías de la Información y las Comunicaciones liderarán la creación de programas de promoción de la industria electrónica nacional, que fomenten la contratación de servicios por parte de clientes internacionales, a través de ruedas de negocios semestrales, misiones comerciales anuales, convenios de cooperación, organización de eventos académicos, de difusión y comerciales anuales, entre otros mecanismos pertinentes, y fomente la atracción de inversión extranjera directa, fondos de cooperación y capital de riesgo para apoyar industria electrónica nacional.
+ARTÍCULO 11.
+Incentivos a la inversión internacional en la industria electrónica y de semiconductores.
+El Ministerio de Comercio, Industria y Turismo, en colaboración con el Ministerio de Relaciones Exteriores, el Ministerio de Hacienda y Crédito Público y el Ministerio de Tecnologías de la Información y las Comunicaciones, están facultados para celebrar contratos de estabilidad tributaria relacionados con nuevos proyectos de inversión internacional desarrollados en el territorio nacional.
+Estos contratos aseguran que los beneficios tributarios y otras condiciones vigentes en las normativas tributarias nacionales al momento de firmar el contrato se mantendrán inalterables durante su vigencia. Parágrafo Primero: Los contratos de estabilidad tributaria deberán satisfacer los siguientes requisitos: a El inversor deberá completar el proceso de calificación con el Ministerio de Comercio, Industria y Turismo, siguiendo la normativa que establezca el Gobierno nacional.
+b Tras recibir la notificación del acto administrativo del Ministerio de Comercio, Industria y Turismo, que reconoce la relevancia del nuevo proyecto en la Industria Electrónica en Colombia, el inversor solicitará el contrato a la Dirección de Impuestos y Aduanas Nacionales DÍA, adjuntando los documentos que el Gobierno reglamente.
+C Los contratos establecerán que la DÍA ejercerá facultades de auditoría tributaria, así como de seguimiento y verificación del cumplimiento del proyecto de inversión.
+D Se debe especificar en los contratos el monto de la prima referida en el parágrafo segundo, el método de pago y otras características pertinentes.
+Parágrafo Segundo: El inversor que firme un contrato de estabilidad tributaria abonará al Ministerio de Hacienda y Crédito Público una prima del 0.75 sobre el valor de la inversión anual durante el periodo estipulado por la normativa del Gobierno nacional, que será de al menos cinco años.
+Parágrafo Tercero: Los contratos de estabilidad tributaria entrarán en vigor desde la fecha de firma y se mantendrán activos durante el periodo de beneficio determinado en la calificación realizada por el Ministerio de Comercio, Industria y Turismo.
+Parágrafo Cuarto: La no realización oportuna de la inversión, el retiro parcial o total de esta, el impago de la prima, incurrir en causales de corrupción especificadas en el parágrafo quinto o el incumplimiento de obligaciones tributarias sustanciales o formales, resultará en la terminación anticipada del contrato.
+Parágrafo Quinto: No podrán suscribir ni ser beneficiarios de los contratos de estabilidad tributaria quienes hayan sido condenados mediante sentencia ejecutoriada o sancionados mediante acto administrativo en firme, en el territorio nacional o en el extranjero, en cualquier época, por conductas de corrupción que sean consideradas punibles por la legislación nacional. Parágrafo Sexto: Las disposiciones cuya estabilidad sea garantizada mediante estos contratos y que sean declaradas inexequibles no estarán cubiertas por la.
+Estabilidad tributaria durante la vigencia del contrato.
+ARTÍCULO 12.
+Evaluación de resultados.
+Cada dos años, iniciados a partir de la promulgación de la presente Ley, el Ministerio de las Tecnologías de la Información y las Comunicaciones, en conjunto con el Ministerio de Comercio, industria y Turismo, deberán realizar una revisión de los alcances de su implementación.
+El informe deberá ser remitido y sustentado en las Comisiones Sextas conjuntas.
+En el informe se deberán establecer además las metas en los próximos dos años.
+ARTÍCULO 13.
+Vigencia.
+La presente Ley rige a partir de su promulgación y deroga aquellas que le sean contrarias.
+Cordialmente, A MM DAVID LUNA SÁNCHEZ Senador de la República DANIEL CARVALHO MEJÍA Representante a la Cámara por Antioquia ANA MARÍA CASTAÑEDA GÓMEZEXPOSICIÓN DE MOTIVOS Proyecto de Ley No, Por la cual se fomenta la industria electrónica y de semiconductores en Colombia 1.
+Introducción La Cuarta Revolución Industrial, también conocida como Industria 4.0, está marcando un cambio significativo en la forma en que las empresas operan a nivel global.
+Esta revolución se fundamenta en la integración de tecnologías emergentes como Internet de las Cosas, blockchain, inteligencia artificial y otras, las cuales dependen en gran medida del desarrollo de sistemas electrónicos avanzados.
+Estos sistemas electrónicos desempeñan un papel fundamental en esta transformación, ya que van mucho más allá de ser simplemente la plataforma física necesaria para ejecutar programas informáticos o ser la interfaz que permite a los usuarios interactuar con el software.
+Incluyen todos los equipos electrónicos de consumo con que contamos, como computadores, celulares, tabletas, visores de realidad extendida, servidores para analítica de datos e inteligencia artificial, equipos de telecomunicaciones, dispositivos médicos, soluciones de robótica, sensores y dispositivos que facilitan la detección y el control en los procesos automatizados en todos los sectores productivos, incluyendo energía, transporte, aeroespacial y manufactura, entre otros.
+No hay soluciones tecnológicas verdaderamente innovadoras que no estén sustentadas por una buena infraestructura de sistemas electrónicos.
+En el contexto colombiano, históricamente el país ha dependido en gran medida de la importación de tecnología, debido a la falta de una industria electrónica desarrollada a nivel nacional.
+En cifras, la industria electrónica representó en 2019 solo el 1.27 del empleo en Colombia y el 0.78 de la producción industrial 1.
+De acuerdo con el Boletín de Sociedad Digital del primer semestre de 2021 2, las exportaciones del sector TIC Tecnologías de la Información y las Comunicaciones representaron un 0.45 de las exportaciones totales del país, sumando aproximadamente 68 millones de dólares en el período estudiado.
+Las actividades económicas que prevalecen son: Otras industrias manufactureras con 24 millones, Fabricación de componentes electrónicos con 21 millones, Fabricación de equipos de comunicación con 10 millones, Fabricación de aparatos electrónicos de consumo con 6 millones y Fabricación de computadoras y de equipos periféricos con 6 millones.
+Estas cifras son significativamente bajas comparadas con los 3.000 millones de dólares mensuales en promedio de las exportaciones de los sectores no TIC.
+En contraste, en términos de importaciones, en el primer semestre de 2021, ingresaron productos TIC por un total de 2.266 millones de dólares.
+Esta breve radiografía del sector muestra que Colombia no cuenta con una industria fuerte; sin embargo, es crucial reconocer la importancia estratégica de contar con un ecosistema de empresas de electrónica sólido y competitivo para solventar las necesidades locales y poder aumentar el impacto regional en Latinoamérica.
+Apoyar y fortalecer la industria electrónica en Colombia no solo contribuirá a reducir la dependencia de la importación de aparatos electrónicos, permitiendo la inserción de tecnología más ajustada al contexto nacional, sino que también impulsará el desarrollo económico y tecnológico del país al mejorar la balanza comercial de este sector.
+Al fomentar la producción local de hardware, Colombia puede garantizar un mayor control sobre su soberanía tecnológica y promover la creación de empleo y la innovación en el sector.
+Se ha podido evidenciar el impacto positivo que esta industria ha tenido en economías mundiales, como Corea del Sur, cuyo PIB pasó de 2.300 millones a 1.7 billones de dólares, mostrando un crecimiento promedio de 4.9 anuales entre 1988 y 2022 3.
+La industria electrónica ha contribuido notablemente a este desarrollo, representando un 20 de sus exportaciones, empleando a más de dos millones de personas y atrayendo inversión extranjera por más de 20.000 millones de dólares en 2023. Esto se logró con políticas claras como 1 Inversiones en educación y formación para crear una fuerza laboral altamente capacitada; 2 Incentivos fiscales, exenciones de impuestos y otras ventajas a las empresas del sector electrónico; y 3 Protección del mercado interno donde se aplicaron aranceles a los productos electrónicos importados, pero facilitando el ingreso de materia prima y componentes para favorecer la producción interna.
+Desde los años 2000, los planes de ciencia y tecnología han tenido como objetivo mejorar la capacidad y financiación para investigación y desarrollo la, desarrollar una fuerza laboral de en este campo, aumentar la financiación para ciencia básica y apoyo a las pequeñas y medianas empresas PYME y a los emprendedores tecnológicos startups.
+En el caso de economías más cercanas, como Costa Rica 4, también gracias a políticas de apoyo gubernamental, la industria electrónica costarricense experimentó un rápido crecimiento en las décadas de 1980 y 1990, y hoy cuenta con una participación significativa en el aparato industrial del país: representa un 15 del PIB en 2023 y emplea a más de 70.000 personas 5.
+El propósito de este proyecto de ley es que Colombia invierta en el fomento y el apoyo a su industria electrónica que le permita a sus distintos sectores productivos mejorar su competitividad y facilite la evolución hacia las oportunidades que ofrece la Cuarta Revolución Industrial, garantizar su competitividad a nivel global, generar un contexto propicio para el crecimiento de la industria y la economía nacional, mientras protege su soberanía tecnológica.
+Industria electrónica y de semiconductores La industria electrónica se puede definir como el sector económico responsable de todas aquellas soluciones tecnológicas basadas en el diseño, fabricación, verificación, integración y comercialización de componentes, como elementos pasivos, circuitos integrados, entre otros, y dispositivos electrónicos, tales como computadoras, teléfonos móviles, televisores, cámaras, equipos de audio, equipos de comunicación y una amplia gama de otros dispositivos y sistemas que operan gracias a la integración de componentes electrónicos y eléctricos.
+Diseño y fabricación de aparatos electrónicos Un.
+Aparato o sistema electrónico es un conjunto de componentes electrónicos interconectados que trabajan juntos para realizar una función específica.
+Estos componentes pueden incluir circuitos integrados, transistores, resistencias, capacitares, entre otros.
+La diferencia principal entre un sistema electrónico y los componentes individuales, como los circuitos integrados, es que un sistema electrónico combina estos componentes de manera organizada y estructurada para cumplir con un propósito determinado, mientras que los circuitos integrados y otros componentes electrónicos son partes fundamentales de un sistema electrónico.
+El sistema en sí mismo es la entidad completa que realiza una tarea o función específica.
+Estos sistemas proveen soluciones a necesidades puntuales de las organizaciones; por ejemplo, sistemas de automatización, de apoyo al agro de precisión, sistemas de monitoreo para ciudades inteligentes ambientales, seguridad, movilidad, etc., gestión energética, etc.
+La cadena de valor de la industria electrónica incluye los siguientes eslabones:Investigación y Desarrollo ID: En esta etapa se lleva a cabo la investigación de nuevas tecnologías, materiales y conceptos para el diseño de dispositivos electrónicos, y se intenta comprender las necesidades del mercado, tendencias tecnológicas y el desarrollo de prototipos iniciales y pruebas de concepto que validan las hipótesis.
+En este eslabón participan empresas, universidades y centros de investigación.
+Diseño de Hardware: En esta etapa, los ingenieros diseñan el hardware del dispositivo electrónico, incluyendo la selección de componentes, el diseño de circuitos impresos PCB, la disposición física de los componentes, y la integración de los sistemas necesarios para el funcionamiento del dispositivo, de acuerdo a los lineamientos y buenas prácticas de diseño orientadas al diseño para manufactura, ensamble y pruebas, y a la normativa internacional aplicable.
+El diseño de hardware puede incluir la concepción de un circuito integrado de uso específico para la solución.
+Diseño de Software: Paralelamente, al diseño de hardware, se lleva a cabo el diseño del software que controlará el funcionamiento del dispositivo, Esto puede incluir el desarrollo de sistemas operativos específicos, controladores de dispositivos, firmware y aplicaciones de usuario.
+Prototipado, Pruebas y Certificaciones: Una vez completados los diseños de hardware y software, se fabrican prototipos del dispositivo para pruebas.
+Estas pruebas pueden incluir pruebas de funcionalidad, rendimiento, durabilidad, compatibilidad eléctrica y electromagnética, pruebas de resistencia al ambiente, seguridad eléctrica, entre otras.
+Los productos deben ser certificados ante la normativa internacional vigente.
+Producción en Masa: Una vez se cuente con la validación de los prototipos, se procede a la producción en masa del dispositivo.
+Esto implica la selección de proveedores de componentes, donde se pueda asegurar un balance entre costo, tiempos de fabricación y calidad, con especial cuidado en los aspectos de protección de propiedad intelectual.
+Logística y Distribución: Cuando se cuente con los dispositivos electrónicos fabricados, estos se distribuyen a través de canales de distribución apropiados, que pueden incluir minoristas, mayoristas, distribuidores y canales en línea.
+Servicio Posventa y Soporte Técnico: Finalmente, se ofrece servicio posventa y soporte técnico para garantizar la satisfacción del cliente y resolver cualquier problema que pueda surgir con el dispositivo.
+Esto puede incluir reparaciones, actualizaciones de software, y atención al cliente para consultas y asistencia técnica. Compañias de software para diseño CAD CAM Provee herramientas de software para el diseño Industria y de componentes Porá los dispositivos Compañías de protección de propiedad intelectual Provee apoyo en los procesos de registro, patentamiento o mecanismo de protección de propiedad Intelectual Compañías de, logística especializada Provee canales de distribución confiables y adecuados para el más apropiado tipo de dispositivos ron LI y Servicio Diseño de 1 Fabricación Logística y posventa y hardware Ñ software Ñ meo en masa H distribución H Soporte a técnico Provee herramientas de software especializado para el diseño avanzado de componentes electrónicas Compañías de software para Provee acceso a infraestructura especializada y Compañías de Compañías de esto, Jr. torácico diseño pruebas , fabricación allí fabricación podía ser electrónica certificación gran escalan fragmentada entre varios proveedores, - automatizado Elaboración propia Figura 1.
+Cadena de valor de la industria electrónica.
+Adicionalmente, a los eslabones centrales, existen otros sectores que de manera paralela completan el ecosistema: 1.
+Compañías de software de diseño CAD CAM, Estas empresas proveen herramientas para el diseño del dispositivo, en términos de su estética, interfaces, etc.
+Diseño de herramientas de apoyo para el diseño electrónico automatizado Electronic Design Automation EDA, es decir, las herramientas de software de alto nivel de complejidad que permiten el diseño, simulación y extracción de los circuitos integrados y de los sistemas electrónicos.
+Compañías de protección de propiedad intelectual.
+Una vez la empresa cuenta con un diseño validado de un dispositivo electrónico nuevo, este debe ser protegido para evitar reproducciones no autorizadas de la solución.
+Compañías de pruebas y certificación.
+Parte del proceso de pruebas requiere la verificación del funcionamiento del sistema y certificación del cumplimiento de estándares internacionales que permite su comercialización.
+Compañías de fabricación a gran escala.
+La fabricación en masa de dispositivos electrónicos requiere infraestructura especializada, dependiendo de la demanda del dispositivo.
+Este eslabón actualmente se encuentra dominado por China y otros países de Asia, gracias a la infraestructura especializada existente, los bajos costos de mano de obra, y los cada vez más competitivos costos de transporte.
+Compañías de logística especializada.
+La logística y distribución de componentes electrónicos puede requerir manejo especializado, dependiendo de la naturaleza dela solución.
+Por eso procesos de aduana, transporte y comercialización debería ser manejado por compañías con experiencia.
+El proceso de creación de aparatos electrónicos en una empresa incluye principalmente las fases de diseño, donde se identifica la idea, se levantan los requerimientos y se identifican los componentes; la fase de diseño e integración de los componentes, incluyendo su programación, si es necesario; el diseño de la tarjeta de circuito impreso Printed Circuit Board - ACB; la fase de prototipado y pruebas; y la fase de documentación y fabricación.
+Electronic Design Process E SE 10 Design Files and Production Quotation STEP 4 Project Plan 1 sede ser a Prototypes Schematic Design sep 2 Estimates STEP 41 Manufacture step 9 Enviranmental SEP 5 Design Specification STEP 1 Requirente Definición SEP 3 Design Proposal Consistime-sales Figura 2.
+Proceso de diseño y fabricación de una solución electrónica.
+Tomado de 6.
+Este proceso incluye la concepción de todo el dispositivo electrónico, incluyendo interfaces, visualización, etc. y está soportado principalmente por capital humano y capacidades de fabricación a alto nivel que sí existen en Colombia y que pueden ser ofertadas a otros países.
+Un proyecto de esta naturaleza puede requerir el diseño de circuitos integrados, como los descritos en la cadena de valor anterior, que requería un proceso de diseño más detallado, o puede depender de diseños existentes, disponibles comercialmente, que solo requieren la integración.
+Además, este sector es el que genera una gran utilidad, pues la comercialización de las soluciones tiene mayores utilidades que la suma de las partes de manera independiente, y tienen un rango de aplicación en prácticamente todos los sectores económicos existentes.
+¡Por otro lado, el mercado de potenciales empresas en este sector se amplía, pues pueden surgir organizaciones especializadas en procesos de diseño de interfaz de usuario, pruebas, distribución, etc. que fortalecen el ecosistema de la industria electrónica. Colombia actualmente tiene principalmente un rol de consumidor de tecnología electrónica, que depende directamente de los productos y servicios ofrecidos por los países proveedores, pues, aunque no sería exacto afirmar que el país esté en cero en este sector, el tejido empresaria!
+Actual de electrónica no es suficiente para crear todas las soluciones a sus propias necesidades, Los países sin la infraestructura para fabricar chips y con una industria de diseño de semiconductores apenas naciente, deberían, al menos, tener la capacidad de diseñar los sistemas electrónicos que requiera su demanda interna, ya que cualquier fluctuación en cualquiera de las cadenas de valor anteriores representa un impacto negativo ingente para el país, todos sus sectores económicos y pone en alto riesgo en su soberanía tecnológica.
+De cara a los proyectos de crecimiento económico, transición energética, conectividad, entre otros, el fortalecimiento de las capacidades nacionales en esta industria es una necesidad urgente, b.
+Cadena de valor de semiconductores La industria de semiconductores es la parte de la industria electrónica que se centra en la fabricación de componentes electrónicos basados en materiales semiconductores, también conocidos como circuitos integrados o chips.
+Estos componentes impulsan avances disruptivos en una amplia gama de sectores, pues son el corazón de dispositivos electrónicos esenciales, desde smartphones y vehículos autónomos hasta sistemas de inteligencia artificial y energías renovables.
+Este sector cuenta con una tasa de crecimiento anual constante superior al 6 anual en las últimas décadas, un valor actual de mercado de más de 500 mil millones de dólares, y una proyección estimada de un billón de dólares en el 2030.
+El 2020, se produjeron 1 billón de chips 8, 1.15 en 2021 y la tendencia ha venido creciendo gracias a las altas demandas globales.
+La industria de semiconductores es altamente compleja y competitiva.
+Por ejemplo, para la producción de un circuito integrado o chip, que es el corazón de la mayoría de los dispositivos electrónicos modernos, intervienen al menos 10 países, en los diferentes pasos del proceso de fabricación.
+La cadena de valor de la industria electrónica, de acuerdo con el reporte de la Unión Europea 9, incluye los siguientes eslabones: l. Investigación y desarrollo ID: Esta etapa implica el desarrollo de nuevos materiales, procesos y diseños de semiconductores.
+La 1D es una etapa crítica de la cadena de valor, ya que determina la competitividad futura de la industria.
+En este eslabón participan universidades, centros de investigación y grandes empresas del sector.2.
+Diseño: En esta etapa, se diseñan los circuitos integrados que se implementarán en los semiconductores.
+El diseño es una etapa altamente especializada y requiere un alto nivel de conocimiento técnico.
+En esta fase las casas de diseño y las empresas de desarrollo electrónico son los principales actores, pues son las responsables de la creación de propiedad intelectual.
+Fabricación de obleas: En esta etapa, se producen las obleas de semiconductores, que son láminas finas de material semiconductor sobre las que se fabrican los circuitos integrados.
+Fabricación de chips: En esta etapa, se fabrican los circuitos integrados sobre las obleas.
+La fabricación de chips es un proceso delicado y requiere un alto nivel de precisión y se realiza en laboratorios especializados conocidos como Londres.
+En los últimos veinte años, el proceso de producción se ha vuelto cada vez más complejo debido a la evolución tecnológica acelerada de la industria.
+La fabricación de chips requiere altas inversiones de capital, por ejemplo, construir una fábrica que produzca los chips más avanzados supera fácilmente los 10 mil millones de dólares.
+En consecuencia, el mercado de fabricación también está concentrado entre un número limitado de actores en todo el mundo.
+Montaje, pruebas y empaquetado: En esta etapa, se montan los chips en los dispositivos finales y se prueban para garantizar su funcionamiento correcto, El montaje y prueba es un paso crítico para garantizar la calidad de los semiconductores, 6.
+Distribución: En esta etapa, se distribuyen los semiconductores a los fabricantes de dispositivos finales.
+La distribución es una etapa importante para garantizar que los semiconductores estén disponibles cuando los necesiten los fabricantes de aparatos electrónicos.
+Además, existen cuatro eslabones de apoyo a la industria: 1.
+Extracción de materias primas esenciales silicio, metales raros, etc., responsable de proveer a los fabricantes los materiales necesarios para la fabricación de los circuitos integrados.
+Diseño de herramientas de apoyo para el diseño electrónico automatizado Electronic Design Automation EDA, definidas anteriormente, que permiten el diseño de los circuitos integrados en detalle.
+Equipos para fabricación.
+Este sector incluye a empresas que diseñan, construyen y comercializan los equipos de fotolitografía, refinamiento de materia prima, montaje y pruebas, entre otros, requeridos para la fabricación de chips.
+Este segmento de la industria es extremadamente especializado y está concentrado en un reducido número de empresas que proveen los equipos de última tecnología, como la holandesa ASML, 4.
+Empresas de propiedad intelectual electrónica.
+Este eslabón se compone de empresas que diseñan y comercializan módulos electrónicos para funciones específicas comunicación, cómputo, multimedia, seguridad, etc. que pueden ser integrados a diseños de circuitos integrados.
+Esto ahorra tiempo de diseño, pues permite integrar funcionalidades probadas sin tener que diseñarlas desde cero.
+Di Proveedores de Intelectual materia prima Comercializa núcleos prediseñados con funcionalidades especiales pase su integración electos Integrada Avena sílice, obleas de silicio, químicos a Fabricación Marcos de plomo, marrales de empaquetado.
+q LA Investigación Provee herramientas de software especializado para el diseño avanzado de componentes electrónicos Ensamblado, Pruebas y Distribución F Empaquetamiento Compañías den software para, diseño Proveedores de electrónico equipo automatizados Figura 3.
+Cadena de valor de la industria de semiconductores.
+Traducido de 9.
+Cada uno de estos pasos del proceso conlleva grandes, complejas y costosas instalaciones que los países desarrollados han venido construyendo por décadas.
+Los países asiáticos, especialmente, China, Taiwán, Corea del Sur y Japón tienen un dominio muy alto en lo relacionado con la infraestructura física para la fabricación de circuitos integrados.
+Sin embargo, en la fase de diseño, la fase inicial, es el occidente quien lleva la ventaja, donde los Estados Unidos y, en menor medida, la Unión Europea tienen el dominio del diseño, apoyado principalmente en el personal calificado proveniente de instituciones de altísimo reconocimiento, centros de investigación y desarrollo, casas de diseño y empresas altamente innovadoras.
+La infraestructura de pruebas y montaje, dado que requiere una infraestructura ligeramente menos costosa que la fabricación, está distribuida de manera un poco menos concentrada en Asia.
+Sin embargo, es importante resaltar que ninguna compañía o país es capaz de ejecutar todas las fases de esta cadena de valor.
+En esta cadena de valor, la participación de Colombia es prácticamente nula, con la excepción de un número incipiente de empresas capaces de realizar el proceso de diseño de semiconductores.
+Sin embargo, justamente este eslabón se convierte en la mayor oportunidad a corto y mediano plazo de crecimiento de esta participación, debido a que no requiere una infraestructura especializada de producción, sino que los recursos que necesita para la creación de nuevas casas de diseño está enfocado en estaciones de cómputo, software especializado y talento humano, enfocado en la concepción y diseño de componentes electrónicos, dejando los procesos de fabricación, pruebas, ensamblado y empaquetamiento a compañías con la infraestructura requerida.
+Esta estrategia se denomina cables - sin fabricación - y es una de las maneras más eficientes que tiene un país para enfocarse en fortalecer su ecosistema de tecnología electrónica desde el apoyo a la economía del conocimiento, a la formación de profesionales, investigación, desarrollo e innovación, entre otros.
+Presente de la industria electrónica mundial a. Nivel global La industria electrónica es uno de los más grandes sectores económicos mundiales.
+El mercado mundial de los dispositivos de consumo ascendió a casi 3.3 trillones de dólares en 2023 10 y se proyecta que será alrededor de 4.1 trillones en 2024 11.
+De acuerdo con 11, la proyección de ganancias generadas por el mercado de electrónicos de consumo a nivel mundial en 2024 es de más de 1 trillón de dólares, y se espera un crecimiento de 2.99 a 2028.
+Por otro lado, de acuerdo con la Semiconductor Industry Association - SIN 12, en 2022, el mercado mundial de semiconductores ascendió a 574 billones de dólares, con aplicaciones en equipos de cómputo, dispositivos móviles, sector automotores, electrónicos de consumo, infraestructura industrial y de automatización, y aplicaciones gubernamentales.
+De Gobernante meara 2022 Total Global Semiconductor Market: 574 Billón 2.0 A 1 Industrial A Computar Consumer Automotive Communications Figura 4, Distribución del mercado de la industria electrónica a nivel global.
+Tomado de 12. De acuerdo con McKinsey 6, para 2030 se espera que esta industria ascienda a 1 trillón de dólares, impulsado por tendencias como la Inteligencia Artificial, el Big Data y la Analítica de datos, que requieren alto poder de cómputo y almacenamiento; comunicaciones 5G y equipos de transmisión de datos para la garantiza la conectividad; vehículos autónomos y basados en nuevas energías; transformación digital y energética, y dispositivos de consumo, como dispositivos multimedia cámaras, televisores, consolas, dispositivos wearables relojes inteligentes, sensores biométricos personales, dispositivos de domótica y electrodomésticos inteligentes, y dispositivos móviles, entre otros 10.
+Global semiconductor market value by vertical, indicativa, billón CAER, 2021-30, - Growth contribution por vertical, 2021-30, Wired communication Consumer electrones Industria electrónicos Automotive electronics Wireless communication 2021 2030 Noto Figures are appexienato, Figura 5.
+Proyección de crecimiento del mercado de la industria electrónica a nivel global a 2030, Tomado de 6.
+Solo en Estados Unidos, la exportación de la industria electrónica asciende a 5100 billones de dólares en 2022, incluyendo dispositivos de consumo, dispositivos médicos y semiconductores, 1 U.S.
+Electrones Product Export En 2022 En So urce: U.S., International Trade Commission.
+Industry defined by NAIFS condes; 334413 Semiconductor; 334220 Radio and TV Broadcasting and Wireless Communications Equipment; 334118 Computer Equipment; 334111 Computes; 334510 Electromédica!
+Débiles.
+Figura 6.
+Comparación de las exportaciones de productos electrónicos de Estados Unidos durante 2022.
+Tomado de 12. Para poner en perspectiva, solo los semiconductores fueron el quinto producto en exportaciones, con 61 billones de dólares, que se compara muy de cerca con sectores como el minero-energético y el de transporte aéreo.
+Y, toda la industria electrónica sería el tercer sector económico de Estados Unidos.
+Top 5 U.S.
+Exporta en 2022 En Semiconductor 61,1 Billion Refined Oil 146.2 Billion Le a Aircraft 93.8 Billón a Cruce El!
+116.8 billón So urce: U.S., Internacional Trade Commission.
+Industry defined by NAIFS condes: 334413 Semiconductor; 33641X Warcraft; 32410 Refine OIT; 211130 Natural Gas; 211120 Crude Oil Figura 7.
+Comparación de las exportaciones de semiconductores con otros sectores de Estados Unidos durante 2022.
+Tomado de 12.
+A pesar de este notable comportamiento, en los últimos años, la industria de semiconductores ha experimentado una serie de desafíos significativos, incluido el notorio Portaje o escasez de semiconductores durante la pandemia.
+Esta escasez, que afectó a diversas industrias, desde la automoción hasta la electrónica de consumo, puso de relieve la dependencia global de una cadena de suministro altamente interconectada, pero con grandes actores que controlan un alto porcentaje de ciertos procesos.
+Como se mencionaba antes, cerca del 75 de la infraestructura de fabricación de semiconductores, así como los proveedores de insumos claves, como las obleas de silicio y otros materiales, están concentrados en China y Asia del este.
+Si esta cadena llegara a romperse de manera importante y permanente, debido a tensiones geopolíticas, la industria mundial se enfrentaría a una crisis sin precedentes.
+Como resultado, los fabricantes y gobiernos se dieron cuenta de la necesidad de diversificar y fortalecer la producción local de semiconductores para evitar interrupciones futuras.
+Este episodio reforzó la importancia estratégica de garantizar una producción y suministro confiable de semiconductores para su industria electrónica, lo que ha llevado a un renovado enfoque en la inversión en investigación y desarrollo, así como en la creación de ecosistemas nacionales robustos para la fabricación de semiconductores.
+Muchos países han intensificado sus esfuerzos para asegurar su posición en esta industria crítica, a través de iniciativas como el CHIP Act en Estados Unidos 1314 y el European CHIPS Act en la Unión Europea 15, que buscan invertir 54.2 billones de dólares y 43 billones de euros, respectivamente, para fortalecer su infraestructura de producción y tratar de equilibrar la balanza mundial de la cadena de valor, Una manera de reducir la dependencia de Asia es el fortalecimiento del ecosistema cercano, para aumentar la capacidad de hacer nearshore outsourcing con países más afines cultural y políticamente 16.
+Esta posibilidad se ha expuesto en varios escenarios, incluyendo la Cumbre de las Américas en octubre de 2023, donde el presidente estadounidense Joe Biden expresó su deseo de explorar esta posibilidad y fortalecer los vínculos con los países latinoamericanos en este sector, entre otros muchos 17.
+Otro aspecto importante es que, con el crecimiento proyectado de la industria, también crece la necesidad de talento humano especializado.
+Deloitte, en 16 y 18, predice que la fuerza laboral de semiconductores, estimada en 2021 en más de 2 millones de empleados de semiconductores directos en todo el mundo, necesitará crecer en más de 1 millón de trabajadores calificados adicionales para 2030.
+Esto implica la adición de aproximadamente más de 100.000 trabajadores al año, por lo que se requiere un fortalecimiento global de las instituciones de formación y crear programas que apoyen la formación en todos los niveles, desde perfiles técnicos hasta de postgrado que fortalezcan los procesos de investigación científica e innovación.
+b. Nivel Latinoamérica En el panorama mundial, aunque la industria electrónica Latinoamericana no tiene un rol protagónico en ninguno de los eslabones de la cadena de la industria electrónica, sí existe Una participación activa de algunos actores regionales.
+México, Brasil y Costa Rica cuentan con la mayor participación regional en esta industria, con el apoyo de grandes empresas norteamericanas y con infraestructura incipiente comparada con los países de Asia, Estados Unidos y Europa.
+México ha sido un importante centro de fabricación y ensamblaje de productos electrónicos y otros dispositivos fundamentales para la producción de aparatos electrónicos, representando un PIB sectorial de.380 mil millones de dólares en 2023, una inversión extranjera de 206 millones de dólares y 487 unidades económicas a 2019 19.
+Debido a su cercanía con el límite sur de Estados Unidos, y puertos en el Pacífico y el Caribe, ha permitido que un buen número de empresas multinacionales, como Intel, Samsung, HP.
+IBM, Electrónica, entre otras 20, han establecido operaciones en el país para el diseño y la producción de dispositivos electrónicos de consumo, electrodomésticos, equipos de comunicación y más.
+Además, acuerdos como el Tratado entre México, Estados Unidos y Canadá T-MEC, ha facilitado el comercio de productos electrónicos con sus socios comerciales.
+Esto se evidencia en la reunión de mandatarios de Norteamérica, donde Estados Unidos manifestó su interés de invertir en México 21, y en análisis económicos como 22.
+¿La industria electrónica mexicana cuenta con la Cámara Nacional de la Industria Electrónica de Telecomunicaciones y Tecnologías de la información - CAÑETE?
+Que agremia la industria electrónica del país y apoya la gestión ante gobierno y entes externos.
+Costa Rica ha sido uno de los casos de éxito del establecimiento de una industria electrónica vinculada directamente con la cadena de valor mundial.
+Gracias a esta trayectoria, está incluida dentro de los planes de expansión apoyados por Estados Unidos 232425.
+Algunas de las empresas de tecnología más prominentes que han establecido operaciones en Costa Rica incluyen Intel, HP, e IBM.
+Estas empresas se han involucrado en la fabricación de productos electrónicos, incluyendo ensamblaje de dispositivos, producción de componentes y fabricación de productos de alta tecnología, y en servicios de tecnología, y Operaciones de soporte.
+Además, el país cuenta con parques tecnológicos y zonas francas que ofrecen incentivos fiscales y otras facilidades para atraer a empresas de tecnología.
+Además, el Gobierno ofrece beneficios como una exención del impuesto sobre la renta por un período de diez años con una tasa que se reduce en un 50 en los cuatro años siguientes 2627.
+Para poder consolidar su ecosistema, Costa Rica ha invertido en programas de educación técnica y universitaria para asegurar que la fuerza laboral esté calificada en áreas relacionadas con la tecnología y la electrónica.
+El número de personas que se gradúan en ingeniería electrónica ha aumentado un 46 en los últimos seis años y se estima que llegará a 340 anualmente en 2024, y más de 3.500 si se incluyen también otras ingenierías asociadas con procesos industriales y de manufactura 28.
+Esta cifra es, porcentualmente con respecto a la población total, un 13 más alta que el porcentaje de graduados en Colombia 27.
+Incluso, algunas empresas han establecido colaboraciones con instituciones de investigación y universidades en Costa Rica para impulsar la innovación y la investigación en tecnologías emergentes.
+Brasil ha tenido una presencia significativa en la industria electrónica latinoamericana.
+Ha sido históricamente un importante centro de producción y ensamblaje de productos electrónicos, incluyendo teléfonos móviles, televisores, computadoras y otros dispositivos 1 HTTPS:Cañete.orgánico.aspas.
+¿La Asociación Brasilera de Industria Eléctrica y Electrónica - ALINEE?
+Agremia a las empresas del sector.
+Esta organización, ¿eh compañía de Ápex Brasil, lideran el proyecto Electro-Electronic Brasil?
+Que cuenta con más de 100 empresas en diferentes sectores, y busca.
+El fortalecimiento de la industria de este sector.
+De acuerdo con la ALINEE, las exportaciones de productos de todo el sector sumaron 684,9 millones dólares en enero de 2024, de los cuales 193 millones de dólares fueron de componentes eléctricos y electrónicos.
+Los ingresos de chips de Brasil representaron apenas el 3,2 del mercado mundial en 2020 30, y están en proceso de reenfocar su industria hacia el diseño de circuitos integrados, y procesos de empaquetamiento y pruebas.
+A través de legislación, como la ley PAÍS 31 e inversión estatal ha buscado impulsar la producción local de componentes electrónicos para reducir su dependencia de las importaciones en este ámbito, incluyendo apoyo no solo a la industria sino a la investigación y la formación, donde las empresas reciben beneficios tributarios si demuestran inversión de un 5 en este campo.
+Empresas extranjeras también han invertido en operaciones y centros de investigación en Brasil, lo que ha contribuido al intercambio de conocimientos y tecnologías entre empresas locales e internacionales.
+Una ventaja clara con que cuentan es el tamaño del mercado interno, que implica una alta demanda que puede ayudar a suplir su industria local.
+A pesar de sus ventajas, Brasil también ha enfrentado desafíos como la burocracia, la carga impositiva de algunos productos, la infraestructura logística y los altos costos laborales, lo que ha afectado su competitividad en comparación con otros mercados.
+Panamá recientemente ha estado en proceso de formalizar una alianza con el Gobierno de Estados Unidos para recibir apoyo en su vinculación a la cadena de valor de la industria electrónica americana.32, gracias a la infraestructura panameña existente para el proceso de pruebas, ensamblado y empaquetado.
+Según Bloomberg, Panamá exportó 1.1 millones de dólares en semiconductores en 2021, principalmente a países de Centroamérica, como Honduras y Costa Rica 33.
+Aunque no es muy reconocida en el área, cuenta con ventajas competitivas como una política tributaria beneficiosa y punto clave en la logística marítima mundial.
+Chile cuenta con una industria electrónica más pequeña, con alrededor de 300 empresas agremiadas en 3 asociaciones 34, como la Asociación de la Industria Electrónica - AIRE, que ha venido tratando de alinearse con las tendencias globales del sector desde hace varios años 35.
+Sin embargo, es muy relevante resaltar que es el único país en Latinoamérica que cuenta con representación permanente de una de las casas de software de diseño II 2 HTTP:www.abinee.org.br 3 HTTPS:www.electroelectronic.com.bresproyecto 4 HTTPS:aire.cl electrónico automatizado más importantes del mundo, Sinopsis.
+Desde esta oficina, se han liderado algunas iniciativas de formación en Latinoamérica, incluyendo Colombia, pero que no han logrado el nivel de impacto deseado por falta de escalabilidad, generación de suficiente masa crítica de profesionales formados y falta de visibilidad de una industria que pueda apropiar el recurso humano formado.
+c. Contexto colombiano de la industria En la actualidad, la industria de semiconductores en Colombia se encuentra en una fase de desarrollo incipiente, pero cuenta con un potencial significativo para contribuir al crecimiento tecnológico y económico del país, Talento humano En términos de capital humano, de acuerdo con el SANIES, Colombia gradúa más de 3.000 ingenieros electrónicos anualmente y cuenta con más de 20.000 estudiantes matriculados 36 en 82 programas activos en el país, a marzo de 2024, Dentro de la denominación de programas de Electrónica y Automatización del SANIES también se encuentran los pregrados en Ingeniería Mecatrónica 12 programas, Ingeniería Biomédica 6 programas, Ingeniería en Telecomunicaciones 23, Automatización 5, entre otras.
+Además, algunos grupos de investigación como el Centro de Microelectrónica de la Universidad de los Andes, Chip de la Universidad Industrial de Santander, y otras instituciones del país, lideran la formación de profesionales e investigadores en el área, que han logrado posicionarse en la industria electrónica de clase mundial, incluidas posiciones de liderazgo en ellas.
+Según una encuesta desarrollada por la Asociación Colombiana de Ingenieros ÁCIDO 37, de la población de ingenieros que se queda en Colombia, la mayoría trabaja principalmente en el sector de las telecomunicaciones 34, integrando soluciones de automatización 16, desarrollo de software 15, instrumentación 5, energías renovables 4, Lot 3, bioingeniería 29, microelectrónica 2, robótica 1 y en otros roles 4.
+Sin embargo, cabe resaltar que un 14 de los entrevistados, afirman que no trabajan en ningún área de la electrónica.
+Al mismo tiempo, los mismos encuestados identifican áreas como el 5 HTTPS:hecaa.mineducacion.gov.coconsultaspublicasprogramas S HTTPS:cmua.uniandes.edu.co 7 HTTPS:uis.edu.cofre-ruina-sidi-cm-Espot 28, energías renovables 27, telecomunicaciones 13, informática 10 como áreas con el impacto para el país, Cabe anotar que algunas de las áreas percibidas como con mayor potencial de impacto son aquellas donde hay baja vinculación laboral.
+Por otro lado, otras áreas como la microelectrónica, la bioingeniería o la robótica no cuentan con tanto apoyo, pero es innegable que muchas de las soluciones de alto nivel para los sectores de alto potencial dependen directamente de desarrollo electrónico.
+Esta inversión de los números de vinculaciones y potencial, y la baja percepción de la microelectrónica a pesar de su creciente posicionamiento global puede ser una consecuencia de no tener una industria desarrollada ni claramente posicionada como sector económico atractivo, dinámico y con la posibilidad de ofrecer soluciones a los sectores, Dada esta realidad aquellos egresados interesados en esta industria de semiconductores y diseño de sistemas electrónicos han decidido migrar para adelantar estudios de alto nivel y buscar posiciones en el exterior, para poder hacer parte de la cadena de valor global del sector, Aunque la formación de capital humano y el fortalecimiento de sus competencias técnicas es solo la base de la pirámide, es innegable la interdependencia que existe con la existencia de un ecosistema industrial.
+La industria, para poder crecer, requiere capital humano formado.
+Lo menciona Santiago Cardona, director de Intel para Latinoamérica Hispánica, en su entrevista 38, cuando afirma que El principal reto para Latinoamérica es lograr tener Una suficiente cantidad de profesionales en Ingenierías para abastecer la industria, Colombia cuenta con un buen número de profesionales y técnicos graduados en formación, que están buscando la oportunidad de poder vincularse en el sector.
+Por otro lado, si no se cuenta con un sector económico visible y activo, que proyecte un mercado laboral atractivo para jóvenes al momento de decidir sus áreas de estudio, o la existencia de un ecosistema que pueda no solo absorber ese capital humano formado, sino fomentar el emprendimiento, no podrá inspirar a que más jóvenes se decidan por ingresar a esta carrera.
+Por lo tanto, el fomento y fortalecimiento de la formación en ingeniería electrónica, en todos los niveles de formación técnico, pregrado, postgrado e investigación, junto con la promoción de programas de formación en habilidades empresariales y de emprendimiento, desempeñarán un papel esencial en la creación de un entorno propicio para el surgimiento de empresas especializadas en diseño electrónico y semiconductores en Colombia, y el subsecuente ecosistema.
+¡Al invertir en el talento humano y en la capacidad de innovación, el país podrá posicionarse de manera más sólida en la cadena de valor global de los semiconductores, y contribuir a la creación de una economía basada en el conocimiento y la tecnología, y aparecer como un espacio atractivo para la inversión internacional!
+39. Industria El nivel real de la industria electrónica en Colombia es desconocido, puesto que no existe un censo actualizado o indicadores específicos de desempeño de la industria electrónica 40.
+La clasificación de estas empresas es un primer obstáculo, pues muchas adoptan la clasificación del sector para el que desarrollan actividades, más no el que los identifica como una empresa de tecnología.
+De manera empírica, y a partir de casos puntuales, se puede estimar que la mayoría de las empresas de este sector son micro o pequeñas empresas, con clientes muy particulares, en nichos muy definidos, y con muy poca visibilidad.
+Además, no existe un gremio activo que busque recopilar esta información o crear un ecosistema de apoyo que permita el crecimiento conjunto, la cooperación entre actores y la proyección nacional e internacional de la industria, como marca país.
+Algunos ejemplos puntuales que ilustran las capacidades de la industria electrónica colombiana son las siguientes: Adelta el Bogotá j Entrenamiento en normas IPC para!
+Tecnologías diseño de PCB y manufactura Es.
+2. electrónica j HTTPS: Www.
+Alelate.
+Con CIDES HTTPS: cidei.net Bogotá Centro de Desarrollo Tecnológico 1: en electrónica, estudios de: prospectiva tecnológica, desarrollo de cualificaciones en electrónica y automatización Col circuitos hitos:colcircuitos.com 1 Medellín I Investigación, desarrollo:.
+I el ¡electrónico, manufactura, diseño y Es ¡fabricación de circuitos impresos Deep Sea HTTPS:www.deepseadev.co ¡Cali ¡Diseño de hardware a medida, Developments m soluciones Lot, desarrollo de prototipos electrónicos, programación de hardware ¡DST hitos:onlinedst.com Barranquilla Desarrollo de software. Y firmware embebido, diseño de hardware: 4 3 4 Microcircuitos HTTPS:pcbmicrocircuitos.co Cali Diseño y fabricación!
+De circuitos m!
+Impresos PCB Microensamble HTTPS.
+microsnsamble.com Bogotá ¡Diseño y fabricación de circuitos a.
+- ¡A ml impresos POR para captura y análisis de datos, instrumentación de equipos, captura de imágenes y video, geolocalización, telemetría en Monitor HTTP:www.monitorla.cony Bogotá Soluciones de hardware y software tecnologías emergentes, equipos de control e instrumentación industrial, investigación científica, enseñanza, mantenimiento ¿Citoma HitosJiwww.titoma.com Manizales Diseño de hardware, software, Engineering!
+: firmware, mecánico, prototipado, SAS,: oa: certificaciones y. producción en.
+: E A masa a - componentes electrónicos Precisamente, el diseño de sistemas y componentes electrónicos es donde nuestro país tiene una gran oportunidad de poder convertirse en un actor relevante a nivel regional 39.
+El capital humano que se forma en nuestras universidades puede ser altamente competente, contamos con condiciones geográficas y económicas propicias para la implementación del nearshore outsourcing con Estados Unidos.
+Además, y más importante aún, las inversiones necesarias para apoyar el desarrollo de esta industria son bajas en comparación con las necesarias en otras etapas, pues la labor de diseño electrónico es una actividad basada en conocimiento, de carácter exportador por naturaleza y con impacto ambiental nulo.
+La competencia regional no es fácil, pues ya se pudo evidenciar que países con mayor trayectoria en el área, como México, Costa Rica y Brasil, se encuentran activamente buscando oportunidades de participar directamente de las iniciativas de inversión de Estados Unidos en el fortalecimiento de las capacidades en el continente, por lo cual Colombia necesita actuar rápidamente para mostrar el interés de inversión en fortalecer la posición del país en el sector.
+Gobierno El Gobierno Nacional, a través de la Política de Reindustrialización 41, busca fortalecer el aparato productivo, la innovación y la capacidad exportadora del país.
+Los objetivos que tiempo real Actores Fuerce HTTPS:www.octopusforce.c Cali.
+Investigación y desarrollo, diseño y.
+O fabricación de productos, vigilancia.
+ES tecnológica, gestión de proyectos,, O EPA.
+O ME.
+Capacitación Basilicón t HTTPS:onsilicon.co Bucaramanga Diseño de circuitos integrados!
+¡analógicos y mixtos RECREA HTTPS:tecrea.com.co Medellín Diseño y desarrollo de productos ¡A :: a A electrónicos A.
+Telero HTTPS:teiprolabs.com Barranquilla Desarrollo de soluciones con electrónico industrial, proveedor detesta ley busca realizar incluyen: Cerrar las brechas de productividad, Fortalecer los encadenamientos productivos, Diversificar y sofisticar la oferta interna y exportable y Profundizar la integración con América Latina y el Caribe.
+El apoyo a la creación de un ecosistema que apoye el desarrollo de soluciones electrónicas propias tiene el potencial de apoyar el cumplimiento de todos los objetivos, y poder impactar positivamente, a través del desarrollo tecnológico avanzado característico de la 4.ª revolución industrial, en todas las áreas definidas en el mismo documento, que incluyen los sectores de energía, agro, salud, defensa, vida, entre otros.
+Esto va de la mano con el crecimiento de la industria de desarrollo de software y los esfuerzos que está haciendo el país en temas como la inteligencia artificial, la ciberseguridad y la integración de habilidades digitales en la sociedad.
+Solo con la identificación de la industria electrónica como una de las apuestas productivas del país le abriría las puertas a acceder a programas ya existentes de donde puede beneficiarse para financiar proyectos de Di, formación, emprendimiento, etc.
+Sin embargo, de manera similar al apoyo que se le ha venido dando por más de una década a la industria de software, la creación de programas de formación y apoyo a la creación de empresa, fomento a la exportación de bienes y servicios, beneficios a las empresas que inviertan en este tipo de tecnologías, y apoyo a la agremiación, sería una estrategia que con seguridad impulsaría el crecimiento del sector.
+Este esfuerzo permitiría resarcir una deuda histórica que ha tenido el país con el sector que no ha estado en planes de desarrollo de innovación nacionales ni regionales 40.
+La dinámica situación global actual en la industria electrónica se convierte en un llamado a Colombia para buscar oportunidades de participar activa y estratégicamente en la cadena de valor global, lo cual no solo es esencial para el impulso de la innovación local, sino también para la consolidación de una economía sólida y competitiva en el escenario internacional, asegurar la soberanía tecnológica del país, y seguir elevando el rol de Colombia como productor de tecnología.
+REFERENCIAS 1, CIDES.
+La Industria Electrónica en Colombia: Oportunidades de desarrollo.
+Enlace: HTTPS:cides.industria-electrónica-en-Colombia 2.
+Mintió, Boletín semestral de Sociedad Digital - 1.er Semestre de 2021.
+Enlace: HTTPS:colombiatic.mintic.gov.co679articles-197998 archivopdf.PDF.
+Huevón Sahib Son, Younes Oh, y Anwar Árida.
+Innovate Corea: Leveraging Innovation and Technology for Development.
+The World Bank Group.
+2023 Enlace: HTTPS:documento.corlaban.orgenpublicationdocuments- reportsdocumentdetail099081723222522546p17443502632aa05f088b70859849e492f7 4, Ayesha Baldé.
+Costa Rica, Intel, and the near-shoring of the global semiconductor supply chain.
+Médium.
+Enlace: HTTPS: ayeebaldecosta-rica-intel-and-the-near-Sorin semiconductor-supply-chain-078945604 con 5.
+Multilateral Investment Guarantee Agency.
+The Impact of intel in Costa Rica: Nine Years After the Decision to Invest.
+The World Bank Group.
+2006, Enlace: HTTPS:documento.corlaban.orgcurateden540381468032652317 pdf374020CROlmpactOofOIntel01P UBLIC1.pdf 6.
+DSL Ltd.
+Our Design Process.
+Enlace: HTTPS:www.dsl-ltd.co.ukelectronic-designdesign-process 7.
+Londres Uruachi, Julia Dragón, y Nikolas Lohmann.
+The semiconductor decade: A trillion-dollar industry.
+McKinsey, 2022, HTTPS: www.mckinsey.comindustriessemiconductorsour-insightsthe- semiconductor-decade-a-trillion-dollar-industry 8.
+Unión Europea.
+European Chips Act: FactSet.
+Enlace: HTTPS:digital- estrategia.el.Europa.euenlibraryeuropean-chips-act-factsheet 9.
+Cañí, Andrea y Nardo, Micela.
+The position of the EU in the semiconductor value chain: evidence on trade, foreign acquisitions, and ownership.
+JRC Working Papers in Economics and Finance, 20223 - 3RC129035.
+HTTPS:joint-research-centre.el.Europa.eusystemfiles2022-041RC129035.pdf 10.
+Future Market Insights.
+Consumer Electronics Market Outlook from 2023 to 2033.
+Enlace: HTTPS:www.futuremarketinsights.comreportsconsumer-electronics-market 11.
+Estatista.
+Consumer Electronics Worldwide.
+Enlace: HTTPS:www.statista.comoutlookcmoconsumer-electronicsworldwide 12, SIN.
+Facebook 2023. HTTPS:www.semiconductors.orgwp-contentuploads202305S1A-2023- Facebook 1.pdf 13.
+Chips and Science Act for America.
+Enlace: HTTPS:www.nist.govchips 14.
+McKinsey 8 CO.
+The CHIPS and Science Act: Seres chats inuit.
+Enlace: HTTPS:www.mckinsey.comindustriespublic-sectorour-insightsthe-chips-and-science-act-heres-whats-in- 15, European Chips Act.
+Enlace: HTTPS:comisión.Europa.estrategia-año-policypriorities-2019- 2024 europe-fit-digital-ageeuropean-chips-acento.
+Deloitte.
+2023 semiconductor industry outlook.
+Enlace: HTTPS:www2.Deloitte.combeenpagestechnology-media-and-telecommunicationsarticles2023- semiconductor-industry-outlook.html 17.
+The White House.
+Remarks by President Biden Before the Americas Partnership for Economic Prosperity Leaders Summit, 2023.
+Enlace: HTTPS:www.whitehouse.govbriefing-roomspeeches- remarks20231103remarks-by-president-Biden-befare-te-Américas-partnership-for-economic- prosperity-leaders-summit 18, Deloitte.
+The global semiconductor talent shortage.
+Enlace: HTTPS: www2.Deloitte.comusenpagestechnologyarticlesglobal-semiconductor-talent-shortage.
+HTML 19.
+Gobierno de México.
+Data México.
+Fabricación de Componentes Electrónicos.
+Enlace: HTTPS: www.economia.gob.mxdatamexicoesprofileindustrysemiconductor-and-other-electronic- component-manufacturing 20.
+El Financiero.
+10 gigantes que impulsan la industria de electrónicos en México.
+Enlace: HTTPS:www.elfinanciero.com.mxempresas10-gigantes-tecnologicos-que-impulsan-la-industria-de- electrónicos-en-México 21.
+Fortuna.
+President Biden really wants to boost chip manufacturing and he Leeds México help to do it, 2023.
+Enlace: HTTPS:fortuna.com20230110biden-chip-manufacturing-México 22.
+Forbes, The Future of Semiconductor Chip Manufacturing: North Americas Opportunity With Mexico.
+¿Enlace: HTTPS:www.forbes.comsitesforbesbusinesscouncil20240214the-future-of- semiconductor-chip-manufacturing-north-Américas-opportunity-with-México? Sh3944de9f5466 23, El Economista.
+Acuerdo con Estados Unidos proyectará a Costa Rica como hub regional en la industria de los semiconductores.
+Enlace: HTTPS:www, eleconomista.neteconomiaAcuerdo-con-Estados- Unidos-proyectará-a-Costa-Rica-como-hub-regional-en-la-industria-de-los-semiconductores-20230720- 0027.html 24.
+Pro comer - Costa Rica.
+Costa Rica se reúne con industria de semiconductores de E.E.U.U.
+Para posicionarse como destino idóneo de nuevas inversiones.
+Enlace: HTTPS:www.procomer.comnoticiacosta-rica-se-reune-con-industria-de-semiconductores-de-ee-uu-para- posicionarse-como-destino-idóneo-de-nuevas-inversiones 25.
+Embajada de Estados Unidos en Costa Rica. Partnership with Costa Rica to Explore Semiconductor Supply Chain Opportunities.
+Enlace: HTTPS:CR.usembassy.chips 26.
+The Central American Group.
+Fabricación de Productos Electrónicos en Costa Rica.
+Enlace: HTTPS:www.thecentralamericangroup.comfabricacion-de-productos-electronicos-en-costa-rica 27.
+Investment Monitor.
+Electric dreams: How Costa Rica became a haven for electronics manufacturing and development.
+Enlace: HTTPS:www.investmentmonitor.aisponsoredelectric-dreams-how-costa-rica- became-a-haven-for-electronics-manufacturing-and-development28.
+Cine.
+Smart Manufacturing.
+Enlace: HTTPS:www.cinde.orgensectorssmart- manufacturingmanufacturingtessential-insights 29.
+Fumar.
+Los 8 principales proveedores de servicios de fabricación de productos electrónicos en Brasil.
+Enlace: HTTPS:fumante.comes20231211top-8-electronics-manufacturing-service-providers-en- Brasil 30.
+Semiconductor Engineering.
+Brazil Paves New Semiconductor Path.
+Enlace: HTTPS:semiengineering.combatir-paves-new-semiconductor-path 31.
+Ápex Brasil.
+PADIS Program for the Semiconductor Sector.
+2022. HTTPS:portal.apexbrasil .com, brregulatoryreportthe-federal-government-revised-the-provisions-of-te- Brasilia-Informatics-law-law-n-8-248-1991-Keeling-lo-Improve-legal-security-and-restructured-the-padis- program-for-the-semiconductor-industry 32.
+Embajada de Estados Unidos en Panamá.
+New Partnership With Panama to Explore Semiconductor Supply-Chain Opportunities.
+Enlace: HTTPS:la.usembassy.joven-partnership-with-panama-lo- explore-semiconductor-supply-chain-opportunities 33.
+Bloomberg en línea.
+EE.UU. se asociará con Panamá para impulsar el suministro de semiconductores.
+Enlace: HTTPS:www.bloomberglinea.com20230720eeuu-se-asociara-con-panama-para-impulsar- él-suministro-de-semiconductores 34, Revista Electricidad.
+Asociación de la Industria Eléctrica Electrónica es parte de la Mesa de Tecnología Chilena.
+2022, Enlace: HTTPS:www.revistaei.cl20221102asociacion-de-la-industria-electrica- electrónica-es-parte-de-la-mesa-de-tecnología-chilena 35.
+Revista Electrolndustria, LA INDUSTRIA ELECTRÓNICA EN CHILE: Construir redes para fortalecer el ecosistema.
+Enlace: HTTPS:www.emb.clelectroindustriaarticulo.mvc?xid3130 36.
+Guillermo David, Luis Eduardo Tocón, Javier Barajas, Diego Rivaliza.
+Panorama actual de los programas de formación en Ingeniería Electrónica de Colombia.
+Revista ÁCIDO.
+Edición 151.
+Julio Septiembre 2023.
+Enlace: HTTPS:capacitacion.aciem.com.coEspecialesRevista2023Oct11Revista-ACIEM-151-57-60.pdf 37.
+Diego Alexander Rivaliza, Edgar Javier Barajas, Guillermo David Y Leidy Pamplona.
+Estado actual de la Ingeniería Electrónica en Colombia: perspectivas y tendencia.
+Revista ÁCIDO.
+Edición 152.
+OctubreDictembre 2023.
+Enlace: HTTPS:www.capacitacion.aciem.com.coRevista152ArticulosRevista- ACIEM-152-35-42.pdf 38.
+Antonio García Rozo.
+Desarrollo de Semiconductores, oportunidad de oro para la Ingeniería.
+Revista ÁCIDO.
+Edición 150.
+Abril Junio 2023.
+Enlace: HTTPS:educacion.aciem.com.coRevistaRevista-ÁCIDO- 150.PDF.
+Antonio García Rozo.
+Diseño de circuitos integrados como oportunidad de desarrollo, Revista ÁCIDO.
+Edición 149.
+Enero Marzo 2023, Enlace: HTTPS:capacitacion.aciem.com.especiales Revista2023Mar 31 Revista-ACIEM-149-19-22.pdf 40.
+Jaime Acosta Puertas. Caracterización Internacional de la Industria Electrónica: Estudio para Colombia desde la Economía de la Innovación.
+ÁCIDO, 2017.
+Ministerio de Comercio, Industria y Turismo.
+Enlace: HTTPS:mincit.gov.comincitmediaDocumentosdocsPolitica-Nacional-de-Reindustrialización-2022- 2026.pdf Otros recursos de consulta PWC.
+2022, The CHIPS Act: What it means for the semiconductor ecosystem.
+Enlace: HTTPS:www.pwc.comusenlibrarychips-act.html PWC, 2023.
+More than a cycle: How semiconductor companies can navigate extraordinary demand and supply scenarios.
+Enlace: hitos:www.pwc.comusen!
+ndustriestmtlibrarysemiconductor-supply-chain- disruptions.html Foreign Affairs.
+2023, México Microchip Advantage.
+Enlace: hitos:www.foreignaffairs.commexlcomexicos-microchlp-advantage-semiconductor-china Iniciación.
+2023. Semiconductor Supply Chain.
+Enlace: hitos:iniciación.semiconductor-suplir-chainPWC.
+2022, The CHIPS Act: What it means for the semiconductor ecosystem.
+Enlace: hitos:www.pwc.comusenlibrarychips-act.html PWC, 2023.
+More than a cycle: How semiconductor companies can navigate extraordinary demand and supply scenarios.
+Enlace: hitos:www.pwe.comusenindustriestmtlibrarysemiconductor-supply-chain-disruptions.html Foreign Affairs, 2023.
+México Microchip Advantage.
+Enlace: HTTPS: www.foreignaffairs.commexicomexicos-microchip-advantage-semiconductor-china Iniciación.
+:2023. Semiconductor Supply Chain.
+Enlace: HTTPS:iniciación.semiconductor-supply-chain Cordialmente, DAVID LUNA SÁNCHEZ Senador de la República ANA MARÍA CASTAÑEDA GÓMEZ Senadora de la República DANIEL CARVALHO MEJÍA Representante a la Cámara por Antioquia h GUIDO ECHES Y PIEDRAHÍTA GUIDO ECHEVERRI PIEDRAHÍTA Senador de la República

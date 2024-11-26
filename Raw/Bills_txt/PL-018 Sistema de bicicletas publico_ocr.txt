@@ -1,0 +1,485 @@
+Bogotá D.C. 20 julio del 2022 Señor Presidente y 8 SENADO DE LA REPÚBLICA REF.
+Presentación PROYECTO DE. LEY POR MEDIO DE LA CUAL SE ESTABLECEN LAS PAUTAS PARA LA IMPLEMENTACIÓN DEL SISTEMA DE BICICLETAS PÚBLICO Y SE DICTAN OTRAS DISPOSICIONES Conforme con lo previsto el los artículos 139.
+140 y se de la Ley 5 de 1992, presentamos a consideración del Congreso de la República el Proyecto de Ley por medio de la cual se establecen las pautas para la implementación del sistema de bicicletas público y se dictan otras disposiciones Por tal motivo, se anexa el original, dos copias, formato digital Word sin firmas.
+Atentamente, E ay FABIÁN DÍAZ PLATA Senador de la República PROYECTO DE LEY DE 2022 SENADO POR MEDIO DE LA CUAL SE ESTABLECEN LAS PAUTAS PARA LA IMPLEMENTACIÓN DEL SISTEMA DE BICICLETAS PÚBLICO Y SE DICTAN OTRAS DISPOSICIONES EL CONGRESO DE COLOMBIA DECRETA: Artículo 1.
+Objeto.
+La presente ley tiene por objeto establecer los lineamientos generales para la formulación de la política pública sobre el - Sistema de Bicicletas Público SBP, para incentivar la movilidad activa, disminuir las emisiones de CO₂ y mejorar la salud pública.
+Conforme a los lineamientos dela Ley 1811 de 2016.
+Artículo 2.
+Definiciones.
+Para los efectos de esta ley se tendrán en cuenta las siguientes definiciones: -Bicicleta: Vehículo no motorizado de dos 2 o más ruedas en línea, el cual se desplaza por el esfuerzo de su. Conductor accionando por medio de pedales.
+-Bicicleta Eléctrica: Bicicleta con pedaleo asistido: Bicicleta equipada con un motor auxiliar con potencia nominal continua no superior a 0,35 kW, que actúa como apoyo al esfuerzo muscular del conductor.
+Dicha potencia deberá disminuir progresivamente conforme se aumente la velocidad del vehículo y se suspenderá cuando el conductor deje de pedalear o el vehículo alcance una velocidad de 25 km, el peso nominal de una bicicleta asistida no deberá superar los 35 kg - Bicicleta Pública: Bicicleta concebida especialmente para trabajo pesado por múltiples viajes diarios, por parte de diversos usuarios y para estar mucho tiempo a la intemperie y expuesta a posibles accidentes, robos y acciones vandálicas.
+Por todo lo anterior, este tipo de bicicleta es más robusta, pesada alrededor de 20 kilos y posee elementos para graduar fácilmente la altura del asiento o sillín.mm.
+Al Además, dispone de partes y elementos especiales para diferenciarla dé.
+Los modelos convencionales, así como de sistemas de fijación tuercas y tornillos para llaves no convencionales.
+Para evitar el contacto voluntario o involuntario de algunas de sus partes con los usuarios, dispone de varios elementos plásticos de protección tanto en la parte frontal dirección y cabezote como en la parte trasera guardabarros o embarradoras y tapa cadenas.
+En efecto, los cables de frenos, la cadena y los radios de la rueda trasera están cubiertos por grandes protectores plásticos.
+Pero además, estos.
+Elementos también se emplean para fijar anuncios comerciales o de imagen y marca del sistema.
+Dispone de un canasto o parrilla en la parte delantera para portar pequeños objetos, bolsas o maletines.
+En los sistemas automáticos las bicicletas poseen un elemento de anclaje y una identificación por medio de un tal o etiqueta de Identificación por RadioFrecuencia REID, por su sigla en inglés.
+En unos pocos casos, la bicicleta dispone de un sistema de posicionamiento global GPS, debido a que este elemento puede elevar considerablemente su precio tanto en la adquisición como en la operación.
+Las que se pueden denominar como bicicletas de 4G, son eléctricas y disponen de una tableta con diversas aplicaciones para gestión del sistema.
+-Ciclorrutas o Bici carril: Vía o sección de la calzada destinada al tránsito de bicicletas en forma exclusiva.
+Estación: Es la unidad principal del SPB, desde la cual se gestiona el préstamo o el reintegro de una bicicleta pública.
+Está compuesta por un sistema de registro, préstamo y reintegro, y un punto o elemento de estacionamiento de las bicicletas.
+Los sistemas pueden ser manual punto informativo con un funcionario o automático terminal, columna o tótem.
+-Identificación de Usuarios: Un usuario del SBP será todo aquel que se encuentre afiliado yo asociado al sistema por medio de un avenamiento de larga o corta duración.
+Esta identificación se logra por lo general por medio de la asignación de un código único que puede estar dentro de una tarjeta inteligente con y sin contacto queja dispone de un chip, o por medio de un código manual que el usuario digitará en los teclados del terminal de la estación para solicitar una bicicleta.
+Este código puede ser permanente o puede ser asignado para cada solicitud por medio de un sistema de telefonía sobre todo a través de smartphones.
+Además de conocer el perfil de los usuarios, esta identificación busca lograr que estos respalden económicamente su responsabilidad por el uso de la bicicleta por medio de una fianza o garantía la cual, por lo general, se respalda por medio de la tarjeta de crédito del usuario.
+- Ente Gestor del SBP: la planeación, puesta en funcionamiento y operación del sistema requiere de una fuerte unidad técnica que lidere el proceso y sea capaz de orientar las grandes decisiones sobre el tipo de sistema o formas de operación y financiamiento.
+El ente gestor debe ser una unidad con una fuerte capacidad técnica para orientar y monitorear a los diversos actores públicos o privados implicados en las diferentes etapas de un SPB.
+Es indispensable que este ente tenga una muy fuerte articulación con la unidad de la municipalidad encargada del transporte, urbanismo en general y en movilidad no motorizada en particular.
+- Sistema Público de Bicicletas o Sistema de Bicicletas Públicas SBP: Red de préstamo temporal de bicicletas a disposición-total del público dentro de un espacio predeterminado; pueden ser utilizadas por abonados permanentes o temporales, a partir de un número amplio de estaciones.
+Estas permiten tomar y retornar bicicletas; en cualquiera de sus ubicaciones, para usarlas en viajes y tiempos cortos durante la mayor parte del día y del año: Por lo general, los SPB buscan un número alto de usos diarios, los cuales se promueven con la gratuidad de los primeros 30, 45 o 0 minutos.
+Los viajes largos son desincentivados por medio de cobros altos y crecientes por el tiempo adicional.
+-Transporte Sostenible: Conjunto de procesos que tienen como finalidad el desplazamiento y comunicación, que logra una mejor integración de la economía y responde a la necesidad de movilidad respetando el medio ambiente y mejorando la equidad social, la salud, y la resiliencia de las ciudades.
+-Zonas de implementación del Sistema: Áreas geográficas definidas por la entidad territorial, dentro de las cuales se implementarán las ciclo estaciones, ciclo parqueaderos, ciclónicas, ciclovías y los centros de atención del Sistema de Bicicletas Públicas.
+-Movilidad Activa: Es la capacidad que tiene el ser humano para desplazarse usar ido el cuerpo, ya sea caminando u otros medios de transporte que aprovechen al ser humano como. Motor.
+Artículo 3.
+Principios del SBP.
+La formulación, implementación, seguimiento y evaluación del Sistema de Bicicletas Público SBP, estarán orientados por los siguientes principios: Accesibilidad.
+Garantizar a todo ciudadano, independientemente de sus limitaciones físicas y cognitivas, el uso de los Sistemas de Bicicletas Públicas y toda su infraestructura.
+Corresponsabilidad.
+Promover acciones conjuntas entre el Estado, las entidades tentoriales, ciclistas y usuarios de otros medios de transporte, con el fin de asumir una corresponsabilidad en torno al uso de los SBP y mejorar la movilidad.
+Crecimiento Sostenible.
+Garantizar que a través del uso de la bicicleta exista una relación recíproca con el desarrollo, el mejoramiento de la movilidad, la estructura económica de las entidades territoriales, el fomento de la salud pública y el cuidado del medio ambiente.
+Igualdad.
+Dentro de los SBP todos sus usuarios contarán con los mismos derechos y obligaciones.
+Integración multimodal.
+Promover la articulación entre todos los medios de transporte público disponibles en la ciudad, facilitando el acceso, la cobertura y la complementariedad de los ciclistas en la movilidad urbana activa.
+Asequibilidad.
+Garantizar a todos los ciudadanos la posibilidad de contar con los medios para elegir la bicicleta como medio de. Transporte.
+Participación.
+Reconocer a los usuarios de los SBP como actores activos en el mejoramiento de la movilidad territorial y el fomento del uso de la bicicleta. Como medio de transporte público.
+Planificación.
+Acompañar en él.
+Marco de la Política.
+Nacional de Movilidad Urbana y Regional a las entidades territoriales en los procesos de planeación, implementación, organización y evaluación de los SBP.
+Transversalidad.
+Y concurrencia.
+Implementar en forma conjunta y articulada entre las entidades de carácter Nacional, Departamental y Local, los Sistemas de Bicicletas Públicos, aportando a estos en el marco de sus respectivas competencias, y garantizando el compromiso de todos los sectores administrativos de gobierno, de manera que el uso de la bicicleta y la movilidad activa sean desarrollados tal y como se expone en la Política Nacional.
+De Movilidad Urbana y Regional.
+Artículo 4 Lineamientos de Implementación: Las entidades territoriales.
+Podrán desplegar las acciones que se requieran para la implementación del Sistema de Bicicletas Público, observando los siguientes lineamientos: A.
+Generar intercambio modal y desincentivar el uso del automóvil particular para desplazamientos cortos.
+Estimular una movilidad limpia y sostenible, amigable con el medio ambiente, la salud de los ciudadanos y la gratuidad del servicio.
+C. Integrar acciones a nivel sectorial o interinstitucional que estén relacionadas con el uso de bicicletas públicas para la movilización de ciudadanos en las vías y espacios públicos.
+D. Generar pedagogía en los usuarios del Sistema Bicicletas Públicas sobre el uso y sentido de pertenencia con lo público, el ambiente y el manejo en las ciclorrutas.
+Artículo 5.
+Implementación del BP.
+A partir de la entrada en vigencia de la presente ley y conforme al respectivo estudio técnico de viabilidad, las autoridades locales que cuenten con Plan de Ordenamiento Territorial conforme al artículo 9 de la Ley 388 de 1997, podrán implementar los SBP acorde con lo establecido en la presente ley y los lineamientos metodológicos señalados por el Ministerio de Transporte y el Departamento Nacional de Planeación DNP.
+Parágrafo 1.
+Las entidades territoriales con menos de 100.000 habitantes que cumplan con los requerimientos establecidos en la presente ley, Cuenten con capacidad.
+Económica y. sus particularidades lo requieren, podrán implementar un SBP.
+Parágrafo 2.
+Para cumplir lo contemplado en este artículo, las Secretarías de Tránsito y Transporte, movilidad o quién haga sus veces, deberán llevar a cabo de forma detallada y rigurosa, el estudio técnico, económico y jurídico que demuestre la viabilidad requerida para la implementación del SBP.
+Parágrafo 3.
+Los municipios mencionados en el presente artículo, deberán implementar las disposiciones en un término de 3 años contados a partir de la promulgación de la presente ley.
+Parágrafo Transitorio.
+Las entidades territoriales que cuentan con un Sistema de Bicicletas Públicas, deberán en un término no superior a 6 meses adaptar esta ley.
+Al sistema que opera en la respectiva entidad territorial.
+Artículo 6.
+Regulación.
+De manera armónica y respetando la descentralización y la autonomía territorial, el Ministerio de Transporte en conjunto con el Departamento Nacional de Planeación DNP, brindarán el apoyo técnico a las entidades territoriales en un plazo no mayor a un año 1, posterior a la fecha de promulgación de la presente ley, para establecer los lineamientos por los cuales se regirá la implementación.
+Del SBP en los municipios mencionados en el artículo 5 de la presente ley.
+De igual forma, definirán las pautas para la realización de los estudios técnicos requeridos, de acuerdo con lo establecido en la Política Nacional de Movilidad Urbana y Regional Condes 3991.
+Artículo 7.
+Financiación del SBP.
+La financiación del Sistema de Bicicletas Público será acorde con los recursos de cada entidad territorial; igualmente podrá recibir donaciones y aportes del sector privado.
+Con el fin de garantizar su sustentabilidad, estos sistemas podrán ser operados por empresas privadas yo de economía mixta.
+De acuerdo con lo anterior, los SBP tendrán tas siguientes fuentes de financiación: Administración Municipal: Se encargará de poner a disposición la infraestructura pública y recursos en la medida de sus posibilidades, necesarios para viabilizar la construcción y funcionamiento delos s BP.
+: Gobierno Nacional: Él. Gobierno.
+Nacional intervendrá acorde con lo establecido en el Plan Nacional de Desarrollo Ley 1955 de 2019 en su artículo 97 OTRAS FUENTES DE FINANCIACIÓN PARA LOS SISTEMAS DE TRANSPORTE.
+Sector Privado: Concurrirán a su financiación los particulares que participen mediante un proceso de licitación pública para realizar u operar los SBP.
+De igual forma aquellos privados que deseen utilizar los SBP como herramientas publicitarias comerciales garantizando recursos parase funcionamiento.
+Los que en virtud de la responsabilidad social y empresarial tengan obligación de hacerlo.
+Artículo 8.
+Participación de las entidades territoriales.
+Las entidades territoriales: a Garantizarán la existencia de ciclorrutas en el Plan de Movilidad Municipal, propendiendo por un aumento gradual acorde a los estudios técnicos y realidades de cada ente territorial.
+Integrarán el SBP al Plan de Movilidad Municipal.
+c. Realizarán anualmente estudios de demanda, con el fin de determinar el comportamiento de la misma y aumentar el número de bicicletas en cada ciclo parqueadero de acuerdo a las necesidades que dicte este estudio.
+Verificarán de manera periódica el estado de las ciclorrutas y de las bicicletas para garantizar el adecuado funcionamiento del sistema.
+E. Generarán la interconexión entre las ciclorrutas con instituciones públicas como universidades, instituciones educativas, museos, bibliotecas, hospitales, alcaldías municipales, estaciones de los sistemas integrados de transporte.
+F. Realizarán campañas pedagógicas sobre el cuidado del medio ambiente y el cuidado de lo público a fin de velar por el buen estado de las bicicletas prestadas a la ciudadanía, sobre el Sistema de Bicicletas Públicas y el comportamiento vial.
+Artículo 9.
+Características del SBP.
+El Sistema de Bicicletas Público contará con las siguientes características mínimas:.
+Red de ciclo parqueaderos en el área de cobertura.
+Articulación del SBP con los demás sistemas de transporte público.
+Ciclo parqueaderos señalizados, seguros, visibles y accesibles.
+Sistema de identificación y afiliación de usuarios.
+Sistema de monitoreo integrado a la red de la Policía Nacional.
+Bicicletas durables, atractivas y utilitarias.
+G. Señalización adecuada en las ciclorrutas.
+H. Elementos de seguridad para los usuarios.
+el Centro o Centros de información para la movilidad; 7. Alicia PSOE z y MÍO E Parágrafo.
+Las ante lores sacie s, NO Luces otras iniciativas o aportes que sugiera él: Ministerio de Transporte, Ministerio de Ambiente y Desarrollo Sostenible, Departamento Nacional de Planeación DNP, Agencia Nacional de Seguridad Vial, la academia y otros grupos de interés.
+Artículo 10.
+Accesibilidad y afiliación.
+El Sistema de Bicicletas Públicas será un servicio accesible a todos aquellos que se registren como usuarios y que cumplan con las condiciones, requisitos y obligaciones establecidas para hacer uso del mismo.
+El registro y afiliación por parte de los biciusuarios al Sistema de Bicicletas Públicas se podrá realizar mediante las herramientas tecnológicos con las que cuente cada administración municipal página web, plataformas, aplicativos móviles u otro tipo de tecnologías o la que estime la guía emanada por parte del Ministerio de Transporte en conjunto con el Ministerio de las TIC para su implementación, permitiendo el acceso y uso del mismo bajo las condiciones de operación establecidas en el contrato de uso del Sistema.
+Artículo 11.
+Vigencia y derogatoria.
+La presente ley rige a partir de su sanción y deroga todas aquellas normas que le resulten contrarias.
+Atentamente, FABIÁN DÍAZ PLATA Senador de la República oda ¡0 DE LA REPÚBLICA Ax 430 y se Ley de 1.992: Es jo se radió de ley o pues y legales Es roles Dm - Oro Posts EXPOSICIÓN DE MOTIVOS PROYECTO DE LEY DE 2022 SENADO POR MEDIO DE LA CUAL SE ESTABLECEN LAS PAUTAS PARA LA IMPLEMENTACIÓN DEL SISTEMA DE BICICLETAS PÚBLICO Y SE DICTAN OTRAS DISPOSICIONES I!
+OBJETO DEL PROYECTO Este proyecto tiene como objeto, sentar las bases de la política pública sobre el Sistema de Bicicletas Públicas SBP con el fin de incentivar el uso de la bicicleta como medio de transporte alternativo, saludable.
+Y ambientalmente sostenible.
+¿Esto permite contribuir a la disminución de las emisiones de CO₂, reducir la congestión vial, facilitar la movilidad y velar por la salud de los residentes, integrando el uso de la bicicleta al sistema de transporte masivo, público o regional, conforme al artículo 4?
+De la Ley 1811 de 2016.
+Por tanto, se torna necesario desarrollar iniciativas que propendan por el mejoramiento de las capacidades territoriales, de la vida y de la salud pública.
+Lo anterior a través del establecimiento delineamientos de política pública, por intermedio de principios que todo Sistema de Bicicletas Público debe cumplir y con acciones a desplegarse por las entidades territoriales para establecer los SBP.
+La implementación tendrá una serie de condiciones mínimas tales como estudios -de viabilidad, número de habitantes, un término de 3 años para los municipios con más de 100.000 habitantes y 6 meses para aquellos que ya cuenten con un SBP.
+De igual manera, las disposiciones se desarrollarán de manera armónica con otros proyectos como tos estipulada por la Política Nacional de Movilidad Urbana y Regional.
+Por último, algunas características de los SBP fueron incluidas sin perjuicio de otras iniciativas, aportes, planes y programas de mejoramiento que puedan adicionarse a estos sistemas y se garantiza el acceso al sistema mediante la utilización de los medios con los que cada entidad territorial cuente. II.
+JUSTIFICACIÓN DEL PROYECTO EL proyecto se encuentra encaminado a crear una política de movilidad ciclista eficiente en el territorio nacional, ya que se considera necesario que este tipo de iniciativas reciban una fuerte inversión por parte del gobierno, toda vez quede acuerdo con estudios de movilidad realizados en Bogotá en él dañó 2018, más de 835.000 personas se movilizan en bicicleta a diario.
+Ahora, si vemos el impacto de la pandemia en la población, esta prefiere usar la bicicleta para tomar el riesgo de usar medios masivos de transporte por el peligro latente de contagio que existe en estos.
+Por otra parte, de acuerdo con la OCDE, las ciudades que separan a los ciclistas de los demás vehículos invirtiendo en ciclovías protegidas están mejor posicionado pará maximizar los beneficios de salud y sostenibilidad del ciclismo.
+Si bien los niveles de seguridad para los ciclistas difieren drásticamente entre los diferentes países y ciudades, las investigaciones muestran que, en general, los beneficios para la salud pública de alentar a las personas a andar en bicicleta superan con crecer los costos.
+Muchas más personas mueren de enfermedades crónicas relacionadas con la falta de ejercicio físico y la mala calidad del aire que en accidentes de tránsito.
+El ciclismo regular mejora la condición cardiovascular del cuerpo y ayuda a controlar el exceso de grasa corporal, lo que reduce el riesgo de enfermedades crónicas como cardiopatías, diabetes tipo dos y accidentes cerebrovasculares.
+Andar en bicicleta también aumenta la fuerza muscular, mejora la flexibilidad de las articulaciones y libera endorfinas, que ayudan a combatir el estrés.
+: Y no solo la salud de los ciclistas mejora cuando las ciudades promocionan las bicicletas como medio de transporte.
+Potencia del.
+Pedal produce cero emisiones de carbono, un gran beneficio para el medio ambiente.
+Las cifras de las Naciones Unidas predicen que la población: mundial llegará a 9.8 mil millones para el año 2050, y el 68 de las personas habitarán en las ciudades.
+Por lo tanto, alentar el uso del transporte con cero emisiones como las bicicletas no solo es bueno para nosotros, sino también para el planeta.
+Lograr una movilidad sostenible a nivel mundial es uno de los mayores retos que enfrentan las naciones a fin de cumplir las metas del Acuerdo de País, consistentes con reducir las emisiones relacionadas con el transporte de 7,7 giga toneladas de CO₂ actualmente, a ubicarse entre 2 y 3 gigatoneladasHD para.2050.
+¡Según el Banco Mundial 2017, un aspecto crucial para reducir las emisiones de CO₂ radica en la transición del transporte público a un sistema de transporte que contribuya a la movilidad compatible con el clima a nivel mundial.!
+SA ea Bajo la Convención Marco de las Naciones Unidas sobre el cambio climático NUNCA, compromiso en virtud del Acuerdo de París, Colombia en el año 2015 se comprometió a reducir el 20 de sus emisiones de Gases de Efectos Invernadero, mediante lo cual ratifica su lucha contra el calentamiento global y su preocupación por los problemas ambientales con los que actualmente debe lidiar, no solo el país sino también el mundo.
+En la siguiente imagen se muestran las contribuciones determinadas nacionalmente por algunos de los países latinoamericanos en la NUNCA y sus objetivos condicionados a recursos de cooperación internacional.
+ADICIONAL COLOMBIA.
+Déficit ediciones otra Héroe respecto al escenario sin cambios para el 00 A par des extiende DE paca 70D PE por debajo de los rivales el 2007 papel E ocupando EL LA fuego que depende del apoyo inercia ser De acuerdo con una publicación realizada en la página oficial de Ministerio de Ambiente y Desarrollo Sostenible 2015, titulada Colombia se compromete a reducir el 20 de sus emisiones de Gases de Efecto Invernadero para el año 2030, el Gobierno de turno deja entrever que los sectores claves a los que se debe apostar para lograr esta y otras metas 1 Banco Mundial 2017.
+Movilidad.
+Recuperado el 24012019.
+En línea www.bancomundial.orgesfresults20171201mobility.favorables para el medio ambiente, así como también, las principales oportunidades de mitigación.
+Pero estos cambios implican la voluntad política además de la generación de procesos de transformación en el consumo, el cuidado, la cultura y estilos de vida que a la final tiene una implicación directa en la recuperación gradual del medio ambiente; esto es, los cambios deben venir en un sistema de corresponsabilidad entre el Estado, la sociedad, la familia y el ciudadano.
+Por eso, esta iniciativa es un aporte a los sectores allí establecidos, para generar oportunidades.
+De mitigación y una trasformación cultural en cuanto al uso.
+De la bicicleta.
+Como medio de transporte; pero para ello deben generarse las condiciones necesarias que paulatinamente vayan cambiando los hábitos de movilidad en las grandes ciudades, respecto al desplazamiento de cortas y grandes distancias. Y PROPALES OPORTUNIDADES DE MITIGACIÓN Reducción de la aforestación: 1 Restauración seroja restauración, devastación y recuperación 1 Í Uso del Susto Serás angostos 2 en do potencial de Captura de Cara vejotes prácticas de Osificación gástricos de papa y arco Ganadería sostendría sistemas sivopardartes Eternos, patines racha; i Modelos más encurtes de un se suele: Ordenamiento arañazo Eficienta emergencia en sociales de demanda, tansienmación y producción Sistemas de serás inteligentes Formativo de energías renovables Esquemas de generación con fuentes no convencionales y si memes niños más estrategias de licencia antigénica pata Zonas No interconectada Reducción de pérticas de transporte de energía Participación de dependa medie esquemas de precios y e Sonidos Captura y almacenársete de Carbono TERCIES CARGAR MATES, OÍS, RODIAS, Sustitución e Catón por Domada y eh general producción El Dombás 52 menos Carbono inercias Descritos tecnológicos en los procesos productivos fangares de rendimiento y conducción vente Renovación de la dote véntenos eléctricos: Uso e combárseles de mena carbono Idénticas Promoción el Sempere público, Sistemas púbicos de bisayas: Desmentir al uso de deporte privado: Obras por congestión: Transpone multimodal sea y férreo Cromización transporte cargo Eficiencia envejezca e producción de enérgicos más Envíos sucesión de aulas a las Batuta.
+Tercero y hotantración de laboras, uso de energía sobar industria Generación se vierta Galerías y mejores tóricas de 5 jaño y construcción Ciudades Sostenibles.
+Aprovechamiento de ros lesos 10000 componga Captura y quema de metano 6n felinos sanitarios A lo Ejeme: Ministerio de Ambiente y Desarrollo Sostenible 2015.
+Colombia se compromete a reducir el 20 de sus emisiones de gases de efecto mesnadero para el año 2930. En la figura anterior se observa cómo el sector transporte se destaca como uno de los sectores claves para las apuestas futuras de la lucha contra el calentamiento global, temas como la conducción verde y la renovación de flota, ligadas al portafolio de energías renovables, promueven la movilidad sostenible y los proyectos encaminados a una flota pública que le apuesta al desarrollo social, económico y ambiental.
+Sumado a lo anterior, Colombia ha tomado participación en varios eventos y acuerdos internacionales encaminados a lograr avances importantes en temas ambientales, sociales y económicos, en los cuales se destacan la Agenda 2030 2015 y la Nueva Agenda Urbana 2016.
+Con respecto a la Agenda 2030, esta se logró gracias al apoyo de numerosos países, organizaciones internacionales y actores no gubernamentales, gracias al cual se consolidó un documento con 17 Objetivos de Desarrollo Sostenible encaminados hacia la sostenibilidad económica, social y ambiental de los países miembros.
+Colombia bajo este compromiso internacional se planteó como una de las metas al 2030 reducir las emisiones totales de efectos invernadero en un 20?, En cuanto a la Nueva Agenda Urbana, celebrada en Quito, Ecuador, como parte de la Tercera Conferencia de las Naciones Unidas sobre Vivienda y Desarrollo Urbano Sostenible, Hábitat III, esta se centra en discutir y establecer compromisos sólidos que permitan avanzar a las ciudades en bienestar social, protección medioambiental y crecimiento económico, como resultado de la preocupación por la gran migración hacia las ciudades, se calcula que para el año 2050 dos tercios de la humanidad vivirán en zonas urbanas, lo que representa un gran desafío para la sostenibilidad social, económica y ambienta!
+De las mismas.
+¿Para el caso colombiano, según el Ministerio de Ambiente, al día de hoy, cerca del 76 de la población vive en. Zonas urbanas y demanda más del 75 de los recursos?, mil.
+CONSTITUCIONALIDAD Y LEGALIDAD 2 Departamento Nacional de Planeación 2018: CONDES 3918.
+Recuperado el 25012019.
+En línea hitpsfcolaboracion.DNA.que.coCDTConpesEconC3B3micos3918.pdf.
+3 Ministerio de Ambiente y Desarrollo Sostenible.
+Con la Nueva Agenda Urbana Colombia se encamina hacia el desarrollo sostenible de sus ciudades.
+Recuperado el 25012019.
+En línea CONSTITUCIÓN POLÍTICA DE COLOMBIA Artículo 79.
+Todas las personas tienen derecho a gozar de un ambiente sano.
+La ley garantizará la participación de la comunidad en las decisiones que puedan afectarlo.
+Es deber del Estado proteger la diversidad e integridad del ambiente, conservar las áreas de especial importancia ecológica y fomentar la educación para el logro de estos fines.
+Énfasis fuera del texto.
+PRINCIPIO DE PROGRESIVIDAD.
+EN MATERIA DE PROTECCIÓN AL MEDIO AMBIENTE-Alcance MANDATO DE PROGRESIVIDAD DE DERECHOS ECONÓMICOS, SOCIALES Y CULTURALES-Contenido MANDATO DE PROGRESIVIDAD DE DERECHOS ECONÓMICOS, SOCIALES Y CULTURALES-Alcance El mandato de progresividad tiene dos contenidos complementarios, por un lado, el reconocimiento de que la satisfacción plena de los derechos establecidos en el pacto supone una cierta gradualidad; y por otra, también implica un sentido de progreso, consistente en la obligación estatal de mejorar las condiciones de goce y ejercicio de los derechos económicos, sociales y culturales.
+Así, una vez alcanzado indeterminado nivel de protección la amplia libertad de configuración del legislador en materia de derechos sociales se ve restringida, al menos en un aspecto: todo retroceso frente al nivel de protección alcanzado es constitucionalmente problemático, puesto que precisamente contradice: el mandato de progresividad, lo cual no solo es aplicable respecto a la actividad del Legislador sino también respecto a la actuación de la Administración en el diseño y ejecución de políticas públicas en materia de derechos económicos sociales y culturales al igual que cualquier rama de los poderes públicos con competencias en la materia PROTECCIÓN DE LA NATURALEZA- Perspectivas en que se concreta: 4 Sentencia C-44309 La legislación expedida y la jurisprudencia constitucional vertida sobre la defensa al medio natural y. El entorno ecológico han partido de un desarrollo histórico y líneas de pensamiento que han desembocado en la existencia de diversos enfoques jurídicos que vienen a concretarse en visiones: -i antropocéntrica, ii biométricas y iii egocéntricas, entre otras 3 Artículo 80.
+El Estado planificará el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución.
+Además, deberá prevenir y controlar los factores de deterioro ambiental imponer sanciones legales y exigir la reparación de los daños causados.
+Así mismo, cooperará con otras naciones en la protección de: los ecosistemas situados en las zonas fronterizas.
+Énfasis fuera del texto.
+La Constitución Política de 1991 no encargó el deber de conservación y preservación del medio ambiente a una sola autoridad pública, sino que comprometió a todas las instancias de poder en la ejecución de políticas de defensa del patrimonio ecológico.
+La política ambiental ha de ser una política integrada institucionalmente y coordinada desde el nivel central de la Administración.
+La eficacia en la preservación de los recursos naturales debe alcanzarse mediante la coordinación de los esfuerzos de las distintas instancias territoriales, por lo-que se requiere de la existencia de un nivel central de decisión que coordine las instancias locales a efectos de lograr una política ambiental homogénea y coherente en el nivel nacional.
+El artículo 80 constitucional establece que la planificación de la política ambiental corresponde al Estado, lo que impone, de suyo, la existencia de un ente de coordinación que diseñé los lineamientos básicos y los canales de cooperación entre las diferentes autoridades estatales que funcionan descentralizada o desconcentradamente.
+El carácter nacional de la política del medio ambiente es fundamento para considerar que la misma debe coordinarse desde los niveles centrales de la administración.
+Asimismo, el hecho de que los Estados sean los sujetos internacionalmente responsables por el cumplimiento de los compromisos ambientales exige la adopción de políticas domésticas coherentes, cuya unidad se refleje fuera 5 Sentencia C-44915 de las fronteras nacionales.
+Esta coherencia solo se garantiza mediante la dirección y coordinación de la política ambiental por parte de la autoridad central, pues, tal como lo indica el artículo 226 de la Constitución Política, la función -de promover las relaciones internacionales ecológicas está en cabeza del Estado, sobre las bases de la equidad, la reciprocidad y la conveniencia nacional Artículo 49.
+La atención de la salud y el saneamiento ambiental son servicios públicos a cargo del Estado: Se garantiza a todas las personas el acceso a los servicios de promoción, protección y recuperación de la salud.
+Corresponde al Estado organizar, dirigir y reglamentar la prestación de servicios de salud a los habitantes y de saneamiento ambiental conforme a los principios de eficiencia, universalidad y solidaridad...
+Énfasis tuera del texto.
+El control ambiental ha sido entendido como la inspección, la vigilancia y la aplicación de las medidas técnicas y legales necesarias para evitar o disminuir cualquier tipo de afección al ambiente producto de las actividades humanas o desastres naturales, entendiendo que un impacto se produce por cualquier alteración en el medio biótico, abiótico socioeconómico, ya sea adversa o beneficiosa, total o parcial, siempre que pueda ser atribuido al desarrollo de una obra, actividad o hecho de la naturaleza.
+Por otra parte, la Corte Constitucional en la Sentencia T-15413 advierte que: La conservación del ambiente no solo es considerada como un asunto de interés general, sino principalmente como un derecho internacional y local de rango constitucional, del cual son titulares todos los seres humanos, en conexidad con el ineludible deber del Estado de garantizar la vida de las personas en condiciones dignas, precaviendo cualquier injerencia nociva que atente contra su salud, Al efecto, la Constitución de 1991 impuso al Estado colombiano la obligación de asegurar las condiciones que permitan a las personas gozar de un ambiente sano, y dispuso el deber de todos de contribuir a tal fin, mediante la participación en la toma de decisiones Sentencia 46208 7 Sentencia T-22717. Ambientales y el ejercicio de acciones públicas y otras garantías individuales, entre otros.
+Énfasis fuera-del texto.
+Artículo 78.
+La ley regulará el control de calidad de bienes y servicios ofrecidos y prestados a la comunidad, así como la información que debe suministrarse al público en su comercialización.
+Serán responsables, de acuerdo con la ley, quienes en la producción y en la comercialización de bienes y servicios, atenten contra la salud, la seguridad y el adecuado aprovisionamiento a consumidores y usuarios.
+El Estado garantizará la participación de las organizaciones de consumidores y usuarios en el estudio de las disposiciones que les conciernen.
+Para gozar de este derecho las organizaciones deben ser representativas y observar procedimientos democráticos internos.8 Podemos evidenciar que es obligación constitucional del estado garantizar la óptima calidad de la prestación de los servicios, conforme a políticas públicas que el mismo deba estructurar y más procura y garantía de un ambiente sano y la protección de los bienes de interés públicos como son los recursos naturales, Sentencia C-293 abril 23 de 2002 Expediente D-3748 Los principios generales que - deben guiar la política ambiental, corresponden a las autoridades ambientales en correlación directa con las obligaciones estatales, pues estas están enfocadas al principio de precaución, conforme al cual existe un peligro latente grave e irreversible al ambiente, el número de emisiones de CO₂ emitidas en las ciudades atentan directamente con el bienestar de la población, por eso corresponde a las entidades gubernamentales adoptar medidas eficaces para evitar la degradación del medio ambiente MARCO LEGAL LEY 105 DE 1993 Por la cual se dictan.
+Disposiciones básicas sobre el transporte, se redistribuyen competencias y recursos entre la Nación y las Entidades Territoriales, se reglamenta la planeación en el sector transporté y se dictan otras disposiciones.
+8 Artículo 78 Constitución Política En -su artículo segundo, la presente ley se refiere a los principios fundamentales en su literal B, de la intervención del Estado: Corresponde al Estado la planeación, el control, la regulación y la vigilancia del transporte y de las actividades a él vinculadas.
+En el artículo tercero se manifiesta los principios fundamentales del transporte público argumentando el transporte público es una industria.
+Encaminada a garantizar la movilización de personas o cosas por medio de vehículos apropiados a cada una de las infraestructuras del sector, en condiciones de libertad, de acceso, calidad y seguridad de los usuarios, sujeto a una contraprestación económica y se regirá por los siguientes principios: e DEL ACCESO AL TRANSPORTE: El cual implica: a.
+Que el usuario pueda transportarse a través del medio y modo que escoja en buenas condiciones de acceso, comodidad, calidad y seguridad.
+Que los usuarios sean informados sobre los medios y modos de transporte que le son ofrecidos y las formas de su utilización.
+c. Que las autoridades competentes diseñen y ejecuten políticas dirigidas a fomentar el uso de los medios de transporte, racionalizando los equipos apropiados de acuerdo con la demanda y propendiendo por el uso de medios de transporte masivo.
+d. Que el diseño de la infraestructura de transporte, así como en la provisión de los servicios de transporte público de pasajeros, las autoridades competentes promuevan el establecimiento de las condiciones para su uso por los discapacitados físicos, sensoriales y psíquicos.
+en EL CARÁCTER DEL SERVICIO PÚBLICO DEL TRANSPORTE: La operación del transporte público en Colombia es un servicio público bajo la regulación del Estado, quien ejercerá el control y la vigilancia necesarios para su adecuada prestación en condiciones de calidad, oportunidad y seguridad.
+E TRANSPORTE INTERMODAL:is Las autoridades competentes promoverán el mejor comportamiento intermodal, favoreciendo la sana competencia entre modos de transporte, así como su adecuada complementación.
+LEY 336 DE 1996.
+ESTATUTO GENERAL DE TRANSPORTE La presente ley tiene por objeto unificar los principios y los criterios que servirán de fundamento para la regulación y reglamentación del transporte público aéreo, marítimo, fluvial, férreo, masivo y terrestre y su operación en el territorio nacional, de conformidad con la Ley 105 de 1993, y con las normas que la modifiquen o sustituyan.
+En su artículo cuarto fundamentan.
+El transporte gozará de la especial protección estatal y estará sometido a las condiciones y beneficios establecidos por las disposiciones reguladoras de la materia, las que se incluirán en el Plan Nacional de Desarrollo, y como servicio público continuará bajo la dirección, regulación y control del Estado, sin perjuicio de que su prestación pueda serle encomendada a los particulares.
+Correlativamente en la presente ley en su artículo quinto.
+El carácter de servicio público esencial bajo la regulación del Estado que la ley le otorga a la operación de las empresas de transporte público, implica la prelación del interés general sobre el particular, especialmente en cuanto a la garantía de la prestación del servicio y a la protección de los usuarios, conforme a los derechos y obligaciones que señale el reglamento para cada modo.
+LEY 769 DE 2002.
+Por la cual sé expide el Código Nacional de Tránsito Terrestre y se dictan otras disposiciones.
+El articulado del presente Código rige en todo el territorio nacional y regulan la circulación de los peatones, usuarios, pasajeros, conductores, motociclistas, ciclistas, agentes de tránsito, y vehículos por las vías públicas o privadas que están abiertas al público, o en las vías privadas, que internamente circulen vehículos; así como la actuación y procedimientos de las autoridades de tránsito.
+En su artículo sesenta y ocho nos enuncian la utilización de los carriles.
+Los vehículos transitan de la siguiente forma: Parágrafo 1.
+Sin perjuicio de las normas que sobre el particular se establecen en este código, las bicicletas, motocicletas, motociclos, mototricicios y vehículos de tracción animal e impulsión humana, tramitarán de acuerdo con las reglas que en cada caso dicte la autoridad de tránsito competente.
+En todo caso, estará prohibido transitar por los andenes o aceras, o puentes de uso exclusivo para los peatones.
+Parágrafo 2.
+Se prohíbe el tránsito dé.
+Motocicletas y motociclos por las ciclorrutas o ciclovías.
+En caso de infracción se procederá a la inmovilización.
+CAPÍTULO V.
+CICLISTAS Y MOTOCICLISTAS.
+En el artículo noventa y cuatro se enuncian las Normas generales para bicicletas, triciclos, motocicletas, motociclos y mototricicios.
+Los conductores de bicicletas, triciclos, motocicletas, motociclos y moto triciclos, estarán sujetos a las siguientes normas: Deben transitar por la derecha de las vías a distancia no mayor de un 1 metro de la acera u orilla y nunca utilizar las vías exclusivas para servicio público colectivo.
+Los conductores de estos tipos de vehículos y sus acompañantes deben vestir chalecos o chaquetas reflectabas de identificación que deben ser visibles cuando se conduzca entre las 18:00 y las 6:00 horas del día siguiente, y siempre que la visibilidad sea escasa.
+Los conductores que transiten en grupo lo harán uno detrás de otro.
+No deben sujetarse de otro vehículo o viajar cerca de otro carruaje de mayor tamaño que lo oculte de la vista de los conductores que transiten en sentido contrario.
+No deben transitar sobre las aceras, lugares destinados al tránsito de peatones y por aquellas vías en donde las autoridades competentes lo prohíban.
+Deben conducir en las vías públicas permitidas o, donde existan, en aquellas especialmente diseñadas para ello.
+Deben respetar las señales, normas de tránsito y límites de velocidad.
+No deben adelantar a otros vehículos por la derecha o entre vehículos que transiten por sus respectivos carriles.
+Siempre utilizarán el carril libre a la izquierda del vehículo para sobrepasar.
+Deben usar las señales manuales detalladas en el artículo sesenta y nueve de la presente ley.
+Los conductores y los acompañantes cuando hubiere, deberán: utilizar casco de seguridad, de acuerdo como fije el Ministerio de Transporte.
+La no utilización del casco de seguridad cuando corresponda, dará lugar a la inmovilización del vehículo.
+LEY 1083 DE 2006.
+Por medio de la cual se establecen algunas normas sobre planeación urbana sostenible y se dictan otras disposiciones.
+Esta ley es promulgada con el fin de dar prelación a la movilización en modos alternativos de transporte, entendiendo por estos el desplazamiento peatonal, en bicicleta o en otros medios no contaminantes, así como los sistemas de transporte público qué funcionen con combustibles limpios, los municipios y distritos que deben adoptar Planes de Ordenamiento Territorial en los términos del literal a del artículo 9 de la Ley 388 de 1997, formularán y adoptarán Planes de Movilidad según. Los parámetros de que trata la presente ley.
+¿Su primer artículo es establecido con el fin de dar prelación a la movilización en modos alternativos de transporte, entendiendo por estos el desplazamiento peatonal, en bicicleta o en otros medios no contaminantes, así como los sistemas de transporte público que funcionen con combustibles limpios, Los municipios y distritos que deben adoptar Planes de Ordenamiento Territorial en los términos del literal a del artículo 9?
+De la Ley 388 de 1997, formularán y adoptarán Planes de Movilidad según los parámetros de que trata la presente ley. LEY 1811 DE 2016.
+Por la cual se otorgan incentivos para promover el uso de la bicicleta en el territorio nacional y se modifica el Código Nacional de Tránsito.
+: La presente ley tiene por objeto incentivar el uso de la bicicleta como medio principal de transporte en todo el territorio nacional; incrementar el número de viajes en bicicleta, avanzar en la mitigación del impacto ambiental que produce el tránsito automotor y mejorar la movilidad urbana.
+En su artículo primero nos enuncia el objeto de la presente ley que tiene por objeto incentivar el uso de la bicicleta como medio principal de transporte en todo el territorio nacional; incrementar el número de viajes en bicicleta, avanzar en la mitigación del impacto ambiental que produce el tránsito automotor y mejorar la movilidad urbana.
+Continuando con el artículo cuarto frente al uso de bicicletas dentro de los SITO, SITO, SETA y SITO.
+Los Sistemas Integrados de Transporte Masivo, Sistemas Integrados de Transporte Público, Sistemas Estratégicos de Transporte Público y Sistemas Integrados de Transporte Regional, establecerán esquemas de estacionamientos adecuados, seguros y ajustados periódicamente a la demanda de bicicletas para que les permitan a los usuarios ingresar o conectar con diferentes sistemas de transporte.
+Artículo 9.
+Normas específicas para bicicletas y triciclos.
+El artículo 95 de la Ley 769 de 2002 quedará así: Artículo 95.
+Normas específicas para bicicletas y triciclos.
+Las bicicletas y triciclos se sujetarán a las siguientes normas específicas: 1.
+Debe transitar ocupando un carril, observando lo dispuesto en los artículos 60 y 68 del presente código.
+Los conductores que transiten en grupo deberán ocupar un carril y nunca podrán utilizar las vías exclusivas para servicio público colectivo.
+Los conductores podrán compartir espacios garantizando la prioridad de estos en el entorno vial.4.
+No podrán llevar acompañante excepto mediante el uso de dispositivos diseñados especialmente para él o transportar objetos que disminuyan la visibilidad o que impida un tránsito seguro.
+Cuando circulen en horas nocturnas, deben llevar dispositivos en la parte delantera que proyecten luz blanca, y en la parte trasera que reflecte luz roja.
+1955 de 2019 Por el cual se expide el plan nacional de desarrollo 2018-2022 pacto por Colombia, pacto por la equidad.
+ARTÍCULO 96.
+PLANES DE MOVILIDAD SOSTENIBLE Y SEGURA PARA MUNICIPIOS, DISTRITOS Y ÁREAS METROPOLITANAS.
+Modifíquese el artículo 1 de la Ley 1083 de 2006, el cual quedará así: ARTÍCULO 1.
+PLANES DE MOVILIDAD SOSTENIBLE Y SEGURA PARA MUNICIPIOS, DISTRITOS Y ÁREAS METROPOLITANAS.
+Los municipios y distritos que deben adoptar planes de ordenamiento territorial en los términos del literal a del artículo 9 de la Ley 388 de 1997, formularán, adoptarán.
+Y ejecutarán planes de movilidad.
+Los planes de movilidad sostenible y segura darán prelación a los medios de transporte no motorizado peatón y bicicleta y al transporte público con energéticos y tecnologías de bajas o cero emisiones.
+En todo caso, los planes de movilidad deberán determinar objetivos y metas de movilidad sostenible, articulados con los respectivos planes de ordenamiento territorial, cuyo total cumplimiento deberá garantizarse mediante la formulación y ejecución de estrategias, programas y proyectos.
+Cualquier municipio que esté fuera de esta obligación podrá formular, adoptar y ejecutar su plan de movilidad en el marco de los objetivos y metas de movilidad sostenible y segura, en especial capitales departamentales, municipios con nodos de comercio exterior, con intensidad turística, o con altos índices de contaminación o siniestralidad.
+Las áreas metropolitanas definidas por el artículo 319 de la Constitución Política de Colombia y que se encuentren legalmente conformadas, deberán formular, adoptar y ejecutar planes de movilidad sobre la totalidad del territorio de los municipios que la conforman.
+Los planes de movilidad metropolitanos deberán formularse, adoptarse y ejecutarse con los mismos parámetros definidos para los municipios y distritos; así mismo, deberán garantizar concordancia con el nivel de prevalencia tanto de los planes integrales de desarrollo metropolitano como de los planes estratégicos de ordenamiento territorial metropolitano definidos por la Ley 1625 de 2013, que le corresponda a cada área metropolitana.
+Los contenidos de los planes de desarrollo municipal y distrital de que trata la Ley 152 de 1994, deben armonizarse con los objetivos y metas de los planes de movilidad.
+Los municipios y distritos que integran y hacen parte del territorio de un área metropolitana, deben armonizar igualmente sus planes de desarrollo con el plan de movilidad de la respectiva área metropolitana, en los términos del presente artículo.
+La formulación de los planes de movilidad sostenible y segura deberá enmarcarse en la estrategia para la implementación de los Objetivos de Desarrollo Sostenible en Colombia.
+PARÁGRAFO.
+El Ministerio de Minas y Energía y el Ministerio de Ambiente y Desarrollo Sostenible, dentro de los seis 6 meses siguientes ala promulgación de esta Ley, establecerá mediante reglamentación la definición de energéticos de bajas o cero emisiones, teniendo como criterio fundamental su contenido de componentes nocivos para la salud y el medio ambiente.
+El Ministerio de Transporte y el Ministerio de Ambiente y Desarrollo Sostenible expedirán la reglamentación de tecnologías vehiculares de bajas o cero emisiones.
+Las definiciones y reglamentaciones deberán ser actualizadas de manera cuatrienal considerando los constantes avances en los energéticos y en las tecnologías.
+Conveniencia Social y Económica Los daños que la humanidad ha generado al planeta bien sea por su forma de vida o por la forma en la que depreda a su paso recursos, han hecho que los ciudadanos a nivel mundial desarrollen un despertar de conciencia y desarrollen un aumento en la responsabilidad asociada al cuidado y protección del planeta, enfocado a un desarrollo sustentable.
+Este proyecto tiene como base tres principios fundamentales: 1.
+El cuidado ambiental con el fomento de la bicicleta como medio de transporte 2.
+Incentivo de un estilo de vida saludable, siendo ta bicicletá la herramienta 3.
+Mejora de la movilidad urbana a través del uso de la bicicleta en la disminución de los tiempos de viaje Lo anterior. A través de Sistemas de Bicicletas Públicos SBP los cuales pueden definirse como un sistema que permite tomar y retornar bicicletas en cualquiera de las estaciones, las cuales están ubicadas dentro de un perímetro determinado y a una distancia relativamente corta entre ellas 400 a 600 metros.
+Las bicicletas están a disposición, para abonados permanentes o temporales, la mayor parte del día y del año, e incluso las hay hasta 24 horas todo el año.
+Por lo general, se permite su uso gratuito 30 o 45 minutos para lograr un alto número de viajes de proximidad.
+Se han consolidado como un instrumento efectivo de fomento del uso diario de la bicicleta para nuevos usuarios de la misma, El articulado del proyecto de ley está encaminado a la protección del medio ambiente a partir del fomento del uso de la bicicleta y la generación de algunos elementos para la construcción de la política pública, los mismos se refuerzan con la sostenibilidad del sistema a partir de su integración a los diferentes tipos de transportes multimodales, además de generar. La prospectiva del sistema público, dejando sentadas algunas bases útiles para la construcción de una política pública y no una política.
+De gobierno.
+¿Qué es un Sistema de Bicicletas Públicas?
+Es un nuevo sistema de movilidad pública, que involucra el autoservicio, se basa en el préstamo o alquiler temporal de bicicletas, por lo general por medios automatizados, aunque también existen medios manuales, para facilitar el uso urbano de este vehículo.
+Se trata ante todo de un sistema público para fomentar el uso urbano de la bicicleta en viajes de corta distancia y duración por lo general alrededor de 30 minutos, entre personas previamente inscritas e identificadas, quienes para el uso se la cicla deben tomarla en una estación preestablecida y retornarla después de su uso a la 2 Moctezuma, R. 2015.
+Sistemas Públicos de Bicicletas para América Latina.
+Guía práctica para implementación.
+Bogotá: CF; Fundación Ciudad Humana.
+Retrieved from HTTP:sistema.CF.
+comhandie123456789745misma o a otra estación, todo dentro de un área de funcionamiento del sistema.
+!0: A pesar de que el sistema puede pensarse sencillo, requiere de un entramado complejo en el que sé ven articulados muchos componentes de los que las bicicletas tan solo son el 10-15 del costo de implantación y operación del sistema.
+En sí, este es un sistema más complejo, pues agrupa mobiliario urbano, logística, TIC, dispositivos electromecánicos, entre otros con el fin de garantizar que la oferta y la demanda estén balanceadas de cara a la calidad y la eficiencia.
+Los principales componentes de un SBP son un complejo conjunto Ver Imagen 1 compuesto por: Estructura gerencial y administrativa.
+Sistema de avenamiento, tarificación e identificación de usuarios.
+Distribución y localización de estaciones.
+Estaciones: infraestructura, mobiliario urbano con módulos de estacionamiento, anclaje de bicicletas y de ubicación de equipos informáticos y de comunicaciones.
+Bicicletas: mecanismos electromecánicos de anclaje, identificación y lectura de bicicletas.
+Centro de control y monitoreo: dispositivos informáticos y de comunicación para gestionar el sistema y, sobre todo, para direccionar la logística de redistribución de bicicletas.
+Logística de redistribución: reposicionar o balancear el sistema por medio de la reubicación.
+De bicicletas.
+Infraestructura y sistema de mantenimiento.
+Financiamiento.
+10 Moctezuma, R. 2015, p. 10 Transporte público individual en autoservicio.
+Mucho más que bicicletas en Cada uno de los anteriores componentes es fundamental para como se mencionó anteriormente, contar con su funcionamiento armónico, garantiza calidad y eficiencia en el servicio.
+¿Por qué es necesario?
+Mejora de la Movilidad Urbana las ciudades se han visto afectadas por el aumento paulatino del tráfico, el automóvil y el transporte público, han eclipsado el espacio urbano y han condicionado el diario vivir del ser humano, los diseños urbanos son proyectados, direccionados y enfocados en el automóvil, causante de caos circulatorio, contaminación acústica y atmosférica, estrés en conductores y transeúntes, uso poco inteligente de los recursos energéticos, entre otras.
+¿Según un nuevo estudio de INRI, empresa especialista en el sector transporté, a 2018 los bogotanos padecieron los peores embotellamientos a nivel latinoamericano y a nivel mundial, según muestra la siguiente imagen?
+?, los bogotanos desperdiciaron en promedio 11 días al año 272 horas, en el 1 Moctezuma, R., P. 11, 2015 Y Estatista.
+Las ciudades latinoamericanas con peor tránsito, 2019.
+En línea HTTPS:es.estatista.comgrafico17001las- ciudades-de-América-latina-con-más-horas-perdidas-en- embotellamientos tráfico, en Ciudad de México pasaron 218 horas y en Bello Horizonte 202 horas.
+¿Las ciudades de América Latina más congestionadas América según el p?
+De horas perdidas en embotellamientos en 058 Ciudades de 1 Belo Horizonte su DAROCA A 202 a Río de danés mm RADA CARA 159 INE sado ex más de 3 uveales de 34 países.
+999: bato satisfaga Genoma 13 12 F018 Gota Irati horca País: Imagen 2.
+Las ciudades latinoamericanos con peor tránsito, 2019, Lograr un uso masivo de la bicicleta como medio de transporte tiene un importante efecto en bajar el nivel de congestión de las vías, lo que al mismo tiempo repercute en la disminución del consumo de combustibles fósiles y con ello un efecto favorable para el ambiente.
+Si bien, el saldo positivo que puede generar este tipo de mecanismos en el medio ambiente y la salud son formidables, según el Institute for Transportation 8.
+Development Policy, los beneficios del uso de la bicicleta pública van mucho más allá de estos puntos.
+En el documento Guía de Planeación del Sistema de Bicicletas Pública, el instituto mexicano establece que este tipo de movilidad también logra tener un gran impacto en la reducción en la congestión vial, aumento en la accesibilidad, mayor alcance del transporte público, mejor imagen del ciclismo, servicio complementario al transporte público, interesar a nuevos MS ciclistas, mejorar ta imagen de la ciudad y generar mayores inversiones en la industria local!3, El fin último de las ciudades latinoamericanas es reducir la congestión, todo esto a través de formas sustentables de movilidad como la bicicleta, ¡no obstante, y aun cuando las ciudades han dispuesto un aparato administrativo enfocado en el uso de este medio de transporte, existe un alto déficit en los datos sobre el ciclismo urbano y en la disponibilidad de información para los usuarios.
+La existencia.
+De estos departamentos es crucial para el apoyo al-uso de la bicicleta.
+La regulación sobre su uso tiene como objetivo proteger al ciclista, al igual que aclarar sus responsabilidades en la vía sin que ello genere una política restrictiva hacia el uso.
+Esto ayudará a reducir los accidentes que involucran a usuarios vulnerables: motociclistas, ciclistas y peatones.
+Más del 50 de las víctimas mortales por accidentes de tránsito en la región son usuarios vulnerables.
+¿Esto equivale aproximadamente a 50.000 víctimas?4, Medio ambiente: Los cambios y transformaciones que hoy vive el mundo tienen en su mayoría un componente medioambiental, toda vez que es indispensable propender por la disminución y mitigación efectiva de los efectos producidos por el cambio climático causado por la humanidad.
+La calidad del aire es una de las principales preocupaciones a nivel mundial, dado su gran impacto en la salud de la población, el medio ambiente, los cultivos y el deterioro de la infraestructura.
+En Colombia, el monitoreo y control de la contaminación atmosférica ha tomado día a día mayor relevancia, debido a que, según cifras de la Organización Mundial de la Salud, una de cada ocho muertes ocurridas a nivel mundial es ocasionada por la contaminación del aire.
+A nivel nacional, el Departamento Nacional de Planeación estimó que durante el año 2015, los efectos de este fenómeno estuvieron asociados a 10.527 muertes y 67,8 millones de síntomas y enfermedades.
+Adicionalmente, los costos ambientales asociados a la contaminación atmosférica en Colombia mostraron un incremento durante los últimos años pasando de 1,1 del PIB de 2009 5,7 billones de pesos a 1,59 del PIB de 2014 12 13 Institute for Transportation.
+Development Policy México.
+Guía de Planeación del Sistema de Bicicletas así.como- contentuploads201312GuC3ADa-Bici-PC3BAblica-IDO-Mexico.pdf.
+1 Revista Vial.
+La bicicleta como eslabón clave para mejorar la movilidad urbana.
+En línea Recuperado de: HTTP:revistaba.coma-bicicleta-como-estabón-clave-para-mejorar-la-movilidad-urbana billones de pesos siendo el 1,93 del PIB en 2015 15.4 billones de pesos, lo cual pone en evidencia la.
+Necesidad de seguir implementando estrategias para controlar, evaluar y monitorear estas sustancias!5, Los SBP reducen la congestión vial y mejoran la calidad del aire y su aporte es muy evidente, puesto que la bicicleta pública ofrece una alternativa de transporte para viajes cortos que de otra manera tendrían que hacerse en auto.
+Desde noviembre del 2011, los 22,0000 miembros del sistema de bicicletas públicas en Washington D.C., han reducido cerca de 4.4 millones el número de millas recorridas en auto LA Consulting 2012.
+Igualmente, ofrecen un servicio complementario al transporte.
+Público, brindando una alternativa a los viajes cortos que, de otra forma, se habrían realizado en transporte público o en automóvil como se enunció anteriormente!, Según el IDEA, en sus informes del estado de la calidad del aire, el contaminante con mayor potencial de afectación en el territorio nacional es el Material Particulado Menor a 2,5 micras M.ª, el cual está constituido por partículas producidas principalmente por vehículos pesados que utilizan diésel como combustible, y que pueden transportar material muy peligroso para el cuerpo como metales pesados, compuestos orgánicos y virus, afectando de este modo las vías respiratorias.
+Algunos de los contaminantes nocivos que se encuentran en el aire como el óxido de nitrógeno y el material particulado provienen como se mencionó anteriormente de fuentes móviles como los vehículos operados mediante diésel, y según World Willie Una WWF y la Organización de las Naciones Unidas ONU aproximadamente una cuarta parte de las emisiones globales de CO₂ tienen su fuente en el transporte, lo cual deja a la movilidad como uno de los principales desafíos en materia ambiental y social.
+Siguiendo al IDEA, todos los municipios cuya población sea mayor a 50.000 habitantes o aquellos en los cuales se evidencie una problemática de contaminación del aire, deben contar con un Sistema de Vigilancia Resolución 6502010 del entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial.
+Sin embargo, en Colombia hay ciudades como IBÍDEM - Instituto de Hidrología, Meteorología y Estudios Ambientales.
+Contaminación y Calidad Ambiental, Contaminación Atmosférica, Calidad del Aire.
+Recuperado el 10092020.
+En línea HTTP:www.ideam.gov.cowebcontaminacion-y-calidad- ambiental calidad-del-aire 16 institutos de Políticas para el Transporte y el desarrollo IDO, Guía para la Planeación del Sistema de Bicicleta Pública, 2015, p. 14 Riohacha Guajira, Soledad Atlántico, Cartagena Bolívar, Sincelejo Sucre.
+Apartadó Antioquia, Barrancabermeja Santander, Villavicencio Meta.
+Buga, Palmira y Tuluá Valle del Cauca y Florencia Maqueta, entre otras, que no cuentan con este monitoreo.
+¡A nivel nacional, las zonas que mayor afectación presentan por importantes niveles de contaminación atmosférica son:!7 el Área Metropolitana del Valle de Aburrá, las localidades de Puente Aranda y Kennedy en Bogotá El sur occidente de Bogotá es la zona más contaminada por material particulado localidad de Kennedy de todo el país, el municipio de Ráquira en Boyacá y la zona industrial de ACOPIO en el municipio de Yumbo Valle del Cauca.
+En la siguiente tabla pueden verse las emisiones evitadas por pasajero transportado, bien sea en vehículos particulares o transporte público.
+Para este cálculo el Ministerio de Ambiente utilizó los factores de emisión de la Agencia Ambiental Europea 2016, de la mano de la caracterización realizada por el Ministerio de transporte y considerando las condiciones de los vehículos y su clasificación: Particular Euro Il. Gasolina; Buses y Busetas desde 2015 Euro IV Diesel; Anteriores a 2015 Euro Il. Diesel.18 Característica Pro.
+Emisiones Emisiones a Pasajeros M.ª Coge- NOVO No Transportado km- pasajero km- km- pasaje pasaje pasaje Bicicletas Vehículo S particular es 0,1145 Y Para el año 2015 las estaciones más contaminadas fueron: PM10: Estación Carvajal - Sevillana- Bogotá, Colegio Ráquira, La Jagua Vía Cesar y Éxito San Antonio Medellín presentaron las concentraciones más altas.
+M.ª: Estación Metro La Estrella, Plan Bonito Cesar y Carvajal - Sevillana- Bogotá presentaron las concentraciones más altas.
+Recuperado de: HTTPS:www, elespectador.comneticiasmedio- ambientemedellin-y-Bogotá-las-ciudades-con-la-peor- calidad-de-aire-en-Colombia 18 Ministerio de Ambiente a la solicitud de información MÁS E- 2019-4176. opa 0,0024 02 9.1182 antesdel: 0,0271 Dado 2015 como: NO2 el Busetas 0,0093 antes del 0.0044 0,0488 Dado 2015 como THC-CH4 Buses año 0,0005 0,0025 2015 en adelante Busetas año 0,0009 0,0045 2015 en adelante Es importante señalar que de acuerdo con un estudio presentado en 2018 por el DNP, la degradación ambiental en Colombia tuvo un costo de 16.6 Billones de pesos 2,08 del PIB de ese año, donde 12,2 Billones de pesos fueron causados por la mala calidad del aire en las áreas urbanas 1,5 del PIB, lo cual demuestra que el daño ambiental tiene claros efectos económicos a considerar.
+Es fundamental señalar que es el transporte, el responsable del 80 de las emisiones de tipo M.ª y que las fuentes fijas aportan él 20 restantes, lo cual-demuestra que es el transporte el principal factor de afectación atmosférica de las ciudades y de la salud pública, Por otro lado, es evidente como la bicicleta genera soluciones en términos de contaminación y también de movilidad, pero es necesario que esta venga acompañada de medidas enfocadas en la reducción del uso de todo el transporte motorizado.
+Beneficios para la Salude E La actividad física, es cualquier movimiento del cuerpo que genere un gasto energético y puede relacionarse con actividades como trabajar, jugar, realizar actividades del hogar y otras como las recreativas, no debe confundirse con el ejercicio el cual es una subcategoría de esta, pero es planeado, estructurado repetitivo y posee metas específicas, lo que debe tenerse en cuenta es que toda actividad física es beneficiosa para la salud.
+Según la OMS, la inactividad física es uno de los principales factores de riesgo a nivel mundial, pues aumenta el riesgo de padecer enfermedades no transmisibles como cáncer, diabetes y enfermedad cardiovascular.
+Los datos asociados a la inactividad física son alarmantes, en el mundo uno de cada cuatro adultos no practica suficiente actividad física y el 80 de los adolescentes en el mundo tampoco lo hacen, por ello el 56 de los miembros de la OMS han puesto en marcha políticas direccionadas al aumento de la actividad física y la meta es incrementarla en un 10 para el 202519, pues las personas que no hacen suficiente ejercicio físico presentan un riesgo de mortalidad entre un 20 y un 30 superior al de aquellas que son lo suficientemente activas.
+Esa organización considera que en niños y adolescentes 5-17 años la actividad física debe ser al menos de 60 minutos diarios, con actividades que fortalezcan huesos y músculos al menos 3 veces a la semana.
+En adultos de 18 a 64 años de edad el ideal son 150 minutos de actividad física moderada a la semana, o 75 de una actividad intensa, lo deseado sería combinar ambos tipos de actividades, así como 300 minutos semanales generarían mayores efectos en la salud, con 2 o más días de fortalecimiento muscular ejercitando grandes conjuntos musculares.
+¿Finalmente, para adultos mayores 65 años en adelante, se recomiendan 150 minutos semanales de actividad moderada o 75 de actividad intensa, pero 300 minutos generarían mayores beneficios, en esta edad la práctica de actividad física mejora el equilibrio y previene caídas al realizarse 2 a 3 veces por semana?0, Los beneficios de la práctica de actividad física regular en los tiempos recomendados pueden incluir mejoras en sistemas muscular y cardiorrespiratorio, mejoras en la salud ósea, reducción del riesgo de padecer hipertensión, cardiopatía coronaria, accidente cerebrovascular, 1 Organización Mundial de la Salud.
+Actividad Física.
+Recuperado el 10092020.
+En línea HTTPS:www.who.intesnews- roomfact-sheetsdetailphysical-activista 2 Organización Mundial de la Salud.
+Actividad Física.
+Recuperado el 10092020.
+En línea HTTPS:www.who.intesfnews- roomfact-sheetsdetailphysical-activitydiabetes, tipos de cáncer como el de mama y colon y depresión, reduce el riesgo de caídas y fracturas, además de ser muy importante para el equilibrio y el control del peso, entre otros beneficios.
+Dentro de las formas para aumentar la actividad física se encuentran políticas como, la promoción de actividad física por medio de acciones cotidianas: que las formas alternativas de transporte, como caminar y montar en bicicleta, sean accesibles y seguras de usar; políticas laborales que incentiven la actividad en entornos de trabajo; espacios de ocio y recreación dentro de las escuelas y formación en educación física de calidad para niños y jóvenes que les permita desarrollar pautas de comportamiento que los mantenga activos durante su vida; instalaciones deportivas y recreativas que ofrezcan a las personas la oportunidad de hacer deporte.
+Por todo lo anterior, la bicicleta se convierte en el instrumento perfecto para mejorar las condiciones de vida de las personas y se cuentan entre otro muchos beneficios, los siguientes: en Reducción de riesgo de aparición de enfermedades crónicas no transmisibles como la hipertensión, diabetes, enfermedades cardiovasculares y pulmonares, y otras mencionadas anteriormente en Pedalear mejora el ritmo cardiaco en cuanto a su eficiencia, pues disminuye la cantidad de latidos por minuto y la tensión arterial, contribuye a la eliminación del colesterol malo y a retener el bueno, baja los triglicéridos, aumenta la elasticidad de los vasos arteriales mejorando la circulación y previniendo en 50 el riesgo de infarto y otras cardiopatías, disminuye la adherencia y agregación plaquetarias implicada en los infartos de miocardio.
+en Fortalece músculos y huesos: ¿Pedalear activa la mayoría de los músculos del cuerpo, especialmente los de la parte inferior cuádriceps, glúteos y gemelos, así como la región lumbar, abdominal, los hombros y la espalda, lo que repercute en fortalecimiento de los huesos sin desgaste de las articulaciones, por lo que adicionalmente se indica en personas con artrosis?1.
+21 Alcaldía Mayor de Bogotá.
+Bajar de peso, el riesgo de infarto y el estrés, entre los beneficios que trae la bici.
+Recuperado el 10092020.
+En línea HTTPS:bogota.gov.comí-ciudad cultura-deporte-y- recreacionbeneficios-de-la-bicicleta-para-la-salude Mejora el equilibrio y la coordinación: Montar bicicleta activa todos los sentidos, músculos y huesos, estimulando el cerebro y todo el sistema nervioso, activando el sistema corporal de equilibrio y coordinación, características que lo hacen además recomendable en todas las etapas de la vida, desde la infancia hasta la vejez.
+en Mejora la respuesta ante: infecciones: Usar frecuentemente la bicicleta como medio::de transporte o: recreación estimula la producción de células blancas que se encuentran en la sangre y nos defienden de las bacterias que nos generan infecciones.
+en Reduce el peso corporal, pues ayuda a la quema de grasa sobrante al aumentar el ritmo metabólico.
+en Disminuye las necesidades de insulina, y mejora la tolerancia a: la glucosa.
+en Disminuye la ansiedad y la depresión.
+Mejora el sentimiento de bienestar.
+en Mejora la resistencia al trabajo.
+La bicicleta reduce el estrés en las articulaciones, existen estudios que afirman que el pedaleo mejora los síntomas del Parkinson, pues tiene propiedades negro restauradoras y autoprotectoras, por la liberación de neurotoxinas y dopamina.
+?2 Por todo lo anterior, son más que suficientes las razones para incentivar el uso de la bicicleta como herramienta de salud pública, por lo que un SBP acercará esta herramienta al grueso de los ciudadanos y generará enormes beneficios en la calidad de vida de los colombianos.
+Referentes Nacionales Un primer acercamiento con el fin de promover la bicicleta como medio de transporte público se encuentra en el Acuerdo Municipal 84 de 2009, alcaldía de Medellín, y en el Decreto 596 de 2014, alcaldía de Bogotá, los cuales manifiestan que un Sistema de Bicicletas Público SBP debe ser complementario al sistema de transporte, contar con numerosas estaciones de parqueo, elementos, equipos y operaciones 22 Universidad de la Laguna.
+Beneficios del uso de la bicicleta.
+Recuperado el 10092020.
+En línea HTTPS: www3.gobiemnodecanarías.orgsanidadscsfcontenteb746eda-arce-11 el-87 a 8- b753262fb22dULL Beneficios Uso Bicicleta.pdf:logísticas para facilitar su movilización.
+Para el caso de Medellín, este sistema.
+. Se encuentra disponible desde el año 2010, y en cuanto a Bogotá. Se espera que en el año 2019 se pueda hacer uso de este servicio.
+Son más los municipios que han seguido de cerca esta iniciativa, como es el caso de Pereira, mediante el Proyecto de Acuerdo número 45 de 2017, y Tunja 2017 con su prueba piloto Bici Tunja que está a punto de convertirse en un proyecto más elaborado con un mayor número de usuarios en la ciudad.
+Sumado a lo anterior, también se cuenta con la Ley 1811, de octubre 2016, que, si bien no se encuentra dirigida específicamente a los SBP, establece medidas e incentivos en cuanto: a la movilidad e infraestructura de transporte, con el fin de promover el uso de la bicicleta entre la ciudadanía.
+Referentes internacionales Esta nueva forma de transportarse ha ido creciendo con fuerza a nivel mundial, ahora son más los países que sumados a Dinamarca país ciclista han incorporado este medio de transporte como una alternativa viable, sostenible y segura.
+Por ejemplo, en Londres existe un SBP enfocado al alquiler llamado Barclays Cycle Hire, se estima que se han realizado más de 22 millones de viajes desde el 2010 y que un usuario puede hacer uso de más de 8.000 bicicletas en 500 estaciones, para lo cual debe realizar un pago de acuerdo al tiempo que utilice este servicio.
+Si el usuario solo alquila el servicio durante 30 minutos este será gratis, pero si lo utiliza por 2 horas puede costar 6.00, por 6 horas 35.00, y así se establecen unos rangos de precios con el fin de desincentivar los recorridos largos y poder rotar las bicicletas a más usuarios.
+Si las bicicletas no se devuelven en 24 horas o presentan algún daño, se llega a aplicar una multa hasta por 300.002, Barcelona, por su parte, cuenta con un sistema llamado Bici, el cual funciona las 24 horas del día los 365 días del año.
+Actualmente, cuenta con 7 mil bicicletas robustas, estables y cómodas, con características similares a las encontradas en Londres, Nueva York o Montreal.
+De las 7.000 unidades disponibles, 6.000 son mecánicas y 1.000 eléctricas, existen 2 23 Barclays Cycle Hire London.
+Recuperado el 6022019.
+En línea HTTPS:freetoursbyfoot.comarcáis- cycle-hire-London.425 estaciones mixtas para eléctricas y mecánicas y 3 tipos de sistemas de acceso al servicio tarjeta inteligente, aplicación móvil y teléfono inteligente con tecnología: NFC, entre otros, El SBP se encuentra plenamente integrado en el sistema de transporte de la ciudad y facilita la inter modalidad con otros modos de transporte público metro, bus, tren, tramo, funciona a través de una tarjeta de abono, nominal, unipersonal e intransferible que reconoce al usuario en el sistema, Presentes en el continente americano, se encontraron este tipo de sistemas en ciudades como Washington, Ciudad de México y Medellín.
+Con respecto a Washington, cuenta con un sistema llamado Capital Bimestre, el cual es un servicio de bicicletas compartidas del Metro D. C., con más de 4.300 bicicletas y más de 500 estaciones en 6 jurisdicciones: Washington D. C., Arlington, VA, Alejandría, .
+Va, Montgomery, MD, Prince Georges County, MD y Fairfax County, VA.
+Este sistema está diseñado para viajes rápidos, articulados a los sistemas de transporte urbanos; los viajes menores a 30 minutos no tienen costo alguno, los viajes de 60. Minutos tienen un costo de 2 dólares, y existen viajes para turistas en los cuales se puede alquilar el servicio de bicicletas por 24. Horas, e incluso por 3 días y su precio varía dependiendo del tiempo del servicio?, En México se debe realizar un pago para poder acceder al servicio de bicicletas públicas ECOICA, cuando el recorrido supera los 45 minutos, esta modalidad permite realizar una suscripción al sistema por un año, una semana, tres días o un día, o también cuenta con la posibilidad de realizar un pago por horas que depende del tiempo de uso de las unidades.
+Actualmente, el sistema cuenta con 470 ciclo estaciones, más de 170 mil usuarios registrados en 55 colonias de la Ciudad de México, cubriendo un área de 38 kilómetros cuadrados, y un promedio por día de 30.000 viajes.
+En la ciudad de Medellín el sistema En Cicla, 2010, es utilizado diariamente por cerca de 10.000 usuarios, los cuales deben inscribirse previamente mediante una página web para ser acreedores de la tarjeta que los distingue como biciusuarios y mediante la cual podrán sacar prestadas 24 Página oficial Bici.
+Recuperado el 6022015.
+En línea www.bicing barcelonafesnou-Sergei-visita.
+25 Ayuntamiento Barcelona.
+Recuperado el 6022019.
+En línea HTTP:juntamente.Barcelona.catbicicletaesserviciosla- bicicleta- pC3BAblica.
+26 Day Passes.
+Recuperado el 6022019.
+Página oficial En línea www.capitalbikeshare.compricingday-las unidades.
+El SBP hace parte del Plan Maestro Metropolitano de la Bicicleta del Valle de Aburrá PMB2030, el cual plantea como meta para el año 2030 que el 10 de los viajes totales de esta zona se realicen en bicicleta; así mismo, se espera que para el año 2020 se cuente con más de 100 estaciones y 3.500 bicicletas.
+Estos son algunos de los sistemas que existen alrededor del mundo, y que, según una noticia publicada por EL Espectador, han pasado de 100 en el año 2002 a más de 600 para el 20142 y sigue creciendo rápidamente.
+Dicho lo anterior, se hace necesario que las políticas públicas que se elaboren con el fin de crear un sistema de transporte sostenible sean continuas e integrales.
+¿En cuanto a ser continua esto requiere de un análisis retrospectivo de cómo ha evolucionado a lo largo de los años y cómo se relaciona en el tiempo, en cuanto a integral, se refiere a varios ámbitos: 1 Infraestructura, proyectos de innovación, servicios y promoción, 2 Compromiso político en su implementación y evaluación, 3 Regulación de las condiciones que rodean el uso de vehículos, etc.2?
+27 ¿Qué es En Cicla?
+Recuperado el 6022018.
+Página oficial En línea hito:www.encicla.gov.coacerca.
+28 El Espectador 2014.
+Se mueven las bicicletas compartidas en el mundo.
+Recuperado el 5022019.
+En línea HTTPS:WWE.telespectador.comnoticiasbogotase-mueven-bicicletas-compartidas-Edmundo- artículo-527947, 29 Quintero, Julián 2017.
+Bicicletas compartidas como sistema de transporte público urbano: análisis de políticas públicas en Colombia 1989-2017.
+Revista Ciudades, Estados y Política.
+ISSN 2462-9103; DOS 10.15446 cep. Derecho comparado y experiencia internacional.
+Nombre Agencia Nombre del Tipo de de la Implementadora Operador sistema or Ciudad de México Ecobici Secretaría del Clear Privado México Ambiente del Channel: Distrito Federal Clear Barcelona España Bici Ciudad de Atrato Privado Barcelona Consejo: a Grupo de Seguridad y.
+Delfín y Departamento de -.
+me Ciudad de Movilidad Barcelona Taiwan You Bike Departamento de Byant Privado transporte de Biciclos Taipéi Londres Reino Barclays Transporte para Seco Group Privado Unido Cycle Hire Londres Boulder E.E.U.U. Pólder B- Gobierno de la Pólder Bike Sin Fines Cycle Ciudad de Pólder Share Día Pólder Cicle Cataloga E.E.U.U. Buque Alta Biciclo Privado entrañó Outdoor Share 9 Chateándola Denver B- Ciudad y Denver Buque Sin. Fines UN Cicle Condado de Sha ring.
+De Denver 2 Lucro Madison.
+B- Cicle Gobierno.
+De - la Tres Biciclo Privada Ciudad de Corporación Madison Wisconsin Nice Ride Sin Fines Minnesota de Lucro Nice Ride Minnesota 30 E.E.U.U. E.E.U.U. City Buque Departamento de Alta Biciclo Sin Fines Transporte de Y Share de Lucro Nivel Europeo E.E.U.U. Utrecht en los Países Bajos encabeza la lista de 90 ciudades de todo el mundo por ser el mejor lugar para ser ciclista, según el índice de Coya, la start-up de tecnología de seguros, de 2019.
+Más de la mitad de los residentes de la ciudad se mueven en dos ruedas, beneficiándose de las bajas tasas de accidentes y los relativamente pocos robos de bicicletas.
+Las autoridades han transformado la ciudad holandesa en un refugio amigable para las bicicletas, invirtiendo en infraestructura para alentar a los ciudadanos a adoptar la potencia del pedal.
+Una red de ciclovías cubiertas y al aire libre une diferentes partes de la ciudad, con puentes, túneles y rotondas especialmente diseñados para ciclistas.
+La red incluye la calle exclusiva para bicicletas más larga del país y cuenta con el estacionamiento para dos ruedas más grande del mundo, que según la ciudad podrá albergar 33.000 bicicletas para 2020.
+30 Biblioteca Felipe Herrera del Banco Interamericano de Desarrollo.
+Guía Para la Estructuración del Sistema de Bicicletas Compartidas.
+HTTPS:publicaciones.IMDB.orgpublicationsspanishdocumentGuia-para-la- estructuración-de-sistemas-de-bicicletas-compartidas.pese E en pe sel E Imagen 3.
+¡Estas son les mejores ciudades del mundo pare ser ciclista!
+Ciudades como Máster, Alemania, que ocuparon el segundo lugar, han invertido en una infraestructura exclusiva para fomentar el uso de bicicletas y permitir que las personas viajen con mayor seguridad, lo que hace que casi dos quintas partes dela población se traslade regularmente en bicicleta.31: Esta cifra se reduce alrededor del 30 en las otras cinco ciudades en las primeras posiciones, que incluyen Amberes, Copenhague y Ámsterdam.
+31 Estas son las-mejores ciudades-del mundo para ser ciclista.
+En línea HTTPS:fes weforumorgagenda201906éstas:son- las-Mejores-ciudades-del-mundo-para-ser-ciclista 0 6 Neperianas Sonara, General Cátedra Fino Fran Alta Ergo 37 Pieces Di Imagen 4.
+¿Más ciclistas en Un dosis siríaca menos choques fatales?
+32 Como lo muestra el gráfico.
+Anterior, aumentar la cantidad de ciclistas en una ciudad puede reducir la cantidad de muertos en accidentes.
+Un informe reciente de la OCRES sobre seguridad de las bicicletas encontró mejores niveles de conciencia en lugares con un alto número de ciclistas, carriles para bicicletas y otras infraestructuras de apoyo.
+A Nivel Latinoamericano América Latina al tener una topografía más abrupta rodeada por cordilleras, tiene mayor dificultad a la hora de mejora infraestructura vial de interconexión como la que puede tener Europeo, no obstante en nuestro continente la bicicleta es un medio de transporte imprescindible para la población, ciudades como: 32 Estatista.
+More Ciclista En A Country Means Fewer Fatal Crashes.
+Recuperado el 10092020, En línea crashs toxtBothoe2Omotoristsa20and20cyalists2420need and20the220safety620levelezQimprove S. 33 Cycling Safety Summary and Conclusions, OCDE, recuperado el 10092020, En línea HTTPS: WWE.IT.
+OECO.orgsitesdefaultfilesfdocscycling-safety-roundtable-summary.PDF Rosario es una de las principales ciudades argentinas que tienen mayores índices de uso de bicicletas.
+el Bogotá es la segunda urbe con mayor número de viajes en bicicleta reportados por día 611.472. el Santiago de Chile es la tercera con mayor cantidad de viajes de bicicleta por día con 510.569.
+Estos datos se desprenden de un estudio sobre 56 ciudades de América Latina y el Caribe que presentó el Banco Interamericano de Desarrollo en 2015 para impulsar el uso de la bicicletas 4 Porcentaje de viajes realizados en bicicleta M 9 de viajes Rosario ARE Bogotá Río de Janeiro Santiago Buenos Aires la cd do e de cm DG 35 En términos de infraestructura, Bogotá también lleva la delantera con 392 km de ciclovías.
+Le siguen Río de Janeiro, con 307 km, y São Paulo, con 270 km.
+En tanto, según el BID, la Ciudad de México cuenta con el mayor número de bicicletas públicas disponibles 4.000.
+Aunque Río de Janeiro 3 HTTPS:www.bbe.commundofnoticias201604160419 bicicleta América latina países Ciudades 35 HTTPS:www.bbc.commundofnoticias201604160419 bicicleta América latina países ciudades lidera el ranking si se mira la cantidad por habitante: 4 unidades por cada 10.000 personas.
+Según el informe privado Copenhagenize Indexa 2015 sobre las ciudades más amigables del mundo para andar en bicicleta, solo una de América Latina aparece entre las primeras 20: Buenos Aires.
+Para este índice, la capital argentina se ubica en el puesto 14 porque cuenta con un sistema moderno de alquiler, implementó 140 km de ciclovías y sus habitantes aceptan el uso de la bicicleta, entre otros motivos.
+Río de Janeiro, São Paulo y Bogotá siguen a la capital de Argentina, aunque muy lejos.
+IMPACTO FISCAL Frente al artículo 7 Análisis del impacto fiscal de las normas de la Ley 819 de 2003 Por la cual se dictan normas orgánicas en materia de presupuesto, responsabilidad y transparencia fiscal y se dictan otras disposiciones, la Honorable Corte Constitucional se pronunció sobre su interpretación de la siguiente manera en la Sentencia C-502 de 2007: 36.
+Por todo lo anterior, la Corte considera que los primeros tres incisos del art.
+7 de la Ley 819 de 2003 deben entenderse como parámetros de racionalidad de la actividad legislativa, y como una carga que le incumbe inicialmente al Ministerio de Hacienda, una vez que el Congreso ha valorado, con la información y las herramientas que tiene a su alcance, las incidencias fiscales de un determinado proyecto de ley.
+Esto significa que ellos constituyen instrumentos para mejorar la labor legislativa.
+Es decir, el mencionado artículo debe interpretarse en el sentido de que su fin es obtener que las leyes que se dicten tengan en cuenta las realidades macroeconómicas, pero sin crear barreras insalvables en el ejercicio de la función legislativa ni crear un poder de veto legislativo en cabeza del Ministro de Hacienda.
+Y en ese proceso de racionalidad legislativa la carga principal reposa en el Ministerio de Hacienda, que es el que cuenta con los datos, los equipos de funcionarios y la experticia en materia económica.
+Por lo tanto, en el caso de que los congresistas tramiten un proyecto incorporando estimativos erróneos sobre el impacto fiscal, sobre la manera de atender esos nuevos gastos o sobre la compatibilidad del proyecto con el Marco Fiscal de Mediano Plazo, le corresponde al Ministro de Hacienda intervenir en el proceso legislativo para ilustrar al Congreso acerca de las consecuencias económicas del proyecto.
+Y el Congreso habrá de recibir y valorar el concepto emitido por el Ministerio.
+No obstante, la carga de demostrar y convencer a los congresistas acerca de la incompatibilidad de cierto proyecto con el Marco Fiscal de Mediano Plazo recae sobre el Ministro de Hacienda.
+Por otra parte, es preciso reiterar que, si el Ministerio de Hacienda.
+No participa en el curso del proyecto durante su formación en el Congreso de la República, mal puede ello significar que el proceso legislativo se encuentra viciado por no haber tenido en cuenta las condiciones establecidas en el art.
+De la Ley 819 de 2003.
+Puesto que la carga principal en la presentación de las consecuencias fiscales de los proyectos reside en el Ministerio de Hacienda, la omisión del Ministerio en informar a los congresistas acerca de los problemas que presenta el proyecto no afecta la validez del proceso legislativo ni vicia la ley correspondiente.
+Sin embargo, y teniendo en cuenta la naturaleza del presente proyecto de Ley no genera un mayor impacto fiscal teniendo en cuenta que los recursos de los que habla el presente proyecto de ley serán financiados con dineros provenientes de la estampilla Pro cultura, por lo tanto, estos ya fueron regulados por la ley 666 de 2001, en consecuencia lo que busca el presente proyecto es realizar una redistribución de funciones con miras a emplear estos recursos en cabeza de los entes territoriales de una manera más funcional en pro de fortalecer el acceso a medios económicos de una manera más eficaz y dotar a los entes territoriales de herramientas para buscar una mejor consecución de estos recursos. V.
+CAUSALES DE IMPEDIMENTO Conforme al artículo 3 de la ley 2003 de 2019, que modificó el artículo 291 de la ley 5 de 1992, este proyecto de ley reúne las condiciones del literal a y b, de las circunstancias en las cuales es inexistente el conflicto de intereses del artículo 286 de la ley 5 de 1992, toda vez que es un proyecto de Ley de interés general, que puede coincidir y fusionarse con los intereses del electorado.
+Atentamente, FABIÁN DÍAZ PLATA senador de la República DE LA etaria General Art.
+139 y es 1 992 A del mes J Su del año 222.  Se radicó en este despacho el proyecto 18 Acto Legislativo N. ¿CON yo Y cada uno de los requisitos constitucionales y le IES SI CETARIO GENERAL?

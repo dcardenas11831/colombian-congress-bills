@@ -1,0 +1,232 @@
+Juan DIEGO ECHEVARRÍA SÁNCHEZ SENADOR 253 PROYECTO DE LEY 2022 SENADO Por medio de la cual se establecen los lineamientos de política pública para el desarrollo, uso e implementación de Inteligencia Artificial y se dictan otras disposiciones.
+El Congreso de Colombia, DECRETA: TÍTULO I DISPOSICIONES PRELIMINARES ARTÍCULO 1.
+OBJETO.
+La presente ley tiene por objeto establecer los lineamientos de política pública para el desarrollo, uso e implementación de la Inteligencia Artificial.
+ARTÍCULO 2.
+DEFINICIONES.
+Para efectos de interpretación de la presente ley se establecen las siguientes definiciones: DATO: información dispuesta para análisis y desarrollo de algoritmos.
+INTELIGENCIA ARTIFICIAL: disciplina científica que se ocupa de crear programas informáticos que ejecutan operaciones comparables a las que realiza la mente humana, como el aprendizaje o el razonamiento lógico.
+ARTÍCULO 3.
+PRINCIPIOS.
+Para efectos de interpretación y aplicación de la presente ley se establecen los siguientes principios: AUTORIDAD HUMANA: toda decisión o dato de Inteligencia Artificial es auditadle, revisable y controvertible por la decisión humana.
+BIEN COMÚN: el uso, desarrollo e implementación de la Inteligencia Artificial no podrá tener como objetivo diferente el del bien común.
+COOPERACIÓN: las investigaciones en Inteligencia Artificial propenderán por la cooperación en materia de prevención del riesgo. JuAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR DISEÑO SEGURO: en todas las etapas de diseño y desarrollo de Inteligencia Artificial se deberán prever los efectos dañinos debiéndose abstener la implementación por evidencia de riesgo e inseguridad.
+PREVALENCIA DE LA INTELIGENCIA HUMANA: prevalecerá la decisión humana sobre los resultados que se establezca por medio de la Inteligencia Artificial.
+INVESTIGACIÓN PREVENTIVA: las investigaciones en inteligencia artificial en todo momento deberán contar con desarrollos paralelos de prevención de riesgos.
+ARTÍCULO 4.
+COMISIÓN DE TRATAMIENTO DE DATOS Y DESARROLLOS CON INTELIGENCIA ARTIFICIAL.
+Créase una Comisión de Tratamiento de Datos y Desarrollos con Inteligencia Artificial, sin personería jurídica, que se conformará por: O Bien El ministro de Ciencia, Tecnología e Innovación El ministro de las Tecnologías de la Información y las Comunicaciones.
+El Procurador General de la Nación El director del Departamento Administrativo de Planeación Nacional.
+Un representante de las universidades, el cual deberá contar con acreditación en alta calidad y acreditación institucional internacional.
+ARTÍCULO 5.
+FUNCIONES DE LA COMISIÓN DE TRATAMIENTO DE DATOS Y DESARROLLOS CON INTELIGENCIA ARTIFICIAL.
+La Comisión de Tratamiento de Datos y Desarrollos con Inteligencia Artificial tendrá las siguientes funciones: 1.
+2. En Avalar las solicitudes institucionales sobre desarrollos e implementación de Inteligencia Artificial.
+Proyectar y divulgar los reglamentos técnicos para el uso, desarrollo e implementación de la Inteligencia Artificial.
+Asesorar al Congreso de la República en las iniciativas relacionadas con Inteligencia Artificial.
+Proponer iniciativas tecnológicas de Inteligencia Artificial en la gestión pública.
+Proponer iniciativas tecnológicas de Inteligencia Artificial para el desarrollo económico, social y ambiental.
+Darse su propio reglamento. CONGRESO E DELA REPÚBLICA 1 DE COLOMBIA SENADO DEA REPRESA Juan DIEGO ECHEVARRÍA SÁNCHEZ SENADOR TÍTULO DE LA POLÍTICA SOBRE CRECIMIENTO INCLUSIVO, DESARROLLO SOSTENIBLE Y BIENESTAR ARTÍCULO 6.
+INTELIGENCIA ARTIFICIAL PARA EL CRECIMIENTO INCLUSIVO.
+Las entidades del orden nacional y local que desarrollen políticas de crecimiento y productividad y que implementen la incorporación de Inteligencia Artificial deberán incluir frente a las metas de desarrollo económico, metas de desarrollo social.
+ARTÍCULO 7.
+INTELIGENCIA ARTIFICIAL EN MATERIA DE CAMBIO CLIMÁTICO: El Gobierno Nacional por medio del Ministerio de Ambiente y Desarrollo Sostenible deberá reglamentar los requerimientos técnicos necesarios para implementar la inteligencia artificial en aras de la eficiencia energética, control de deforestación, movilidad amigable con el ambiente e incluirlo como instrumento planificación y gestión conforme los términos de que trata la ley 1931 de 2018.
+ARTÍCULO 8.
+INTELIGENCIA ARTIFICIAL EN EL SISTEMA NACIONAL DE CAMBIO CLIMÁTICO: El Gobierno Nacional, por medio del Ministerio de Ambiente y Desarrollo Sostenible incorporará en el Sistema Nacional de Cambio Climático la Inteligencia Artificial como instrumento para gestionar la mitigación de gases efecto invernadero y la adaptación al cambio climático.
+TÍTULO DE LA POLÍTICA SOBRE LOS VALORES CENTRADOS EN EL SER HUMANO Y EQUIDAD ARTÍCULO 9.
+PREVALENCIA DE LA INTELIGENCIA HUMANA SOBRE LA INTELIGENCIA ARTIFICIAL.
+Las políticas del orden nacional o local para el uso, desarrollo e implementación de la inteligencia artificial deberán tener como propósito el bien común y la satisfacción de las necesidades propias del ser humano preservando en todo aspecto la prevalencia de la inteligencia humana sobre la inteligencia artificial.
+ARTÍCULO 10.
+PRESERVACIÓN DEL SER HUMANO Y SU ENTORNO AMBIENTAL.
+Las políticas del orden nacional o local para el uso, desarrollo e implementación de la inteligencia artificial deberán tener como propósito la preservación del ser humano y su entorno ambiental para la detección temprana de epidemias, diagnósticos de salubridad y desarrollo de medicamentos.
+Los desarrollos de Inteligencia Artificial podrán ser declarados de utilidad pública e interés social. E.
+No DE A ñ 100 E DE COLOMBIA JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR ARTÍCULO 11.
+IGUALDAD EN EL DATO: Las políticas del orden nacional o local para el uso de los datos por parte de la Inteligencia Artificial no pueden permitir que se generen resultados que resulten como actos discriminatorios, por lo cual se deberá garantizar la igualdad de trato e igualdad de oportunidades.
+Parágrafo: la búsqueda de información por vía de Inteligencia Artificial que incida en restricciones de la libre competencia será sancionada por la Superintendencia de Industria y Comercio.
+TÍTULO IV DE LA POLÍTICA EN TRANSPARENCIA Y APLICABILIDAD ARTÍCULO 12.
+CONOCIMIENTO DEL USO DE DATOS.
+Las políticas del orden nacional o local deberán establecer que los responsables en el uso, implementación y desarrollo de la Inteligencia Artificial tienen la obligación de informar expresamente a los titulares de los datos usados en el tratamiento que se les está otorgando a los mismos y los resultados obtenidos.
+PARÁGRAFO: Los responsables en el uso, desarrollo e implementación de la Inteligencia Artificial deberán comunicar a los titulares de los datos que los mismos están interactuando con un sistema de IA y la manera en que lo está haciendo.
+Los titulares de los datos y sus herederos adquieren el derecho irrenunciable a eliminar el dato en cualquier momento.
+Para tal fin, los responsables que implementen y desarrollen Inteligencia Artificial deberán eliminar el dato dentro de los cinco 05 días hábiles siguientes a la solicitud de su titular.
+ARTÍCULO 13.
+COMPRENSIÓN DEL USO DE DATOS.
+Las políticas del orden nacional o local deberán establecer que los responsables en el uso, implementación y desarrollo de la Inteligencia Artificial tienen la obligación de informar expresamente a los titulares el manejo que se les está dando a sus datos y los resultados obtenidos utilizando herramientas de comprensión especiales y atendiendo un nivel de inclusión conforme las características particulares de la persona y sus condiciones especiales.
+ARTÍCULO 14.
+APLICABILIDAD.
+Las políticas del orden nacional o local deberán establecer que los responsables en el uso, implementación y desarrollo de la Inteligencia Artificial tienen la obligación de garantizar que se conocen las causas que dan lugar a las decisiones, resultados o predicciones de los algoritmos obtenidos por la inteligencia humana.
+: CON concreto: E 1 ¡CA s AMAIA!
+ENTE JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR TÍTULO V DE LA POLÍTICA PARA LA ROBUSTEZ, SEGURIDAD Y PROTECCIÓN ARTÍCULO 15.
+DIRECCIÓN Y CONTROL.
+Las políticas del orden nacional o local deberán establecer que los sistemas de Inteligencia Artificial contarán con dirección, supervisión, auditoria y control de inteligencia humana capacitada y responsable.
+ARTÍCULO 16.
+CIBERSEGURIDAD.
+Las políticas del orden nacional o local deberán establecer que los asuntos de ciberseguridad que impliquen el uso, implementación y desarrollo de inteligencia artificial deberán ser avalados por la Comisión de Tratamiento de Datos y Desarrollos con Inteligencia Artificial.
+ARTÍCULO 17.
+INSTRUMENTO DE SEGURIDAD NACIONAL.
+Las políticas del orden nacional o local deberán establecer que los asuntos que impliquen el uso, implementación y desarrollo de inteligencia artificial no podrán utilizarse como instrumento armamentista a menos que sea para asuntos de seguridad nacional.
+ARTÍCULO 18.
+DISEÑO SEGURO.
+Las políticas del orden nacional o local deberán establecer que el uso, implementación y desarrollo de Inteligencia Artificial deberá realizarse bajo el principio de diseño seguro, en el cual se deberán tener en cuenta efectos sociales, patrimoniales, laborales, económicos, ambientales, comerciales, políticos, y todos aquellos que tengan incidencia o generen riesgo en los seres humanos.
+ARTÍCULO 19.
+PRUEBA PREVIA.
+Las políticas del orden nacional o local deberán establecer que los responsables en el manejo de la Inteligencia Artificial deberán garantizar, previa implementación de la Inteligencia Artificial, pruebas previas que garanticen la no generación de daños y la previsión de riesgos.
+ARTÍCULO 20.
+SEGURIDAD DE LA INFORMACIÓN: Las políticas del orden nacional o local deberán establecer que los responsables en el uso, desarrollo e implementación de la Inteligencia Artificial deberán garantizar la seguridad de la información respetando en todo momento que no se vulnere el derecho a la intimidad y privacidad de las personas.
+ARTÍCULO 21.
+VERACIDAD DEL DATO Y DE LOS RESULTADOS.
+Las políticas del orden nacional o local deberán establecer que los responsables en el uso, desarrollo e implementación de la Inteligencia Artificial están obligados a realizar controles sobre la veracidad de los datos analizados y de los resultados que genere el sistema. DEC concreto Lo 1 DI DELA REPÚBLICA 1 1 JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR TÍTULO VI DE LA POLÍTICA DE RESPONSABILIDAD CAPÍTULO I PROTECCIÓN DE DATOS ARTÍCULO 22.
+PROTECCIÓN DE DATOS GENERALES.
+Las políticas del orden nacional o local deberán establecer que los datos que sirvan para alimentar cualquier desarrollo de Inteligencia Artificial deberán contar con la autorización expresa de su titular y de los terceros que pudieran verse afectados.
+Parágrafo: la monetización de los datos usados por medio de inteligencia artificial cuyo beneficio se obtenga por el uso y análisis de la información suministrada por el titular de la información le permitirá a este exigir y reclamar, a manera de contraprestación, los réditos obtenidos sin su consentimiento más la indemnización de perjuicios.
+ARTÍCULO 23, PROTECCIÓN DE DATOS PERSONALÍSIMOS.
+Las políticas del orden nacional o local deberán establecer que los datos personalísimos como la voz, rasgos faciales, huellas digitales, ADN y otros que pertenezcan al cuerpo de un ser humano y que sirvan para alimentar cualquier desarrollo de Inteligencia Artificial deberá contar con la autorización expresa de su titular.
+Esta autorización deberá ser notificada al titular informando regularmente el uso de la información.
+PARÁGRAFO.
+Le corresponde al responsable de la Inteligencia Artificial para la protección de datos personalísimos renovar la autorización de que trata el presente artículo de manera trimestral.
+ARTÍCULO 24, RESERVA LEGAL.
+Las políticas del orden nacional o local deberán establecer que los datos generales y personalísimos usados en Inteligencia Artificial tienen reserva legal, por lo cual solamente podrán ser usados con autorización expresa de su titular.
+ARTÍCULO 25.
+USO DE DATOS PERSONALÍSIMOS.
+Las políticas del orden nacional o local deberán establecer que los datos personalísimos usados en Inteligencia Artificial no podrán ser usados con ánimo de lucro sin el consentimiento del titular de la información.
+ARTÍCULO 26.
+EXCLUSIÓN DE DATOS.
+Las políticas del orden nacional o local deberán establecer que las personas titulares de datos que sean usados para efectos de desarrollos de Inteligencia Artificial podrán exigir la eliminación de sus datos en cualquier momento.
+Por JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR lo anterior, el responsable del uso y manejo de la Inteligencia Artificial tendrá cinco 05 días para efectos eliminar el dato y notificar a su titular su cumplimiento.
+ARTÍCULO 27.
+ANONIMIZACIÓN DE DATOS.
+Las políticas del orden nacional o local deberán establecer que los responsables en el uso de datos utilizados para la Inteligencia Artificial deberán garantizar la anonimización de la información de carácter particular.
+CAPÍTULO II RÉGIMEN DE RESPONSABILIDAD ARTÍCULO 28.
+RÉGIMEN DE RESPONSABILIDAD EXTRACONTRACTUAL: Las políticas del orden nacional deberán establecer que los responsables en el uso, manejo e implementación de Inteligencia Artificial están sometidos al régimen de responsabilidad objetiva y deberán garantizar por medio de garantías la reparación de perjuicios materiales e inmateriales.
+ARTÍCULO 29.
+RÉGIMEN DE RESPONSABILIDAD CONTRACTUAL: Las políticas del orden nacional o local deberán establecer que las partes de un contrato estatal, en donde se haga uso de Inteligencia Artificial deberán pactar los riesgos que impliquen el uso frente a los eventuales daños o perjuicios que se generen como consecuencia de su implementación.
+ARTÍCULO 30.
+REGISTROS NACIONAL DE INTELIGENCIA ARTIFICIAL: Los desarrollos de Inteligencia Artificial deberán ser registrados ante el Ministerio de Ciencia, Tecnología e Innovación previo cumplimiento de los requisitos técnicos y jurídicos que para el efecto determine la Comisión de Tratamiento de Datos y Desarrollos con Inteligencia Artificial.
+ARTÍCULO 31.
+CÓDIGO DE ÉTICA.
+¡Los responsables del uso, desarrollo e implementación de Inteligencia Artificial deberán radicar ante la Comisión de Tratamiento de Datos y Desarrollos con Inteligencia Artificial un Código de Ética en el que se establezcan los responsables por los daños que se generen, garantizando el cumplimiento de la presente ley. E No CONGRESO 1, DELA REPÚBLICA 1 DE COLÓ!
+COLOMBIA Juan Diego Echevarría SÁNCHEZ SENADOR TÍTULO VII DISPOSICIONES FINALES VIGENCIA Y DEROGATORIO ARTÍCULO 32.
+VIGENCIA Y DEROGATORIA: La presente ley rige a partir de la fecha de su promulgación y deroga las disposiciones que le sean contrarias.
+JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR logró- SE EL el - DO DE El en secretaria General Art.
+Dl El día del mes del año29.22, 82 radicó en este despacho el proyecto de . O 253 Acto Legislativo N. ¡con todo: y cm la uno de los requisitos constitucionales y lega!
+0;AS CONGRESO AL LILLE 1 - SUABO DEUDA JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR EXPOSICIÓN DE MOTIVOS 1.
+CONSIDERACIONES GENERALES Las iniciativas legislativas por medio de las cuales se establecen políticas públicas han sido desarrolladas en el ordenamiento jurídico colombiano.
+Ejemplo de estas se encuentran la ley 1988 de 2019, por medio de la cual se establece la política pública para vendedores informales; la ley 1804 de 2016, por medio de la cual se establece la política de Estado para el Desarrollo Integral de la Primera Infancia de Cero a Siempre; la ley 1953 de 2019, por medio del cual se establece la política pública de prevención de la infertilidad; la ley 1641 de 2013, por medio de la cual se establece la política pública social para habitantes de la calle, entre otras.
+El derecho no es ajeno a las nuevas tecnologías.
+¡La implementación de TIC en ámbitos relacionados con la administración pública, comercio electrónico, servicios, open gol, inclusión, y otros más, conforme se aprecia al estudiar a JAIRO BECERRA!, revisten una serie de escenarios en donde la IA se encuentra abriendo espacios en los cuales se desconoce el rumbo, y, por ende, de sus efectos positivos y. Negativos Así las cosas, y teniendo en cuenta que se considera necesario iniciar un proceso de regulación sobre la inteligencia artificial, un primer paso correspondería a la adopción de las políticas públicas frente a este tema.
+Alemania, conforme lo señala RAFAEL TORRES MUÑOZ, se encuentra estableciendo políticas públicas para efectos de desarrollos en robótica e Inteligencia Artificial.
+Para dicho efecto ha iniciado varices en el uso de vehículos autónomos, la implementación de normas éticas en la IA.
+Adicionalmente, señala este autor que no debe extrañar que, los países más avanzados en el desarrollo de tecnología robótica Alemania en particular, creadora del concepto Industria 4.0, en el hemisferio occidental y Japón en el Oriental- sean pioneros en el desarrollo de políticas públicas basadas en investigación de vanguardia, que salvaguarden la 1 BECERRA, JAIRO.
+ET AL.
+El derecho y las tecnologías de la información y la comunicación TIC.
+Bogotá: Universidad Católica de Colombia, 2015.
+Disponible en: HTTPS:publicaciones.ucatolica.edu.cordel-derecho-y-las-tecnologías-de-la- información-y-la-comunicacion.pdf 2 TORRES, RAFAEL.
+Políticas Públicas para la Robótica y la Inteligencia Artificial.
+Biblioteca del Congreso Nacional de Chile.
+¿Disponible en: httpsobtienearchivo.ven.clobtienearchivo? Idrepositorio10221269821Politicas Públicas para la Robótica y la INE eligenciaArtificial.pdf 9 Juan DIEGO ECHEVARRÍA SÁNCHEZ SENADOR derecho al trabajo, al bienestar y la seguridad de los seres humanos.
+En tanto que la Unión Europea y Estados Unidos de Norteamérica EE.UU. dada su conformación multiestatal, se encuentran aún en una fase de organización, definición de responsabilidades y coberturas.
+Las políticas públicas adquieren vigencia en la implementación de la Inteligencia Artificial, puesto que se constituye en una herramienta que establece las reglas de aplicación y prevención, dados los efectos que se le ha atribuido a esta tecnología.
+¿INTELIGENCIA ARTIFICIAL La REAL ACADEMIA ESPAÑOLA?
+Ha definido a la inteligencia artificial como una disciplina científica que se ocupa de crear programas informáticos que ejecutan operaciones comparables a las que realiza la mente humana, como el aprendizaje o el razonamiento lógico.
+Esta definición se adopta para los efectos del presente proyecto.
+Uno de los primeros planteamientos es establecer la oportunidad de reglamentar la Inteligencia Artificial desde un marco jurídico.
+¿Algunos teóricos consideran que no es oportuno establecerla hasta que se cuente con un desarrollo generalizado de la misma; mientras que otros, como lo hace ELON MUSK, conforme los recuerda OREN ETIOPÍA?, señalan que debe hacerse antes de que sea demasiado tarde.
+En el Foro Económico de Davos se abrió el espacio para determinar la necesidad de reglamentación de la Inteligencia Artificial.
+Allí se explicó que organismos internacionales trabajan en la materia por cuanto justifican que la necesidad de regular este tema se genera para obtener modelos confiables, conforme fue explicado por el periódico PORTAFOLIOS.
+Allí mismo, se hace evidente la posición que tienen importantes actores en el sector, como IBM Colombia, quien con la explicación que diera Catalina Regido, y quien es la responsable de Asuntos Gubernamentales para IBM, señalara que: Una eventual regulación tendría muchas aplicaciones en el país, considerando que actualmente existe una alta implementación de la Inteligencia Artificial IA tanto en Colombia, como en el resto del mundo.
+Estamos frente a un tema vital.
+Los sistemas de Inteligencia Artificial deben ser transparentes y explicables, y debe haber un equilibrio entre la regulación y la autorregulación.
+3 REAL ACADEMIA ESPAÑOLA.
+Disponible en: HTTPS:DLE.rae.esinteligencia2DxmhCT.
+4 ETIOPÍA, OREN.
+¿Cómo regular la inteligencia artificial?
+Septiembre 6 de 2017.
+The New York Times.
+Disponible en: HTTPS:www.nytimes.comes20170906espanolopinioninteligencia-artificial-reglas-regulacion.html.
+3 PORTAFOLIO, El país se alista ante la tarea de regular la inteligencia artificial.
+31 de enero de 2020.
+Disponible en: HTTPS:www.portafolio.cotendenciasel-pais-se-alista-ante-la-tarea-de-regular-la-inteligencia-artificial-537664.
+PORTAFOLIO, El país se alista ante la tarea de regular la inteligencia artificial.
+31 de enero de 2020.
+Disponible en: HTTPS:www. Portafolio.cotendenciasel-país-se-alista-ante-la-tarea-de-regular-la-inteligencia-artificial-537664.
+10, Juan DIEGO ECHEVARRÍA SÁNCHEZ SENADOR Frente al tema de la regulación y autorregulación, son varias las posiciones y más en una materia que se encuentra en constante desarrollo.
+Por ello se ha considerado la improcedencia de establecer reglas fuertes que no coincidan a la par con los desarrollos tecnológicos e informáticos.
+Un ejemplo de ayo son las propuestas que se han derivado en otros escenarios como el de las redes sociales a las cuales se les ha señalado ser parte de una responsabilidad social digital bajo un esquema de soft law.
+Lo anterior, es importante resaltarlo para efectos de entender que este proyecto al soportarse en un enfoque de políticas públicas generales permitirá que los desarrollos de la IA tenga un objetivo político sin limitar sus procesos evolutivos.
+Otro aspecto que sería objeto de análisis para verificar la regulación de la Inteligencia Artificial correspondería a los eventuales riesgos que la misma podría generar.
+¿Al respecto, MAX TEGMARK?, profesor de física e investigador de Inteligencia Artificial avisara una serie de peligros en la Inteligencia artificial, como el control por parte de unos sobre la misma y que su uso pueda ser impulsado en todo el planeta, a manera de ejemplo, un dictador, en donde las máquinas le obedecen.
+¿Una reflexión importante sobre la inteligencia artificial es la que hace el profesor MAX TEGMARK?
+Cuando señala: No debemos pensar en qué pasará, sino que debemos empezar preguntando qué es lo que queremos que pase.
+Por ello se plantean, a manera de ejemplo, escenarios de análisis preventivos, como el que correspondería al desaparecimiento de los empleos y profesiones.
+¡Para MARÍA J. SANTOS G.!
+Debe existir una nueva regulación que preserve la autenticidad, seguridad y protección de la raza humana que involucren cuestiones éticas entendiendo que no se trata de regular la tecnología si no de regular la sociedad para que siga siendo para los humanos como ellos decidan. 7 ORTEGA, L. 2020.
+Facebook: derechos afectados y aspectos jurídicos de la red social.
+Revista Jurídicas, 17 1, 165- 186.
+DOS: 10.171515 urid.2020.17.1.9.
+Disponible en: HTTP:juridicas.ucaldas.edu.codownloadsJuridicas171 9.pdf HTTPS:ocio.org0000-0003-2957-5839 Revista SEMANA, Inteligencia Artificial, ¿Oportunidad o amenaza?
+24 de febrero de 2020.
+Disponible en: HTTPS:www.semana.comeducacionarticulointeligencia-artificial-oportunidad-o-amenaza653360.
+9 PORTAFOLIO, Los peligros que traería la inteligencia artificial para la humanidad.
+11 de febrero de 2020.
+Disponible en: HTTPS:www.portafolio.cotendenciaslos-peligros-de-la-inteligencia-artificial-537954.
+10 GONZÁLEZ, María JOSÉ SANTOS.
+Regulación legal de la robótica y la inteligencia artificial: retos de futuro Legal regulation of robotics and artificial intelligence: future challenges.
+Revista Jurídica de la Universidad de León 4 2017: Pág.
+28, 25-50.
+Disponible en: HTTP:rebullí.unión.escinde.phpjuridicaarticleview5285.
+11 CONGRESO DELA REPÚBLICA DE COLOMBIA JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR El PLAN NACIONAL DE DESARROLLO!!
+Estableció en el art.
+147 la transformación Digital Pública estableciendo en el numeral 6 la priorización de tecnologías emergentes de la cuarta revolución industrial teniendo como modelo la inteligencia artificial A.
+Sobre este mandato debe recordarse que Colombia además se adhirió a los acuerdos sobre Inteligencia Artificial por ser parte de los países de la OCDE.
+Por este motivo, el gobierno nacional suscribió la recomendación del Consejo de la OCDE conforme lo manifestó el Ministerio de las TIC.
+!¿2 La OCDE?
+Estableció recomendaciones para la implementación de la Inteligencia Artificial.
+Para ello ha establecido los siguientes principios: Valores centrados en el ser humano y equidad Robustez, seguridad y protección.
+0 Responsabilidad dl Los principios expuestos fueron tenidos en cuenta en el articulado con el fin de implementarlos en el ordenamiento jurídico colombiano por medio de políticas públicas.
+¡A su vez, se tuvieron en cuenta las recomendaciones de la OCDE!, A saber: Facilitar la inversión pública y privada en investigación y desarrollo para estimular la innovación en una IA confiable.
+Fomentar los ecosistemas de IA accesibles con infraestructura y tecnologías digitales y mecanismos para compartir datos y conocimientos.
+M REPÚBLICA DE COLOMBIA, ley 1955 de 2019.
+DIARIO OFICIAL.
+AÑO CLAN.
+50964, 25 MAYO DE 2019, PÁG.
+Disponible en: HTTP:www.suin-juriscol.gov.coviewDocument.asp?rutaLeyes30036488.
+1 REPÚBLICA DE COLOMBIA, MINISTERIO DE LAS TIC, Colombia se adhiere a acuerdo sobre Inteligencias Artificial ante los países de la OCDE.
+Mayo 22 de 2019.
+Disponible en: HTTPS:www.mintic.gov.coportalinicioSala-de- PrensaNoticias100683:Colombia-se-adhiere-a-acuerdo-sobre-Inteligencia-Artificial-ante-los-países-de-la-OCDE.
+13 ORGANIZACIÓN DE COOPERACIÓN Y DESARROLLO ECONÓMICOS, OCDE, Recomendación del Consejo de Inteligencia Artificial, Adoptado él: 21052019, Disponible en: HTTPS:legalinstruments.OECO.orgeninstrumentsOECD-LEGAL-0449.
+1 República de Colombia, Ministerio de las TIC, Colombia se adhiere a acuerdo sobre Inteligencias Artificial ante los países de la OCDE.
+Mayo 22 de 2019.
+Disponible en: HTTPS:www.mintic.gov.coportalinicioSala-de- PrensaNoticias1l 00683:Colombia-se-adhiere-a-acuerdo-sobre-Inteligencia-Artificial-ante-los-países-de-la-OCDE 12 y A I E pl. JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR CONGRESO SENADO DÍA REPICA Asegurar un entorno de políticas que abra el camino para el despliegue de sistemas IA confiables.
+Capacitar a las personas con las habilidades para la IA y apoyar a los trabajadores para una transición justa.
+Cooperar a través de las fronteras y los sectores para avanzar en la administración responsable de IA confiable.
+La dogmática de la inteligencia artificial ha usado en algunos escenarios el concepto de la persona electrónica, la cual fue estudiada en la presente investigación.
+Dicho escenario fue desvirtuado del presente proyecto por cuanto se consideró que generaba riesgos en cuanto a la imposibilidad de asignar responsabilidades por efectos de reparación de daños.
+Este asunto abrió la puerta para determinar si este concepto adquiría una naturaleza jurídica diferente a las asignadas a la persona jurídica, o, por el contrario, debía tener una regulación especial dadas las semejanzas y diferencias que le atribuyen con ocasión de una inteligencia no humana.
+Por ello, reconocerle vida jurídica a la persona electrónica implica una nueva categoría de sujeto de derechos que genera riesgos al desconocerse los efectos que pudieran generarse de las decisiones de IA.
+Asimilar la existencia jurídica de una persona electrónica implica a su vez, diseñar un esquema en donde igualmente se desarrollen escenarios jurídicos que diseñen los efectos por la muerte o desaparición de esta ficción.
+Así, por ejemplo, ¡sí la persona humana, al considerarse cadáver, aún es reconocida para efectos jurídicos como sujeto de responsabilidad jurídica por vía derechos y deberes, conforme lo recuerda LUIS GERMÁN ORTEGA RUIZ!
+Al señalar que al cadáver humano cuando se le reconoce el principio de la dignidad, implica una protección al fuero moral y físico, desde el derecho al respeto, honra, buen nombre, un derecho al descanso eterno y esto se ha consolidado, por ejemplo, en los delitos del irrespeto a cadáveres, o la prohibición de despojo, el hurto de cadáveres y en conjunto con temas que ha revisado la Corte Constitucional; frente a las exhumaciones, es decir, el rito de sepultura, la última morada del cadáver etc.
+Este aspecto es relevante para determinar sí la persona electrónica podría considerarse como sujeto de derechos, y, a su vez, de obligaciones.
+Sobre este asunto, el proyecto de ley decidió no desarrollar esta figura bajo el ámbito de ser considerada como sujeto de derechos y deberes, trasladando la responsabilidad jurídica a los responsables en el uso, desarrollo e implementación de la inteligencia artificial, abarcando de esta manera, actores directos en 15 ORTEGA-RUIZ, Luis GERMÁN Y DUCHARA MOLINA, S. A.
+El cadáver humano y su incidencia jurídica.
+Revista Verba Iris, 14 42. PP- 73-98.
+Disponible en: HTTPS:revistas.unilibre.edu.conde.phpverbaiurisarticledownload56605272 HTTPS:ocio.org0000-0003-2957-5839 13 JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR indirectos bajo la categoría de persona jurídica o natural que tengan la capacidad jurídica de responder como sujeto de derecho y obligaciones.
+La Inteligencia Artificial se encuentra en el orden del día de para su desarrollo constitucional en aras de establecer un marco teleológico que aspire a su uso para los fines esenciales del bien común.
+¡De allí que sea necesario recordar a Juan FRANCISCO SÁNCHEZ BARRILLO! Ó cuando explica que el derecho constitucional no puede negar la Inteligencia Artificial.
+Por tal razón expone posiciones como la de Esteve Pardo, Sánchez Barrillo, Muñoz Machado en las que enseña la posibilidad de adoptar conceptos jurídicos mutables con la tecnología.
+Ese escenario se plantea en este proyecto al adoptarse bajo los postulados de políticas públicas.
+Por otro lado, se señala como eje un enfoque apriorístico, el cual busca plantear anticipadamente escenarios generales que permiten a futura determinar los efectos por el uso e implementación de la IA en aras de evitar que esta pueda ir en contraria de principios y derechos de protección constitucional.
+¡Luis GERMÁN ORTEGA RUIZ!
+Concluyó que La implementación de la Inteligencia Artificial IA en el derecho es factible como medio o instrumento para la toma de decisiones jurídicas, pero no encuentra cabida como operador jurídico que remplace la inteligencia humana para decidir en derecho aquellos casos del orden cualitativo.
+Lo anterior, sin perjuicio de poder usarse en materia de decisiones cuantitativas pero revisables por la inteligencia humana.
+El presente proyecto fue tramitado bajo el número 212020 Cámara, pero fue retirado por sus autores conforme a una reunión realizada con diferentes instituciones públicas para efectos de recibir por parte de estas diferentes propuestas para enriquecer el proyecto y darle nuevo trámite.
+Fue nuevamente radicado, pero por tránsito legislativo fue archivado.
+En cumplimiento de lo ordenado por el artículo 291 de la ley 5 de 1992 se considera que no existe circunstancia de impedimento por parte de los congresistas al no evidenciarse un beneficio particular, actual y directo con relación a las disposiciones que pretenden establecer el presente proyecto de ley, por ser una reforma general, abstracta e impersonal.
+Adicionalmente, porque la ley 2003 determinó que no hay conflicto de interés cuando el 16 BARRILLO, JUAN FRANCISCO SÁNCHEZ.
+El Derecho constitucional ante la era de Altron: la informática y la inteligencia artificial como objeto constitucional.
+Estudios de Deusto: revista de la Universidad de Deusto 64.2 2016: 225-258.
+¿Disponible en: HTTPS:diales.uni rioja.esservletarticulo? Codigo5878499 17 ORTEGA-RUIZ, Luis GERMÁN Y BECERRA, J. 2022 La Inteligencia Artificial en la decisión jurídica y política, Araucaria, 2449. Doy: 10.12795.10.
+Disponible en: HTTPS:revistascientificas.us.escinde phparaucariaarticleview15557 1453 JUAN DIEGO ECHEVARRÍA SÁNCHEZ SENADOR congresista participe, discuta, vote un proyecto de ley que otorgue beneficios o cargos de carácter general, es decir cuando el interés del congresista coincide o se fusione con los intereses de los electores.
+Lo anterior, sin desconocer la posibilidad de la objeción de conciencia y asuntos que son de conocimiento del fuero interno de los congresistas.
+Con lo anteriormente expuesto, se presenta el presente proyecto de ley con el fin de abrir el debate democrático y adoptar las decisiones legislativas y políticas que pretendan desarrollar la Inteligencia Artificial en Colombia.
+SENADOR Sea ESO tos Col 15

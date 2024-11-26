@@ -1,0 +1,140 @@
+EL CONGRESO DELA REPÚBLICA I DE COLOMBIA e. N. 1 l Bogotá D.C.
+Julio 27 de 2021 Doctor Jorge Humberto Mantilla Secretario General Cámara de Representantes Capitolio Nacional Ciudad Asunto: Radicación proyectó de ley Por la cual se regulan los Servicios de Intercambio de Criptoactivos ofrecidos a través de las Plataformas de Intercambio de Criptoactivos Doctor Mantilla: De la manera más atenta y en armonía con lo estipulado en los artículos 139 y 140 de la Ley 5 de 1992, presento a consideración de la Cámara de Representantes el Proyecto de Ley Por la cual se regulan los Servicios de Intercambio de Criptoactivos ofrecidos a través de las Plataformas de Intercambio de Criptoactivos, iniciativa legislativa que cumple las disposiciones correspondientes al orden de redacción consagradas en el artículo 145 de la citada Ley.
+Agradezco disponer el trámite legislativo previsto en el artículo 144 del Reglamento.
+Cordialmente, MAURICIO TORO OREJUELA RODRIGO ARTURO ROJAS Representante a la Cámara Representante a la Cámara.
+CONGRESO DELA REPÚBLICA I DE COLOMBIA Proyecto de Ley No.de 2021 Por la cual se regulan los Servicios de Intercambio de Criptoactivos ofrecidos a través de las Plataformas de Intercambio de Criptoactivos El Congreso de Colombia DECRETA: CAPÍTULO I DISPOSICIONES GENERALES Artículo 1.
+Objeto.
+La presente ley tiene por objeto definir los aspectos generales de la operación y funcionamiento de los Prestadores de Servicios de Intercambio de Criptoactivos en el territorio colombiano a través de las Plataformas de Intercambio de Criptoactivos PICO.
+¿Artículo 2?, Definiciones.
+Para efectos de la presente ley, en singular o plural, se entiende que: a. Criptoactivo: Son activos virtuales con susceptibilidad de ser usados como medio de intercambio de bienes y servicios.
+No son considerados como moneda de curso legal, ni divisas, ni títulos representativos de moneda de curso legal.
+b. Repositorios de Almacenamiento: Son los medios virtuales en los cuales se almacenan las llaves de cifrado públicas y privadas.
+c. Servicios de Intercambio de Criptoactivos: Son los siguientes servicios: La Administración de plataformas de intercambio de criptoactivos.
+Provisión de servicios de custodia yo almacenamiento de el criptoactivo.
+Intercambio o transferencia entre criptoactivos y moneda fiduciaria, o entre uno o más criptoactivos.
+Los servicios complementarios o análogos relacionados con los numerales i, ii y iii.
+d. Plataforma de Intercambio de Criptoactivos PICO: Son aplicaciones o interfaces informáticas, páginas de Internet o cualquier otro medio de.
+CONGRESO Il. DELA REPÚBLICA 1 DE COLOMBIA comunicación electrónica o digital a través de las cuales se brindan los Servicios de Intercambio de Criptoactivos.
+e. Prestador de Servicios de Intercambio de Criptoactivos: Es una persona jurídica nacional o una sucursal de sociedad extranjera, encargada de operar, administrar y garantizar el funcionamiento de la PICO, efectuar el registro ante la Cámara de Comercio de su domicilio principal y responsable del cumplimiento de las obligaciones contenidas en la presente Ley.
+f. Registro Único de Plataformas de Intercambio de Criptoactivos RUPIA: Es un registro público electrónico administrado por las Cámaras de Comercio cuyo objetivo es permitir que cualquier persona pueda acceder a la información que se encuentre publicada en dicho registro, y verificar que los Prestadores de Servicios de Intercambio de Criptoactivos como titulares se encuentren debidamente registrados.
+g. Manual de Operaciones de las PICO: Documento que contiene los requisitos y parámetros internos de las PICO para la prestación de Servicios de Intercambio de Criptoactivos de acuerdo con lo establecido en la presente Ley.
+Artículo 3, Autonomía de negociación: Los criptoactivos son negociables directamente por sus propietarios.
+El funcionamiento de los distintos criptoactivos, sus reglas, valores y demás aspectos propios de los criptoactivos no son parte del alcance y objetivos de la presente Ley, y pertenecen al ámbito privado de los usuarios, que basándose en principios de libre mercado y de libre competencia, deben procurar por informarse de los riesgos inherentes a la negociación con activos de cualquier clase.
+Artículo 4.
+Requisitos.
+Los Prestadores de Servicios de Intercambio de Criptoactivos, nacionales o extranjeros, deben dar cumplimiento a los siguientes requisitos: a.
+Estar constituido como sociedad comercial domiciliada en el territorio nacional o como sucursal de una sociedad extranjera, y estar debidamente inscrito en el registro mercantil.
+Contemplar como objeto social exclusivo la realización de las actividades calificadas como Servicios de Intercambio de Criptoactivos.
+c. Establecer y mantener un programa de seguridad informática que asegure la disponibilidad y funcionalidad de sus sistemas informáticos, protegiendo dichos sistemas y toda información almacenada en los mismos, del acceso, uso y manipulación no autorizado, lo anterior de conformidad a las instrucciones que.
+¡CONGRESO I DELA REPÚBLICA!
+DE COLOMBIA para el efecto imparta el Ministerio de Tecnologías de la Información y las Comunicaciones.
+d. Adoptar medidas de control orientadas a detectar y prevenir el lavado de activos y la financiación del terrorismo, de conformidad con el artículo 8 de la presente Ley.
+Registrarse en el RUPIA ante la Cámara de Comercio de su domicilio principal indicando las PICO de la que es titular, el dominio web y la información que determine el Ministerio de Tecnologías de la Información y las Comunicaciones.
+f. Reportar a la Unidad de Información y Análisis Financiero la información que de manera general o particular le sea requerida, en los términos de la Ley 526 de 1999, y aquellas que le modifiquen, y deberán reportar las operaciones inusuales o sospechosas.
+g. Dar cumplimiento a las normas de protección de datos personales contenidos en la Ley 1581 de 2012 y disposiciones complementarias.
+h. Implementar medidas de Conocimiento del Cliente y de Debida Diligencia de Cliente.
+I Contar con un Manual de Operaciones para el funcionamiento de las PICO que administre, aprobado por el Ministerio de Tecnologías de la Información y Comunicaciones.
+Parágrafo.
+El régimen sancionatorio aplicable para quienes incumplan con los requisitos contemplados en el presente artículo corresponde al dispuesto en el artículo 65 de la Ley 1341 de 2009, sin perjuicio de las sanciones que pueden ser impuestas por la infracción de otros regímenes legales.
+Artículo 52.
+Divulgación de información sobre riesgos.
+Los prestadores de servicios de plataformas de intercambio de Criptoactivos, al momento de establecer relación contractual con los Consumidores, deben revelar en forma clara y escrita, en idioma español, todos los riesgos materiales asociados con sus servicios y con los Criptoactivos en general, incluyendo como mínimo lo siguiente: a.
+Los Criptoactivos no son considerados moneda de curso legal.
+Las transacciones con Criptoactivos son irreversibles, y en consecuencia, las pérdidas derivadas a sus operaciones, no son recuperables.
+c. Las transacciones con Criptoactivos únicamente se consideran efectuadas cuando estas han quedado anotadas en un registro público, que no necesariamente coinciden con la fecha y hora en que el Consumidor inicie la transacción. E.
+CONGRESO DELA REPÚBLICA I DE COLOMBIA d. El valor de los Criptoactivos depende de la oferta y demanda en el mercado de cada tipo de criptoactivo.
+La volatilidad e imprevisibilidad del precio de los distintos Criptoactivos pueden resultar en ganancias o pérdidas significativas, parciales o totales, en cualquier periodo de tiempo determinado.
+Las funciones de supervisión estatal ejercidas por las autoridades sobre los intervinientes en la operación a través de las plataformas, no implican certificación o garantía sobre los riesgos inherentes a las operaciones con Criptoactivos incluidas en el presente artículo, ni sobre la solvencia o validación de los distintos intervinientes en la operación.
+Parágrafo: Los prestadores de servicios de plataformas de intercambio deberán dar cumplimiento a las obligaciones establecidas en el artículo 50 de la Ley 1480 de 2011, en lo que resulte aplicable a las operaciones de intercambio de Criptoactivos.
+Artículo 62.
+Registro Único de Plataformas de Intercambio de Criptoactivos RUPIA.
+Créase el Registro Único de Plataformas de Intercambio de Criptoactivos RUPIA, el cual tiene por objeto inscribir a los prestadores de servicios de plataformas de intercambio de Criptoactivos y a todas las PICO que presten los servicios establecidos en el artículo 2 de la presente ley.
+Artículo 72.
+Competencia de las Cámaras de Comercio.
+El Registro Único de Plataformas de Intercambio de Criptoactivos RUPIA será administrado por las Cámaras de Comercio quienes llevarán el registro de los Prestadores de Servicios de Intercambio de Criptoactivos.
+El Ministerio de Tecnologías de la Información y las Comunicaciones determinará la información que debe registrarse en el RUPIA.
+Parágrafo: Para el registro de un Prestador de Servicios de Intercambio de Criptoactivos en el RUPIA, el solicitante debe cancelar el valor de la tarifa de registro en la Cámara de Comercio de su domicilio principal.
+Artículo 8, Sistema de detección y prevención.
+Los Prestadores de Servicios de Intercambio de Criptoactivos deben adoptar medidas para detectar y prevenir actividades delictivas.
+Para este objeto, los Prestadores de Servicios de Intercambio de Criptoactivos deben adoptar unos Sistemas de Administración de Riesgo de Lavado de Activos y Financiación del Terrorismo SALA, en consonancia con los criterios y parámetros mínimos exigidos en el literal e del numeral 2 del artículo 102 del Estatuto.
+CONGRESO Il. DELA REPÚBLICA 1 DE COLOMBIA Orgánico del Sistema Financiero y con las principales recomendaciones internacionales.
+Parágrafo: El Gobierno Nacional reglamentará la materia dentro de los seis 6 meses siguientes a la entrada en vigencia de la presente Ley.
+Artículo 9.
+Limitaciones.
+Los Prestadores de Servicios de Intercambio de Criptoactivos tienen prohibido: a.
+Ofrecer o pagar a los consumidores intereses o cualquier otro rendimiento o beneficio monetario por el saldo que estos acumulen en el tiempo o mantengan o por cualquier operación directa o indirectamente relacionada con él o intercambio que realicen con los criptoactivos.
+Transferir a cualquier título, prestar o gravar los Criptoactivos o cualquier otro recurso de propiedad de los consumidores, almacenado por el Prestador de Servicios de Intercambio de Criptoactivos, sin que medie autorización expresa del consumidor.
+c. Desarrollar toda clase de actividad comercial de mercadeo en red o multinivel con criptoactivos, así como la intermediación financiera de los mismos.
+Igualmente, los administradores o prestadores de servicios de plataformas de intercambio de criptoactivos no podrán permitir que en sus plataformas se lleve a cabo la distribución mercantil de criptoactivos mediante actividades de mercadeo en red o multinivel o similares.
+d. Abstenerse de realizar cualquier conducta que lleve a la captación masiva y habitual del público que implique adicionalmente la ausencia de contraprestación en bienes o servicios presentes o futuros que la justifiquen o, aun existiendo tal contraprestación, no cuente con explicación financiera razonable.
+Artículo 10.
+Programa.
+Los Prestadores de Servicios de Intercambio de Criptoactivos deben establecer y mantener un programa de seguridad informática que garantice la disponibilidad y funcionalidad de los sistemas informáticos utilizados en la prestación de los Servicios de Intercambio de Criptoactivos, protegiendo los sistemas y los datos almacenados en estos del acceso no autorizado, uso o manipulación indebida.
+La política de seguridad informática debe abordar, como mínimo, lo siguiente: a.
+Seguridad de la información y de los sistemas informáticos.
+Controles de Acceso.
+c. Privacidad de la información y protección de datos personales en los términos de la Ley 1581 de 2012 y sus disposiciones complementarias. E.
+CONGRESO DELA REPÚBLICA I DE COLOMBIA d. Planeación de capacidad y rendimiento.
+Control y monitoreo de los cambios implementados en los servicios prestados por los proveedores, si resulta aplicable.
+Parágrafo: El Ministerio de Tecnologías de la Información y las Comunicaciones reglamentará la materia en el término de seis 6 meses contados a partir de la entrada en vigencia de la presente Ley.
+Artículo 11, Informes.
+¿Los Prestadores de Servicios de Intercambio de Criptoactivos deben presentar al Ministerio de Tecnologías de la Información y las Comunicaciones, un informe anual evaluando la disponibilidad, funcionalidad e integridad de los sistemas informáticos utilizados para la prestación de los Servicios de Intercambio de Criptoactivos, identificando los riesgos informáticos relevantes y evaluando la política de seguridad informática del Prestador de Servicios de Intercambio de Criptoactivos Artículo 12?.
+Manual de Operaciones.
+Los Prestadores de Servicios de Intercambio de Criptoactivos deben contar con un manual de operaciones en el cual se establezcan las normas de funcionamiento de la PICO de la que es administrador.
+Este manual debe contemplar como mínimo lo siguiente: a.
+Proceso de verificación de consumidores.
+Proceso de verificación y aprobación de depósitos y retiros.
+c. Canales de Atención y comunicación de los consumidores.
+d. Criterios para determinar los Criptoactivos disponibles para los consumidores en la PICO.
+Parágrafo: El Ministerio de Tecnologías de la Información y Comunicaciones contará con un término de dos 2 meses para decidir sobre la aprobación del manual.
+Artículo 13, Inspección, Vigilancia y Control del Ministerio de Tecnologías de la Información y las Comunicaciones.
+Corresponde al Ministerio de Tecnologías de la Información y las Comunicaciones ejercer la inspección, vigilancia y control sobre los Prestadores de Servicios de Intercambio de Criptoactivos, sin perjuicio de las competencias atribuidas por ley a otras autoridades.
+Artículo 14, Vigencia.
+La presente ley rige a partir de la fecha de su promulgación y deroga todas las disposiciones que le sean contrarias. E.
+¡CONGRESO I DELA REPÚBLICA!
+DE COLOMBIA Generalidades El presente proyecto de ley Por el cual se regulan los Servicios de Intercambio de Cripto activos ofrecidos a través de las Plataformas de Intercambio de Cripto activos propone establecer un marco normativo y regulatorio en Colombia que pretende definir y regular los servicios de intercambio de cripto activos.
+Esto con el fin de solventar un vacío jurídico alrededor de estas transacciones, que promueva mercados que se desarrollan a partir de la cuarta revolución industrial y que permita prevenir el uso malintencionado de estas transacciones digitales y la financiación de actividades ilícitas.
+Criptoactivos La cuarta revolución industrial ha implicado cambios estructurales en la economía mundial; los avances en materia de desarrollo e innovaciones tecnológicas han dado paso a la emergencia de novedosos medios digitales de intercambio de activos, bienes y servicios.
+La oferta, demanda, y los respectivos medios de pago de estos bienes y servicios, han tenido un cambio estructural a partir del desarrollo de nuevas tecnologías.
+Tal es el caso de los esquemas digitales denominados Criptoactivos CA, que, operados por agentes privados, permiten transferencias de activos e información a partir de un registro público sincronizado y compartido entre todos los usuarios de dicho esquema, descentralizando la emisión, el registro, la compensación y la liquidación.
+A esto último se le denomina Tecnología de Registros Distribuidos o DLT por sus siglas en inglés.
+Estos activos son almacenados en cualquier dispositivo digital, y pueden ser transferidos de forma rápida a través de internet con alcance global.
+De igual manera, estos activos son válidos como medio de pago, depósito de valor y unidad de cuenta, pese a que carecen de otros atributos para ser catalogados como moneda.
+Su control, emisión, registro y seguimiento es ajeno a cualquier tipo de control gubernamental.
+A partir de este desarrollo tecnológico se ha creado un mercado de servicios de intercambio, de casas de cambio, custodia y negociación para sus clientes, así como la emisión y negociación de derivados financieros sobre criptoactivos, entre otros. E.
+¡CONGRESO 1 DELA REPÚBLICA!
+DE COLOMBIA Zoom la 7d Km 3 m Li VID AL From Apr 28,2013 Lo Decí, 2018 53208 20.000,00 52408 15.000,00 AS 9214 608 10.000,00 5805 55.000,00 168 0 a 24 h Vol. 0013 Aprieta FAT12 Apiris 00115 Aproa 0016 Aproa 0017 Aprisa 0018 a NYSE 014 1 016 por 2018 a mm Market Cap Price USD Price BTC 0 24 h Vol. El mercado de criptoactivos ha presentado altos niveles de crecimiento y volatilidad en los últimos 24 meses; se evidencia un aumento significativo en los volúmenes de negociación, precio y capitalización bursátil a partir de abril de 2017, alcanzando en diciembre de 2017 los mayores niveles en precio, cuando el valor unitario casi alcanzó los 20 mil dólares, capitalización bursátil que llegó a los 320 billones de dólares y aumento en el volumen de negociación hasta los 16 Billones de dólares diarios.
+A partir de la misma fecha se presentan los altos niveles de volatilidad mencionados, con caída diciembre de 2018 de un 80 en el precio, 78 en la capitalización bursátil y del 77 en los volúmenes de negociación.
+Según el Banco de la República, que cita al Banco de Pagos Internacionales y los estudios de Caroteno 2018 y Sin 2018 y como se mencionó anteriormente, aunque estos activos se presentan con capacidad de satisfacer funciones de medio de pago, depósito de valor y unidad de cuenta, en la práctica no cumplen con las características de la moneda de curso legal.
+Para el caso colombiano, son varias las fuentes informativas que indican que Colombia posee una posición relevante a nivel regional y mundial en cuanto a operaciones asociadas por CA.
+Según la BBC, las transacciones hechas con CA crecieron un 1200 en Colombia durante 2017, y de acuerdo a este mismo escalafón, nuestro país de 1 HTTPS: CoinMarketCap.concurrencias bitcointcharts9,000m 7,200 5,400 M 53,500 m 51,800 Lo Ni.
+¿CONGRESO 1 1 DELA REPÚBLICA 1 1 DE COLOMBIA encuentra en el tercer lugar solo detrás de China y Nigeria en términos de cambios en la moneda local por bitcoins y viceversa?.
+El siguiente gráfico, evidencia el crecimiento de dichas transacciones en pesos colombianos, que hoy en día puede llegar a los 9 mil millones de pesos diarios.
+Weebly LocalBitcoins Volume Colombian Peso coin. Dance 2014-04-19 2014-07-12 Coín Dance, Local Bitcoins volume in COP Por otra parte, para el año 2018, de acuerdo a los datos del sistema de manejo descentralizado de datos Blockchain, Colombia ocupó el segundo lugar, después de Argentina en el mayor volumen de operación de las cadenas de bloques en Latinoamérica, es decir los registros informáticos de los criptoactivos.
+En suma, otras fuentes provenientes de distintos portales y otras plataformas de intercambio aseguran que Colombia fue el país que más comerció con la moneda digital Bitcoin, pues registró el número de mayor volumen de operaciones de compra y venta relacionadas con dicha moneda.
+Necesidad de regulación 2 Miranda, b.
+2018, 06 de marzo.
+Cómo Colombia se convirtió en el país de América Latina en el que más crece la compra y venta de bitcoins.
+Recuperado de: HTTPS: www.bbc.commundonoticias-america-latina-43219365e.
+CONGRESO I DELA REPÚBLICA 1 DE COLOMBIA La emergencia de dichos activos digitales, especialmente como se evidenció en el caso colombiano, crea la necesidad de introducir un marco normativo y regulatorio para blindar de derechos y obligaciones a todos los agentes involucrados en estas transacciones, en los que se prevenga el lavado de activos y la financiación del terrorismo, y se procure por la legalidad en las transacciones.
+Actualmente, para el caso colombiano, no existe una normatividad orientada a regular estos servicios de intercambio, así como tampoco en lo relacionado con su organización, funcionamiento y operación, Nilo concerniente a la protección, los derechos y deberes de consumidores, inversionistas y prestadores de servicios involucrados en estas plataformas, vacío normativo que en parte, soluciona el presente proyecto de ley.
+Este vacío, crea un escenario de incertidumbre, pues la ausencia de un marco normativo y regulatorio de estas plataformas digitales da paso a situaciones adversas como su uso indebido para actividades con fines ilícitos, la desprotección al consumidor, la falta de confiabilidad, y la pérdida de potenciales beneficios a nivel económico, financiero y de innovación.
+El primero es uno de los puntos más susceptibles y controvertidos que ha motivado a varios gobiernos a establecer marcos regulatorios alrededor de estas plataformas digitales, y es el alto riesgo de propensidad de dichas plataformas de intercambio de activos para ser usados con fines ilícitos y criminales, como la evasión de impuestos, las actividades derivadas al lavado de activos y la financiación del terrorismo.
+Este proyecto de ley, en su artículo 17 y 18, establece unos lineamientos generales sobre cómo los prestadores de servicios deberán establecer mecanismos de prevención que mitiguen el uso de sus productos y servicios con fines ilícitos, además el proyecto de ley incluye otros dos acápites concernientes a la seguridad informática y lo relacionado con la inspección y vigilancia de autoridades de control, los cuales se menciona en el capítulo 7 y 8 del presente proyecto de ley.
+Por otro lado, un aspecto también relevante es la protección al consumidor, pues es uno de los puntos que más genera incertidumbre y desconfianza en el mercado de CA.
+Precisamente.
+El marco normativo que se dictamina en este proyecto de ley, regula la relación comercial entre el prestador de servicios de plataformas de intercambio de CA y sus clientes, relación que se circunscribe en lo que dictamina la Ley 1480 de 2011 referente al Estatuto del consumidor.
+La protección al consumidor es fundamental, ene.
+CONGRESO el DELA REPÚBLICA 1 DE COLOMBIA tanto a que protege al consumidor frente a esquemas fraudulentos y otro tipo de riesgos que pueden presentarse al utilizar este tipo de activos de manera desregulada.
+Otro punto clave por mencionar, que está relacionado con la ya mencionada protección al consumidor, es la falta de confiabilidad que presentan estas divisas digitales, por su vulnerabilidad en el posible uso para actividades ilícitas y la ausencia de una normatividad que respalde la perdurabilidad de sus atributos como medio de pago, como lo ha precisado el Banco de la República 2018.
+Todas estas condiciones se dan precisamente por la ausencia de un marco institucional definido que respalde su funcionamiento y perdurabilidad como medio de pago, como con el que cuentan las divisas normales emitidas por los gobiernos y sus respectivos bancos centrales.
+Este proyecto de ley le otorgaría al mercado de CA ese aspecto faltante de confiabilidad, que favorece tanto a los usuarios como a los inversionistas, así como potencializa futuras inversiones de diversos sectores en compañías de CA digitales, le da una garantía de transparencia y un cierto grado de legitimidad.
+Todo lo anterior generaría una ventana de oportunidad beneficiosa para el entorno financiero, tecnológico y de innovación del país e impulsaría el uso de tecnología blockchain, claves para no quedar rezagados nuevamente como país frente a los desarrollos tecnológicos mundiales.
+Por otra parte, y para evidenciar la escalada relevancia que han cobrado estas transacciones digitales, el Consejo Técnico de Contaduría Pública se refirió a través del concepto 472 de 2018 sobre el tratamiento contable que se le debe dar a los CA.
+El consejo asegura que si bien, los CA no son monedas, son activos que deben ser incluidos en los estados financieros de las empresas como unidad de cuenta separada, y pese a que no existe ninguna categoría de activos adecuada para categorizar estas monedas, no descarta que las Normas Internacionales de Información Financiera-NIIF establezcan alguna en el futuro.
+En ese sentido, el proyecto de ley determina en el artículo 5 y el capítulo 1 que estos activos deben seguir los parámetros de la sección 18 de las ya mencionadas NIIF para pymes para activos intangibles diferentes a la plusvalía.
+Al revisar la experiencia internacional, pese a que no existe un consenso generalizado sobre la naturaleza de los cripto activos, ni algún tipo de gobernanza o declaración por parte de organizaciones o foros internacionales al respecto 3, son varios los gobiernos 3620 y la Unión Europea han manifestado tener intenciones de impulsar un debate alrededor de la regulación internacional de las criptomonedas.
+Por otro pate, Siete países miembros de la Unión Europea firmaron una declaración conjunta para promover el uso de la tecnología de criptoactivos, como estrategia para ofrecer servicios gubernamentales y desarrollar la economía de la región LA CONGRESO DELA REPÚBLICA I DE COLOMBIA e. N que han optado por establecer marcos regulatorios en torno a los CA, pues valoran las oportunidades y potenciales de crecimiento e innovación que estos mercados digitales representan.
+Entre los países de referencia en regulación de cripto activos sobresale Canadá, Estados Unidos, Francia, Alemania, Finlandia entre otros.
+Suiza por su parte, es un caso referente a nivel mundial, pues fue capaz, desde 2014, de responder al escalamiento progresivo de los CA y de compañías y startups relacionadas que progresivamente se fueron localizando allí, las cuales, sumadas a la regulación, han generado un entorno dinámico y confiable que ha potencializado el ecosistema financiero e innovador de Suiza.
+Cordialmente, MAURICIO TORO OREJUELA RODRIGO ARTURO ROJAS Representante a la Cámara Representante a la Cámara
