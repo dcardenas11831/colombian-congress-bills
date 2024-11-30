@@ -42,6 +42,7 @@ def main():
         if st.session_state.slide < len(slides) - 1:
             if st.button("  Next  "):
                 st.session_state.slide = min(len(slides) - 1, st.session_state.slide + 1)
+	if st.session_state.slide == len(slides) - 1:
             if st.button("  Restart  "):
                 st.session_state.slide = 0
     
