@@ -7,7 +7,6 @@ import plotly.graph_objs as go
 import pandas as pd
 
 def main():
-    
     st.set_page_config(page_title="Colombian Congress Analysis", layout="wide", page_icon="./Images/colombian_flag.png")
     
     # Initialize session state for tracking slides and responses
@@ -42,12 +41,14 @@ def main():
         if st.session_state.slide < len(slides) - 1:
             if st.button("  Next  "):
                 st.session_state.slide = min(len(slides) - 1, st.session_state.slide + 1)
-    	elif st.session_state.slide == len(slides) - 1:
+                
+        elif st.session_state.slide == len(slides) - 1:
             if st.button("  Restart  "):
                 st.session_state.slide = 0
     
     # Render current slide
     slides[st.session_state.slide]()
+
 
 def slide_introduction():
     st.title("Analysing Party Positions in the Colombian Congress Bills")
