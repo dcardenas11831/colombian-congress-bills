@@ -6,6 +6,7 @@ import plotly.express as px
 import plotly.graph_objs as go
 import pandas as pd
 
+
 def main():
     st.set_page_config(page_title="Colombian Congress Analysis", layout="wide", page_icon="./Images/colombian_flag.png")
     
@@ -132,14 +133,14 @@ def slide_interactive_questions():
     st.write("Classify this three topics by how likely they are going to be attached to the government.")
 
     topic_1 = """Topic 1:
-    higher education | constitutional court | cultural heritage | social protection | animal welfare | social security | health protection | medium term | public health | public service | mental health | public credit | credit finance | animal abuse | medium tax | service provision | animal protection | tourism industry | commerce industry | constitutional ruling
+    constitutional court | social security | social protection | rural development | health protection | public health | Latin American | mental health | fundamental right | armed conflict | public force | special protection | popular election | quality of life | service provision | Colombian conservative | security system | cauca valley | final agreement | legal system
     """
     topic_2 = """Topic 2:
-    constitutional court | development environment | rural development | armed conflict | popular election | final agreement | constitutional ruling | cauca valley | climate change | agricultural development | justice administration | international law | administrative litigation | peace construction | public administration | special protection | email | criminal process | criminal coder | peace agreement
+    higher education | cultural heritage | constitutional court | public service | medium term | medium tax | department municipality | public credit | credit finance | basic education | tax compatibility | educational system | barrier function | quality education | magdalena department | tax analysis | public spending | education access | principle balance | show incompatible
     """
 
     topic_3 = """Topic 3:
-    public force | professional experience | mixed economy | industry superintendence | industry commerce | regulatory decree | public order | citizen coexistence | coexistence security | special administrative | administrative unit | executive branch | public administration | Colombian territory | scientific technician | unique exclusively | head government | service provision | public transport | public order
+    development environment | animal welfare | climate change | animal abuse | animal protection | protection well-being | healthy environment | wildlife | environmental protection | greenhouse effect | comprehensive management | agricultural development | rural development | environmental authority | tourism industry | commerce industry | human health | biological diversity | environmental conservation | suffering pain
     """
 
     position_question = "What is the position that you percieve in this topic?"
@@ -197,9 +198,9 @@ def slide_network():
 def slide_results():
     # Loading the results
     topic_positions = pd.read_csv('bills_topic_positions.csv')
-    topic_saliency = {'topic1_saliency':63.1,
-                        'topic2_saliency':32.2,
-                        'topic3_saliency':4.7}
+    topic_saliency = {'topic1_saliency':58.5,
+                        'topic2_saliency':28.1,
+                        'topic3_saliency':13.4}
     
     st.title("How well did you do?")
     st.write("Explore the topics in the next slide")
