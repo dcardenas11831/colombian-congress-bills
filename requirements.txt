@@ -3,4 +3,3 @@ numpy
 matplotlib
 plotly
 pandas
-streamlit_gsheets
